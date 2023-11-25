@@ -12,11 +12,11 @@ Como todos por aquel entonces.
 
 4
 00:01:30,612 --> 00:01:32,280
-<i>Según el ordenador, vas pasado.
+<i>Segï¿½n el ordenador, vas pasado.
 
 5
 00:01:32,656 --> 00:01:34,156
-Está controlado.
+Estï¿½ controlado.
 
 6
 00:01:34,408 --> 00:01:35,741
@@ -33,7 +33,7 @@ Está controlado.
 
 9
 00:01:48,255 --> 00:01:49,255
-¿Papá?
+ï¿½Papï¿½?
 
 10
 00:01:55,847 --> 00:01:58,348
@@ -41,7 +41,7 @@ Lo siento, Murph. Vuelve a la cama.
 
 11
 00:01:58,683 --> 00:02:01,183
-Creía que eras el fantasma.
+Creï¿½a que eras el fantasma.
 
 12
 00:02:02,811 --> 00:02:04,979
@@ -49,11 +49,11 @@ Los fantasmas no existen, cielo.
 
 13
 00:02:05,147 --> 00:02:07,189
-El abuelo dice que sí.
+El abuelo dice que sï¿½.
 
 14
 00:02:08,608 --> 00:02:11,861
-Será porque al abuelo
+Serï¿½ porque al abuelo
 le queda poco para ser uno.
 
 15
@@ -62,7 +62,7 @@ A la cama.
 
 16
 00:02:13,697 --> 00:02:15,531
-¿Otra pesadilla con el accidente?
+ï¿½Otra pesadilla con el accidente?
 
 17
 00:02:16,950 --> 00:02:19,243
@@ -70,20 +70,20 @@ Que te acuestes, Murph.
 
 18
 00:02:46,271 --> 00:02:47,938
-<i>Nos habíamos quedado sin trigo.
+<i>Nos habï¿½amos quedado sin trigo.
 
 19
 00:02:48,607 --> 00:02:50,941
-<i>Llegó la plaga y tuvimos que quemarlo.
+<i>Llegï¿½ la plaga y tuvimos que quemarlo.
 
 20
 00:02:51,777 --> 00:02:54,570
-<i>Aún nos quedaba el maíz.
-Teníamos hectáreas de maíz.
+<i>Aï¿½n nos quedaba el maï¿½z.
+Tenï¿½amos hectï¿½reas de maï¿½z.
 
 21
 00:02:54,780 --> 00:02:56,864
-Aunque lo que más teníamos era polvo.
+Aunque lo que mï¿½s tenï¿½amos era polvo.
 
 22
 00:02:59,493 --> 00:03:01,994
@@ -99,7 +99,7 @@ Esa incesante tormenta
 
 25
 00:03:08,169 --> 00:03:11,171
-<i>Llevábamos trozos de sábanas
+<i>Llevï¿½bamos trozos de sï¿½banas
 
 26
 00:03:11,422 --> 00:03:14,007
@@ -107,17 +107,17 @@ para cubrirnos la nariz y la boca
 
 27
 00:03:14,217 --> 00:03:16,802
-<i>y así no inhalarlo demasiado.
+<i>y asï¿½ no inhalarlo demasiado.
 
 28
 00:03:18,429 --> 00:03:20,847
-<i>Cuando poníamos la mesa,
-poníamos los platos
+<i>Cuando ponï¿½amos la mesa,
+ponï¿½amos los platos
 
 29
 00:03:21,057 --> 00:03:23,975
 bocabajo.
-Los vasos, las copas, todo lo poníamos
+Los vasos, las copas, todo lo ponï¿½amos
 
 30
 00:03:24,185 --> 00:03:25,352
@@ -125,7 +125,7 @@ Los vasos, las copas, todo lo poníamos
 
 31
 00:03:30,774 --> 00:03:33,025
-¡Date prisa! ¡Murph, vamos!
+ï¿½Date prisa! ï¿½Murph, vamos!
 
 32
 00:03:33,193 --> 00:03:36,654
@@ -134,8 +134,8 @@ Resistencia a Herbicidas.
 
 33
 00:03:36,822 --> 00:03:38,197
-- ¿Entendido?
-- "Sí, señor".
+- ï¿½Entendido?
+- "Sï¿½, seï¿½or".
 
 34
 00:03:39,866 --> 00:03:41,534
@@ -143,21 +143,21 @@ En la mesa no, Murph.
 
 35
 00:03:42,285 --> 00:03:44,120
-Papá, ¿me lo arreglas?
+Papï¿½, ï¿½me lo arreglas?
 
 36
 00:03:45,789 --> 00:03:48,332
-- ¿Qué le has hecho a mi módulo?
+- ï¿½Quï¿½ le has hecho a mi mï¿½dulo?
 - Yo no he sido.
 
 37
 00:03:48,500 --> 00:03:50,501
 A ver si lo adivino.
-¿Tu fantasma?
+ï¿½Tu fantasma?
 
 38
 00:03:50,669 --> 00:03:53,003
-Lo ha tirado de la estantería.
+Lo ha tirado de la estanterï¿½a.
 Me tira los libros.
 
 39
@@ -171,15 +171,15 @@ Lo he buscado. Es un poltergeist.
 
 41
 00:03:57,175 --> 00:03:58,259
-Papá, díselo.
+Papï¿½, dï¿½selo.
 
 42
 00:03:58,468 --> 00:04:00,344
-Muy científico no es, Murph.
+Muy cientï¿½fico no es, Murph.
 
 43
 00:04:01,054 --> 00:04:03,013
-¿La ciencia no explicaba
+ï¿½La ciencia no explicaba
 lo que ignoramos?
 
 44
@@ -192,23 +192,23 @@ A ver si cuidas las cosas.
 
 46
 00:04:12,607 --> 00:04:14,775
-Está bien,
-¿quieres hablar de ciencia?
+Estï¿½ bien,
+ï¿½quieres hablar de ciencia?
 
 47
 00:04:15,777 --> 00:04:19,071
 No basta decir que te asusta
-un fantasma. Hay que ir más allá.
+un fantasma. Hay que ir mï¿½s allï¿½.
 
 48
 00:04:19,239 --> 00:04:22,242
 Tienes que analizar los hechos,
-llegar al cómo y al porqué
+llegar al cï¿½mo y al porquï¿½
 
 49
 00:04:22,410 --> 00:04:25,412
 y luego exponer tus conclusiones.
-¿De acuerdo?
+ï¿½De acuerdo?
 
 50
 00:04:26,080 --> 00:04:27,497
@@ -222,7 +222,7 @@ y luego exponer tus conclusiones.
 
 52
 00:04:32,837 --> 00:04:35,255
-Tutoría con el padre,
+Tutorï¿½a con el padre,
 
 53
 00:04:35,465 --> 00:04:37,215
@@ -230,7 +230,7 @@ no con el abuelo.
 
 54
 00:04:39,510 --> 00:04:41,344
-¡Tranquilo, turbo!
+ï¿½Tranquilo, turbo!
 
 55
 00:04:42,638 --> 00:04:45,849
@@ -239,30 +239,30 @@ no con el abuelo.
 
 56
 00:04:46,017 --> 00:04:47,350
-¿La plaga?
+ï¿½La plaga?
 
 57
 00:04:47,518 --> 00:04:49,936
-Dicen que no habrá
+Dicen que no habrï¿½
 otra cosecha de ocra.
 
 58
 00:04:50,605 --> 00:04:51,771
-Jamás.
+Jamï¿½s.
 
 59
 00:04:53,691 --> 00:04:56,358
-Debería haber plantado maíz
-como los demás.
+Deberï¿½a haber plantado maï¿½z
+como los demï¿½s.
 
 60
 00:04:56,610 --> 00:04:58,944
-Sé simpático con la Profesora.
-Está soltera.
+Sï¿½ simpï¿½tico con la Profesora.
+Estï¿½ soltera.
 
 61
 00:04:59,279 --> 00:05:00,613
-¿Y? ¿Qué quieres que haga?
+ï¿½Y? ï¿½Quï¿½ quieres que haga?
 
 62
 00:05:00,780 --> 00:05:04,200
@@ -271,7 +271,7 @@ Empieza a cumplir, joven.
 
 63
 00:05:04,367 --> 00:05:07,495
-¿Por qué no empiezas a meterte
+ï¿½Por quï¿½ no empiezas a meterte
 en tus asuntos,
 
 64
@@ -289,25 +289,25 @@ Tercera.
 67
 00:05:23,595 --> 00:05:25,513
 - Vamos, gran tonta.
-- ¡Que rasque!
+- ï¿½Que rasque!
 
 68
 00:05:25,680 --> 00:05:26,680
-¡Cállate, Tom!
+ï¿½Cï¿½llate, Tom!
 
 69
 00:05:27,849 --> 00:05:30,184
-- ¿Qué has hecho, Murph?
+- ï¿½Quï¿½ has hecho, Murph?
 - No ha hecho nada.
 
 70
 00:05:30,644 --> 00:05:32,853
-- Se reventó la llanta.
+- Se reventï¿½ la llanta.
 - La Ley de Murphy.
 
 71
 00:05:33,688 --> 00:05:34,688
-¡Calla!
+ï¿½Calla!
 
 72
 00:05:34,940 --> 00:05:36,942
@@ -316,24 +316,24 @@ Tercera.
 
 73
 00:05:39,570 --> 00:05:41,071
-¡Trae el kit para llantas ponchadas!
+ï¿½Trae el kit para llantas ponchadas!
 
 74
 00:05:42,365 --> 00:05:45,534
-- ¿Y cómo voy a repararla aquí?
-- Tú sabrás.
+- ï¿½Y cï¿½mo voy a repararla aquï¿½?
+- Tï¿½ sabrï¿½s.
 
 75
 00:05:45,701 --> 00:05:47,702
-No siempre voy a estar ahí.
+No siempre voy a estar ahï¿½.
 
 76
 00:05:56,128 --> 00:05:57,963
-¿Y esa cara, Murph?
+ï¿½Y esa cara, Murph?
 
 77
 00:05:58,214 --> 00:06:01,216
-¿Por qué me pusiste
+ï¿½Por quï¿½ me pusiste
 el nombre de algo malo?
 
 78
@@ -342,7 +342,7 @@ No lo hicimos.
 
 79
 00:06:03,177 --> 00:06:04,678
-¿La Ley de Murphy?
+ï¿½La Ley de Murphy?
 
 80
 00:06:05,638 --> 00:06:09,641
@@ -351,11 +351,11 @@ que va a pasar algo malo.
 
 81
 00:06:09,976 --> 00:06:13,144
-Sino que si algo puede pasar, pasará.
+Sino que si algo puede pasar, pasarï¿½.
 
 82
 00:06:13,312 --> 00:06:15,981
-Y eso nos parecía fantástico.
+Y eso nos parecï¿½a fantï¿½stico.
 
 83
 00:06:22,320 --> 00:06:23,320
@@ -367,16 +367,16 @@ Vamos.
 
 85
 00:06:27,742 --> 00:06:29,869
-¿Y la llanta ponchada?
+ï¿½Y la llanta ponchada?
 
 86
 00:06:32,831 --> 00:06:34,164
-Sí.
+Sï¿½.
 
 87
 00:06:48,138 --> 00:06:52,100
-Un dron indio. Las células solares
-abastecerían de energía a una granja.
+Un dron indio. Las cï¿½lulas solares
+abastecerï¿½an de energï¿½a a una granja.
 
 88
 00:06:52,268 --> 00:06:53,393
@@ -384,15 +384,15 @@ Toma el volante, Tom.
 
 89
 00:06:59,400 --> 00:07:00,734
-¡Rápido!
+ï¿½Rï¿½pido!
 
 90
 00:07:02,320 --> 00:07:03,987
-Apunta hacia él.
+Apunta hacia ï¿½l.
 
 91
 00:07:11,913 --> 00:07:14,331
-Písale, Tom. Lo pierdo.
+Pï¿½sale, Tom. Lo pierdo.
 
 92
 00:07:15,041 --> 00:07:16,041
@@ -404,7 +404,7 @@ No lo pierdas.
 
 94
 00:07:20,379 --> 00:07:21,463
-Vamos allá.
+Vamos allï¿½.
 
 95
 00:07:30,431 --> 00:07:32,015
@@ -412,23 +412,23 @@ Muy bien, Tom.
 
 96
 00:07:38,522 --> 00:07:39,856
-¿Papá?
+ï¿½Papï¿½?
 
 97
 00:07:40,274 --> 00:07:43,026
-Casi lo tengo. ¡No pares!
+Casi lo tengo. ï¿½No pares!
 
 98
 00:07:43,527 --> 00:07:44,527
-¡Papá!
+ï¿½Papï¿½!
 
 99
 00:07:44,862 --> 00:07:45,946
-¡Tom!
+ï¿½Tom!
 
 100
 00:07:50,492 --> 00:07:52,826
-¡Me has dicho que no parara!
+ï¿½Me has dicho que no parara!
 
 101
 00:07:53,787 --> 00:07:55,621
@@ -436,7 +436,7 @@ Y ahora es cuando te digo lo de...
 
 102
 00:07:55,789 --> 00:07:58,207
-"¿Y si te pido
+"ï¿½Y si te pido
 que te tires por un puente?".
 
 103
@@ -446,7 +446,7 @@ que te tires por un puente?".
 
 104
 00:08:16,978 --> 00:08:18,645
-¿Quieres intentarlo?
+ï¿½Quieres intentarlo?
 
 105
 00:08:31,409 --> 00:08:32,492
@@ -454,7 +454,7 @@ Vamos.
 
 106
 00:08:33,494 --> 00:08:36,496
-Vamos a dejarlo ahí,
+Vamos a dejarlo ahï¿½,
 al borde de la reserva.
 
 107
@@ -463,34 +463,34 @@ Muy bien.
 
 108
 00:08:45,464 --> 00:08:47,298
-¿Cuánto habrá estado ahí arriba?
+ï¿½Cuï¿½nto habrï¿½ estado ahï¿½ arriba?
 
 109
 00:08:47,466 --> 00:08:50,009
-El Centro de Delhi dejó de funcionar,
+El Centro de Delhi dejï¿½ de funcionar,
 como el nuestro,
 
 110
 00:08:50,219 --> 00:08:51,720
-hace diez años.
+hace diez aï¿½os.
 
 111
 00:08:52,430 --> 00:08:54,347
-¿Entonces diez años?
+ï¿½Entonces diez aï¿½os?
 
 112
 00:08:57,476 --> 00:08:59,978
-- ¿Por qué habrá descendido tanto?
-- No lo sé.
+- ï¿½Por quï¿½ habrï¿½ descendido tanto?
+- No lo sï¿½.
 
 113
 00:09:00,187 --> 00:09:02,981
-El sol habrá fundido su ordenador
-o buscaría algo.
+El sol habrï¿½ fundido su ordenador
+o buscarï¿½a algo.
 
 114
 00:09:03,149 --> 00:09:04,149
-¿Qué?
+ï¿½Quï¿½?
 
 115
 00:09:04,316 --> 00:09:05,442
@@ -498,12 +498,12 @@ Destornillador plano.
 
 116
 00:09:05,860 --> 00:09:08,528
-¿Tal vez algún tipo de señal?
-No lo sé.
+ï¿½Tal vez algï¿½n tipo de seï¿½al?
+No lo sï¿½.
 
 117
 00:09:13,743 --> 00:09:15,243
-¿Qué vas a hacer con él?
+ï¿½Quï¿½ vas a hacer con ï¿½l?
 
 118
 00:09:16,162 --> 00:09:19,330
@@ -516,11 +516,11 @@ como controlar una cosechadora.
 
 120
 00:09:22,126 --> 00:09:23,626
-¿No podemos soltarlo?
+ï¿½No podemos soltarlo?
 
 121
 00:09:25,921 --> 00:09:27,589
-No le ha hecho daño a nadie.
+No le ha hecho daï¿½o a nadie.
 
 122
 00:09:29,258 --> 00:09:31,760
@@ -532,31 +532,31 @@ Como todos nosotros.
 
 124
 00:09:38,225 --> 00:09:41,060
-- ¿Cómo va esto? ¿Entras conmigo?
+- ï¿½Cï¿½mo va esto? ï¿½Entras conmigo?
 - Yo tengo clase.
 
 125
 00:09:41,479 --> 00:09:43,813
-Esta... Tiene que quedarse aquí.
+Esta... Tiene que quedarse aquï¿½.
 
 126
 00:09:45,399 --> 00:09:48,151
-- ¿Qué has hecho?
+- ï¿½Quï¿½ has hecho?
 - Ahora te lo van a decir.
 
 127
 00:09:48,319 --> 00:09:50,487
-- ¿Me voy a enojar?
+- ï¿½Me voy a enojar?
 - Conmigo no.
 
 128
 00:09:50,654 --> 00:09:53,823
-- Por favor, contrólate.
-- Relájate.
+- Por favor, contrï¿½late.
+- Relï¿½jate.
 
 129
 00:09:55,284 --> 00:09:56,618
-Está controlado.
+Estï¿½ controlado.
 
 130
 00:10:00,831 --> 00:10:02,165
@@ -564,26 +564,26 @@ Llegas tarde, Coop.
 
 131
 00:10:02,374 --> 00:10:03,875
-Sí, se reventó la llanta.
+Sï¿½, se reventï¿½ la llanta.
 
 132
 00:10:04,168 --> 00:10:07,587
 Y has parado en la tienda
-de aviones de combate asiáticos.
+de aviones de combate asiï¿½ticos.
 
 133
 00:10:07,880 --> 00:10:11,382
-No, en realidad, señor,
+No, en realidad, seï¿½or,
 es un dron de vigilancia.
 
 134
 00:10:11,675 --> 00:10:14,344
-Con unas increíbles células solares.
+Con unas increï¿½bles cï¿½lulas solares.
 Es indio.
 
 135
 00:10:14,804 --> 00:10:16,137
-Siéntate.
+Siï¿½ntate.
 
 136
 00:10:17,264 --> 00:10:18,765
@@ -601,7 +601,7 @@ Va a ser un excelente granjero.
 139
 00:10:24,939 --> 00:10:28,191
 Se le da bien.
-¿Qué hay de la Universidad?
+ï¿½Quï¿½ hay de la Universidad?
 
 140
 00:10:28,442 --> 00:10:32,111
@@ -614,8 +614,8 @@ Yo pago impuestos.
 
 142
 00:10:34,533 --> 00:10:36,784
-¿Dónde va el dinero?
-Ya no hay Ejército.
+ï¿½Dï¿½nde va el dinero?
+Ya no hay Ejï¿½rcito.
 
 143
 00:10:37,285 --> 00:10:39,620
@@ -627,29 +627,29 @@ Hay que ser realista.
 
 145
 00:10:42,040 --> 00:10:44,792
-¿Le está cerrando las puertas
+ï¿½Le estï¿½ cerrando las puertas
 de la Universidad?
 
 146
 00:10:45,335 --> 00:10:48,837
-- Tiene 15 años.
+- Tiene 15 aï¿½os.
 - No es lo suficientemente bueno.
 
 147
 00:10:49,922 --> 00:10:52,006
-¿Cuánto mide de cintura, 80 centímetros?
+ï¿½Cuï¿½nto mide de cintura, 80 centï¿½metros?
 
 148
 00:10:52,383 --> 00:10:54,050
-¿Y 84 de entrepierna?
+ï¿½Y 84 de entrepierna?
 
 149
 00:10:54,260 --> 00:10:56,094
-No veo dónde quieres llegar.
+No veo dï¿½nde quieres llegar.
 
 150
 00:10:56,262 --> 00:10:58,471
-¿Hacen falta dos cifras
+ï¿½Hacen falta dos cifras
 para medir su trasero
 
 151
@@ -678,7 +678,7 @@ ni aviones, sino sin comida.
 156
 00:11:17,032 --> 00:11:20,285
 El mundo necesita buenos granjeros,
-como tú.
+como tï¿½.
 
 157
 00:11:20,494 --> 00:11:22,996
@@ -687,13 +687,13 @@ como tú.
 
 158
 00:11:23,914 --> 00:11:27,750
-Somos una generación de cultivadores.
-Y las cosas están mejorando.
+Somos una generaciï¿½n de cultivadores.
+Y las cosas estï¿½n mejorando.
 
 159
 00:11:27,960 --> 00:11:31,129
-- Tus nietos podrán ser ingenie...
-- ¿Hemos terminado?
+- Tus nietos podrï¿½n ser ingenie...
+- ï¿½Hemos terminado?
 
 160
 00:11:34,175 --> 00:11:36,509
@@ -707,13 +707,13 @@ Es muy inteligente.
 
 162
 00:11:39,555 --> 00:11:41,723
-Pero últimamente ha tenido
-algún problema.
+Pero ï¿½ltimamente ha tenido
+algï¿½n problema.
 
 163
 00:11:41,891 --> 00:11:45,351
-Trajo esto para enseñárselo
-a sus compañeros. Aterrizajes lunares.
+Trajo esto para enseï¿½ï¿½rselo
+a sus compaï¿½eros. Aterrizajes lunares.
 
 164
 00:11:45,519 --> 00:11:48,022
@@ -730,7 +730,7 @@ Usamos las versiones corregidas.
 
 167
 00:11:54,529 --> 00:11:55,529
-¿Corregidas?
+ï¿½Corregidas?
 
 168
 00:11:55,780 --> 00:11:57,823
@@ -740,28 +740,28 @@ se simularon
 169
 00:11:57,991 --> 00:12:00,284
 para llevar a la ruina
-a la Unión Soviética.
+a la Uniï¿½n Soviï¿½tica.
 
 170
 00:12:06,625 --> 00:12:08,500
-¿No cree que llegamos a la Luna?
+ï¿½No cree que llegamos a la Luna?
 
 171
 00:12:09,628 --> 00:12:11,629
-Creo que fue una magnífica propaganda.
+Creo que fue una magnï¿½fica propaganda.
 
 172
 00:12:11,796 --> 00:12:14,505
-Los soviéticos
+Los soviï¿½ticos
 se arruinaron despilfarrando recursos
 
 173
 00:12:14,673 --> 00:12:16,799
-en cohetes y otras máquinas inútiles.
+en cohetes y otras mï¿½quinas inï¿½tiles.
 
 174
 00:12:17,259 --> 00:12:18,343
-"Máquinas inútiles".
+"Mï¿½quinas inï¿½tiles".
 
 175
 00:12:18,510 --> 00:12:22,513
@@ -770,45 +770,45 @@ el exceso y derroche del siglo XX,
 
 176
 00:12:22,806 --> 00:12:26,559
-hay que enseñar cosas sobre este planeta,
-no sobre cómo abandonarlo.
+hay que enseï¿½ar cosas sobre este planeta,
+no sobre cï¿½mo abandonarlo.
 
 177
 00:12:27,394 --> 00:12:31,397
-Una de esas máquinas inútiles
+Una de esas mï¿½quinas inï¿½tiles
 se llamaba IRM.
 
 178
 00:12:31,815 --> 00:12:35,068
 Y si nos quedara alguna,
-los médicos habrían detectado
+los mï¿½dicos habrï¿½an detectado
 
 179
 00:12:35,235 --> 00:12:38,988
 el quiste en el cerebro de mi mujer
-antes de que muriera y no después.
+antes de que muriera y no despuï¿½s.
 
 180
 00:12:39,198 --> 00:12:42,283
-Y habría sido ella quien estaría
+Y habrï¿½a sido ella quien estarï¿½a
 escuchando esto y no yo,
 
 181
 00:12:42,451 --> 00:12:45,536
-que sería lo ideal, porque ella tenía...
+que serï¿½a lo ideal, porque ella tenï¿½a...
 
 182
 00:12:46,163 --> 00:12:47,664
-más paciencia.
+mï¿½s paciencia.
 
 183
 00:12:48,290 --> 00:12:50,375
-Siento lo de su mujer, señor Cooper.
+Siento lo de su mujer, seï¿½or Cooper.
 
 184
 00:12:51,627 --> 00:12:55,296
 Pero Murph ha llegado a las manos
-con varios compañeros por esta...
+con varios compaï¿½eros por esta...
 
 185
 00:12:55,506 --> 00:12:57,173
@@ -816,7 +816,7 @@ bobada del Apolo.
 
 186
 00:12:57,341 --> 00:12:59,676
-Queríamos ver qué se le ocurría
+Querï¿½amos ver quï¿½ se le ocurrï¿½a
 
 187
 00:12:59,843 --> 00:13:02,596
@@ -825,16 +825,16 @@ en casa.
 
 188
 00:13:03,807 --> 00:13:06,809
-Mañana por la noche hay partido.
+Maï¿½ana por la noche hay partido.
 
 189
 00:13:07,060 --> 00:13:09,103
-Ahora le ha dado por el béisbol.
+Ahora le ha dado por el bï¿½isbol.
 
 190
 00:13:09,271 --> 00:13:11,522
 Juega su equipo favorito.
-Habrá chucherías,
+Habrï¿½ chucherï¿½as,
 
 191
 00:13:11,690 --> 00:13:13,524
@@ -846,7 +846,7 @@ Creo que la voy a llevar.
 
 193
 00:13:23,785 --> 00:13:25,035
-¿Cómo salió?
+ï¿½Cï¿½mo saliï¿½?
 
 194
 00:13:25,954 --> 00:13:27,871
@@ -854,12 +854,12 @@ He hecho que te expulsen.
 
 195
 00:13:28,248 --> 00:13:29,581
-<i>- ¿Qué?
+<i>- ï¿½Quï¿½?
 - Cooper.
 
 196
 00:13:31,334 --> 00:13:32,501
-Aquí Cooper.
+Aquï¿½ Cooper.
 
 197
 00:13:32,711 --> 00:13:35,462
@@ -872,7 +872,7 @@ Resetea los controles.
 
 199
 00:13:38,216 --> 00:13:40,801
-<i>Ya lo he hecho. Deberías venir.
+<i>Ya lo he hecho. Deberï¿½as venir.
 
 200
 00:14:00,571 --> 00:14:03,573
@@ -880,11 +880,11 @@ Una tras otra han echado a correr.
 
 201
 00:14:03,782 --> 00:14:05,616
-Algo interfiere con la brújula.
+Algo interfiere con la brï¿½jula.
 
 202
 00:14:07,077 --> 00:14:09,495
-Algún campo magnético
+Algï¿½n campo magnï¿½tico
 o algo por el estilo.
 
 203
@@ -893,12 +893,12 @@ Los libros no tienen nada de especial.
 
 204
 00:14:54,751 --> 00:14:57,002
-He estado estudiándolo, como dijiste.
+He estado estudiï¿½ndolo, como dijiste.
 
 205
 00:14:57,754 --> 00:15:00,255
 - He contado los huecos.
-- ¿Por?
+- ï¿½Por?
 
 206
 00:15:02,300 --> 00:15:04,385
@@ -911,55 +911,55 @@ He probado con el Morse.
 
 208
 00:15:07,305 --> 00:15:08,555
-¿Morse?
+ï¿½Morse?
 
 209
 00:15:08,890 --> 00:15:09,972
-Sí.
+Sï¿½.
 
 210
 00:15:10,391 --> 00:15:12,892
 - Puntos y rayas.
-- Sé lo que es el código Morse.
+- Sï¿½ lo que es el cï¿½digo Morse.
 
 211
 00:15:13,185 --> 00:15:16,104
-No creo que la estantería
+No creo que la estanterï¿½a
 intente hablar contigo.
 
 212
 00:15:27,658 --> 00:15:31,662
-He reseteado todas las brújulas
-y los GPS para corregir la anomalía.
+He reseteado todas las brï¿½julas
+y los GPS para corregir la anomalï¿½a.
 
 213
 00:15:32,372 --> 00:15:34,915
-- ¿Que es...?
-- No lo sé.
+- ï¿½Que es...?
+- No lo sï¿½.
 
 214
 00:15:36,668 --> 00:15:38,877
 Si la casa estuviera
-sobre un mineral magnético
+sobre un mineral magnï¿½tico
 
 215
 00:15:39,045 --> 00:15:42,131
-lo habríamos notado
-nada más arrancar el tractor.
+lo habrï¿½amos notado
+nada mï¿½s arrancar el tractor.
 
 216
 00:15:44,759 --> 00:15:47,928
-He oído que la reunión en el instituto
-no ha ido muy allá.
+He oï¿½do que la reuniï¿½n en el instituto
+no ha ido muy allï¿½.
 
 217
 00:15:49,264 --> 00:15:50,264
-¿Has oído?
+ï¿½Has oï¿½do?
 
 218
 00:15:51,224 --> 00:15:54,059
-Es como si hubiéramos olvidado
-quiénes somos.
+Es como si hubiï¿½ramos olvidado
+quiï¿½nes somos.
 
 219
 00:15:55,728 --> 00:15:59,231
@@ -968,17 +968,17 @@ no "cultivadores".
 
 220
 00:16:00,942 --> 00:16:02,443
-Cuando era pequeño,
+Cuando era pequeï¿½o,
 
 221
 00:16:02,610 --> 00:16:06,613
-cada día inventaban algo nuevo.
-Algún...
+cada dï¿½a inventaban algo nuevo.
+Algï¿½n...
 
 222
 00:16:07,198 --> 00:16:10,534
 artilugio o idea.
-Como si todos los días fuera Navidad.
+Como si todos los dï¿½as fuera Navidad.
 
 223
 00:16:10,994 --> 00:16:13,662
@@ -987,7 +987,7 @@ de habitantes...
 
 224
 00:16:14,080 --> 00:16:16,081
-¡Imagina!
+ï¿½Imagina!
 
 225
 00:16:17,083 --> 00:16:20,085
@@ -995,24 +995,24 @@ Y todos queriendo tenerlo todo.
 
 226
 00:16:23,381 --> 00:16:25,382
-Este mundo no está tan mal.
+Este mundo no estï¿½ tan mal.
 
 227
 00:16:27,635 --> 00:16:29,470
-Y a Tom le irá bien.
+Y a Tom le irï¿½ bien.
 
 228
 00:16:29,721 --> 00:16:31,388
-Tú eres el que no encaja.
+Tï¿½ eres el que no encaja.
 
 229
 00:16:31,556 --> 00:16:34,391
-Naciste 40 años tarde
-o 40 años pronto.
+Naciste 40 aï¿½os tarde
+o 40 aï¿½os pronto.
 
 230
 00:16:35,393 --> 00:16:37,894
-Mi hija lo sabía. Que Dios la bendiga.
+Mi hija lo sabï¿½a. Que Dios la bendiga.
 
 231
 00:16:38,729 --> 00:16:41,564
@@ -1021,21 +1021,21 @@ Especialmente Murph.
 
 232
 00:16:41,899 --> 00:16:44,902
-Antes mirábamos hacia arriba soñando
+Antes mirï¿½bamos hacia arriba soï¿½ando
 
 233
 00:16:45,320 --> 00:16:47,946
-con qué lugar ocuparíamos
+con quï¿½ lugar ocuparï¿½amos
 entre las estrellas.
 
 234
 00:16:50,200 --> 00:16:52,451
 Ahora miramos hacia abajo
-angustiándonos
+angustiï¿½ndonos
 
 235
 00:16:52,619 --> 00:16:54,703
-con qué lugar ocuparemos
+con quï¿½ lugar ocuparemos
 entre el polvo.
 
 236
@@ -1053,13 +1053,13 @@ Lo siento.
 
 239
 00:17:04,672 --> 00:17:08,675
-¿Quién iba a imaginar que esa tierra
+ï¿½Quiï¿½n iba a imaginar que esa tierra
 que nos daba esos alimentos
 
 240
 00:17:09,135 --> 00:17:12,137
-se volvería contra nosotros
-y nos destruiría?
+se volverï¿½a contra nosotros
+y nos destruirï¿½a?
 
 241
 00:17:12,513 --> 00:17:16,516
@@ -1068,35 +1068,35 @@ el 15 de abril.
 
 242
 00:17:17,060 --> 00:17:19,603
-Serían las 13.30 cuando esa cosa
+Serï¿½an las 13.30 cuando esa cosa
 
 243
 00:17:19,938 --> 00:17:22,189
-empezó a bajar
-desde la cima de ese cañón.
+empezï¿½ a bajar
+desde la cima de ese caï¿½ï¿½n.
 
 244
 00:17:23,274 --> 00:17:25,400
 En mis tiempos
-había jugadores de verdad.
+habï¿½a jugadores de verdad.
 
 245
 00:17:25,777 --> 00:17:27,444
-¿Quiénes son estos mantas?
+ï¿½Quiï¿½nes son estos mantas?
 
 246
 00:17:27,779 --> 00:17:30,197
 En mis tiempos
-estábamos demasiado ocupados
+estï¿½bamos demasiado ocupados
 
 247
 00:17:30,365 --> 00:17:32,533
-buscando comida para jugar al béisbol.
+buscando comida para jugar al bï¿½isbol.
 
 248
 00:17:32,825 --> 00:17:35,953
-¿Palomitas en un partido,
-dónde se ha visto eso?
+ï¿½Palomitas en un partido,
+dï¿½nde se ha visto eso?
 
 249
 00:17:36,120 --> 00:17:37,329
@@ -1105,7 +1105,7 @@ Quiero un perrito.
 250
 00:17:37,622 --> 00:17:40,165
 En la escuela dicen
-qué vas a seguir mis pasos.
+quï¿½ vas a seguir mis pasos.
 
 251
 00:17:40,750 --> 00:17:41,875
@@ -1113,8 +1113,8 @@ Eso es genial.
 
 252
 00:17:42,543 --> 00:17:45,796
-- ¿"Genial" has dicho?
-- Odias la granja, papá.
+- ï¿½"Genial" has dicho?
+- Odias la granja, papï¿½.
 
 253
 00:17:46,631 --> 00:17:47,881
@@ -1122,12 +1122,12 @@ Lo dice el abuelo.
 
 254
 00:17:48,216 --> 00:17:49,800
-Conque lo dice el abuelo, ¿eh?
+Conque lo dice el abuelo, ï¿½eh?
 
 255
 00:17:50,260 --> 00:17:52,678
-Lo único que importa
-es lo que tú sientas.
+Lo ï¿½nico que importa
+es lo que tï¿½ sientas.
 
 256
 00:17:52,971 --> 00:17:54,638
@@ -1143,7 +1143,7 @@ Y lo vas a hacer genial.
 
 259
 00:18:11,990 --> 00:18:13,198
-Vámonos.
+Vï¿½monos.
 
 260
 00:18:20,748 --> 00:18:22,749
@@ -1151,15 +1151,15 @@ Es de las malas.
 
 261
 00:18:23,459 --> 00:18:25,294
-Pónganse las mascarillas.
+Pï¿½nganse las mascarillas.
 
 262
 00:18:30,008 --> 00:18:31,008
-¿Hecho?
+ï¿½Hecho?
 
 263
 00:19:24,855 --> 00:19:26,773
-¿Han cerrado las ventanas?
+ï¿½Han cerrado las ventanas?
 
 264
 00:19:53,383 --> 00:19:54,383
@@ -1184,11 +1184,11 @@ Es la gravedad.
 269
 00:21:05,496 --> 00:21:07,748
 Voy a llevar a Tom,
-luego iré a la ciudad.
+luego irï¿½ a la ciudad.
 
 270
 00:21:08,040 --> 00:21:09,708
-¿Por qué no lo limpias
+ï¿½Por quï¿½ no lo limpias
 
 271
 00:21:10,334 --> 00:21:11,918
@@ -1208,7 +1208,7 @@ Coordenadas.
 
 275
 00:21:54,963 --> 00:21:56,130
-Vamos allá.
+Vamos allï¿½.
 
 276
 00:21:57,716 --> 00:21:59,050
@@ -1216,20 +1216,20 @@ Treinta y tres.
 
 277
 00:22:02,095 --> 00:22:03,095
-Ya está.
+Ya estï¿½.
 
 278
 00:22:04,306 --> 00:22:05,806
-¡No me lo puedo perder!
+ï¿½No me lo puedo perder!
 
 279
 00:22:06,141 --> 00:22:09,310
-El abuelo volverá en un par de horas.
+El abuelo volverï¿½ en un par de horas.
 
 280
 00:22:10,103 --> 00:22:12,772
 Pero no sabes
-qué es lo que vas a encontrar.
+quï¿½ es lo que vas a encontrar.
 
 281
 00:22:13,774 --> 00:22:15,107
@@ -1241,12 +1241,12 @@ no puedes venir.
 
 283
 00:22:27,579 --> 00:22:31,081
-El abuelo volverá enseguida.
-Dile que le llamaré por radio.
+El abuelo volverï¿½ enseguida.
+Dile que le llamarï¿½ por radio.
 
 284
 00:22:39,382 --> 00:22:40,382
-¿Pero qué haces?
+ï¿½Pero quï¿½ haces?
 
 285
 00:22:41,467 --> 00:22:43,635
@@ -1254,11 +1254,11 @@ No tiene gracia.
 
 286
 00:22:43,928 --> 00:22:46,263
-No estarías aquí de no ser por mí.
+No estarï¿½as aquï¿½ de no ser por mï¿½.
 
 287
 00:22:48,140 --> 00:22:50,141
-Haz algo útil.
+Haz algo ï¿½til.
 
 288
 00:24:00,963 --> 00:24:03,298
@@ -1266,7 +1266,7 @@ Creo que ya no podemos seguir.
 
 289
 00:24:06,302 --> 00:24:08,386
-¿No has traído los cortadores?
+ï¿½No has traï¿½do los cortadores?
 
 290
 00:24:09,513 --> 00:24:10,764
@@ -1274,12 +1274,12 @@ Esa es mi hija.
 
 291
 00:24:38,335 --> 00:24:39,710
-¡Apártese de la alambrada!
+ï¿½Apï¿½rtese de la alambrada!
 
 292
 00:24:40,170 --> 00:24:43,506
-¡No dispare! No voy armado.
-Mi hija está en la camioneta.
+ï¿½No dispare! No voy armado.
+Mi hija estï¿½ en la camioneta.
 
 293
 00:24:49,012 --> 00:24:50,680
@@ -1287,33 +1287,33 @@ No tengas miedo.
 
 294
 00:25:03,527 --> 00:25:05,611
-¿Cómo ha encontrado esto?
+ï¿½Cï¿½mo ha encontrado esto?
 
 295
 00:25:06,321 --> 00:25:07,655
-¿Dónde está mi hija?
+ï¿½Dï¿½nde estï¿½ mi hija?
 
 296
 00:25:07,948 --> 00:25:10,366
-Tenía las coordenadas
+Tenï¿½a las coordenadas
 de estas instalaciones.
 
 297
 00:25:10,534 --> 00:25:11,867
-¿De dónde las ha sacado?
+ï¿½De dï¿½nde las ha sacado?
 
 298
 00:25:12,035 --> 00:25:13,369
-¿Dónde está mi hija?
+ï¿½Dï¿½nde estï¿½ mi hija?
 
 299
 00:25:13,537 --> 00:25:16,455
 No me obligue a reducirle otra vez.
-¡Siéntese!
+ï¿½Siï¿½ntese!
 
 300
 00:25:16,873 --> 00:25:18,958
-¿Todavía te crees un marine?
+ï¿½Todavï¿½a te crees un marine?
 
 301
 00:25:19,209 --> 00:25:21,794
@@ -1321,21 +1321,21 @@ Los marines ya no existen.
 
 302
 00:25:22,087 --> 00:25:25,130
-Y tengo a soldados rasos como tú
-cortándome el césped.
+Y tengo a soldados rasos como tï¿½
+cortï¿½ndome el cï¿½sped.
 
 303
 00:25:25,297 --> 00:25:26,966
-¿Cómo ha conseguido las coordenadas?
+ï¿½Cï¿½mo ha conseguido las coordenadas?
 
 304
 00:25:27,217 --> 00:25:29,885
-Aunque tú no tienes pinta
-de cortacésped.
+Aunque tï¿½ no tienes pinta
+de cortacï¿½sped.
 
 305
 00:25:30,053 --> 00:25:32,805
-Te convertiré
+Te convertirï¿½
 en una fabulosa aspiradora.
 
 306
@@ -1344,7 +1344,7 @@ Claro que no.
 
 307
 00:25:35,934 --> 00:25:37,685
-TARS, atrás, por favor.
+TARS, atrï¿½s, por favor.
 
 308
 00:25:39,187 --> 00:25:42,356
@@ -1362,7 +1362,7 @@ Es lo que el Gobierno nos da.
 
 311
 00:25:50,490 --> 00:25:51,657
-¿Quién es usted?
+ï¿½Quiï¿½n es usted?
 
 312
 00:25:52,075 --> 00:25:53,409
@@ -1370,18 +1370,18 @@ La Dra. Brand.
 
 313
 00:25:53,618 --> 00:25:55,911
-Yo conocí a un Dr. Brand.
+Yo conocï¿½ a un Dr. Brand.
 Era Profesor.
 
 314
 00:25:56,329 --> 00:26:00,624
-- ¿Qué le hace pensar que yo no lo soy?
-- Él no era tan guapo.
+- ï¿½Quï¿½ le hace pensar que yo no lo soy?
+- ï¿½l no era tan guapo.
 
 315
 00:26:01,001 --> 00:26:03,502
 Por favor, no tengo ni idea
-de qué va esto.
+de quï¿½ va esto.
 
 316
 00:26:04,337 --> 00:26:06,839
@@ -1390,51 +1390,51 @@ quiero verla.
 
 317
 00:26:07,007 --> 00:26:09,425
-Si la trae, le diré lo que quiera.
+Si la trae, le dirï¿½ lo que quiera.
 
 318
 00:26:12,804 --> 00:26:15,806
-Lleva a los jefes y a la niña
+Lleva a los jefes y a la niï¿½a
 a la sala de juntas.
 
 319
 00:26:17,142 --> 00:26:18,559
-Su hija está bien.
+Su hija estï¿½ bien.
 
 320
 00:26:19,019 --> 00:26:20,019
-Una niña muy lista.
+Una niï¿½a muy lista.
 
 321
 00:26:20,604 --> 00:26:22,438
-Tendrá una madre inteligente.
+Tendrï¿½ una madre inteligente.
 
 322
 00:26:22,606 --> 00:26:25,024
-Está claro que no quieren visitas.
+Estï¿½ claro que no quieren visitas.
 
 323
 00:26:25,233 --> 00:26:29,153
-¿Por qué no deja que demos marcha atrás
+ï¿½Por quï¿½ no deja que demos marcha atrï¿½s
 y nos largamos?
 
 324
 00:26:29,446 --> 00:26:32,031
 - No es tan sencillo.
-- Claro que sí.
+- Claro que sï¿½.
 
 325
 00:26:32,324 --> 00:26:35,993
-No sé nada de usted.
-No sé nada de este lugar.
+No sï¿½ nada de usted.
+No sï¿½ nada de este lugar.
 
 326
 00:26:36,912 --> 00:26:38,079
-Sí.
+Sï¿½.
 
 327
 00:26:43,753 --> 00:26:44,836
-¡Papá!
+ï¿½Papï¿½!
 
 328
 00:26:47,548 --> 00:26:48,548
@@ -1446,13 +1446,13 @@ Profesor Brand.
 
 330
 00:26:52,594 --> 00:26:55,179
-Explíqueme cómo ha encontrado
+Explï¿½queme cï¿½mo ha encontrado
 estas instalaciones.
 
 331
 00:26:55,388 --> 00:26:58,641
-Ha sido así como así. Por casualidad.
-Estábamos buscando...
+Ha sido asï¿½ como asï¿½. Por casualidad.
+Estï¿½bamos buscando...
 
 332
 00:26:58,850 --> 00:27:01,519
@@ -1461,8 +1461,8 @@ el secreto mejor guardado del mundo.
 
 333
 00:27:01,686 --> 00:27:05,189
-Nadie llega aquí así como así.
-Y nadie sale de aquí así como así.
+Nadie llega aquï¿½ asï¿½ como asï¿½.
+Y nadie sale de aquï¿½ asï¿½ como asï¿½.
 
 334
 00:27:05,524 --> 00:27:07,191
@@ -1474,25 +1474,25 @@ Colabora con estas personas.
 
 336
 00:27:12,072 --> 00:27:13,739
-Es difícil de explicar.
+Es difï¿½cil de explicar.
 
 337
 00:27:14,032 --> 00:27:18,327
 Hemos sacado estas coordenadas
-por una anomalía.
+por una anomalï¿½a.
 
 338
 00:27:18,870 --> 00:27:20,204
-¿Qué tipo de anomalía?
+ï¿½Quï¿½ tipo de anomalï¿½a?
 
 339
 00:27:20,372 --> 00:27:23,624
-No sé si calificarla de sobrenatural,
-científica no es.
+No sï¿½ si calificarla de sobrenatural,
+cientï¿½fica no es.
 
 340
 00:27:23,875 --> 00:27:27,711
-Tendrá que ser más concreto.
+Tendrï¿½ que ser mï¿½s concreto.
 
 341
 00:27:28,004 --> 00:27:29,171
@@ -1500,8 +1500,8 @@ Por la gravedad.
 
 342
 00:27:34,302 --> 00:27:37,137
-¿Qué clase de anomalía gravitatoria?
-¿Dónde?
+ï¿½Quï¿½ clase de anomalï¿½a gravitatoria?
+ï¿½Dï¿½nde?
 
 343
 00:27:37,389 --> 00:27:40,641
@@ -1510,26 +1510,26 @@ por la gravedad,
 
 344
 00:27:40,892 --> 00:27:43,561
-pero no diré nada
-hasta que tenga alguna garantía.
+pero no dirï¿½ nada
+hasta que tenga alguna garantï¿½a.
 
 345
 00:27:43,728 --> 00:27:45,396
-- ¿Garantía?
-- Sí.
+- ï¿½Garantï¿½a?
+- Sï¿½.
 
 346
 00:27:46,231 --> 00:27:49,692
-De que vamos a salir de aquí.
+De que vamos a salir de aquï¿½.
 Y no en la cajuela de un auto.
 
 347
 00:27:52,237 --> 00:27:54,364
-¿No sabes quiénes somos, Coop?
+ï¿½No sabes quiï¿½nes somos, Coop?
 
 348
 00:27:54,532 --> 00:27:55,782
-No, Profesor, no lo sé.
+No, Profesor, no lo sï¿½.
 
 349
 00:27:55,950 --> 00:27:57,951
@@ -1541,7 +1541,7 @@ Somos la NASA.
 
 351
 00:28:01,706 --> 00:28:03,915
-- ¿La NASA?
+- ï¿½La NASA?
 - La NASA.
 
 352
@@ -1550,7 +1550,7 @@ La NASA para la que pilotabas.
 
 353
 00:28:17,096 --> 00:28:21,098
-¿No les desmantelaron por negarse
+ï¿½No les desmantelaron por negarse
 a tirar bombas desde la estratosfera
 
 354
@@ -1564,18 +1564,18 @@ que eliminar a otros pueblos
 
 356
 00:28:25,520 --> 00:28:28,397
-no era una solución a largo plazo,
+no era una soluciï¿½n a largo plazo,
 volvieron a necesitarnos.
 
 357
 00:28:28,690 --> 00:28:30,566
 - En secreto.
-- ¿Por qué en secreto?
+- ï¿½Por quï¿½ en secreto?
 
 358
 00:28:30,901 --> 00:28:34,695
-Porque la opinión pública desaprobaría
-el gasto en exploración espacial.
+Porque la opiniï¿½n pï¿½blica desaprobarï¿½a
+el gasto en exploraciï¿½n espacial.
 
 359
 00:28:34,905 --> 00:28:37,281
@@ -1588,20 +1588,20 @@ Las plagas.
 
 361
 00:28:40,410 --> 00:28:44,246
-El trigo hace siete años.
-La ocra este año.
+El trigo hace siete aï¿½os.
+La ocra este aï¿½o.
 
 362
 00:28:45,040 --> 00:28:46,707
-Ahora solo hay maíz.
+Ahora solo hay maï¿½z.
 
 363
 00:28:47,042 --> 00:28:48,959
-Y cultivamos más que nunca.
+Y cultivamos mï¿½s que nunca.
 
 364
 00:28:49,127 --> 00:28:51,253
-Pero como pasó
+Pero como pasï¿½
 con las papas en Irlanda
 
 365
@@ -1610,7 +1610,7 @@ y con el trigo durante el Dust Bowl,
 
 366
 00:28:53,882 --> 00:28:56,383
-el maíz desaparecerá.
+el maï¿½z desaparecerï¿½.
 
 367
 00:28:57,177 --> 00:28:58,218
@@ -1636,47 +1636,47 @@ Pero es nuestro hogar.
 
 372
 00:29:17,823 --> 00:29:20,992
-La atmósfera terrestre
-es en un 80 por ciento nitrógeno.
+La atmï¿½sfera terrestre
+es en un 80 por ciento nitrï¿½geno.
 
 373
 00:29:21,244 --> 00:29:22,994
-Nosotros no respiramos nitrógeno.
+Nosotros no respiramos nitrï¿½geno.
 
 374
 00:29:23,245 --> 00:29:25,455
-La plaga sí. Y a medida que se propaga,
+La plaga sï¿½. Y a medida que se propaga,
 
 375
 00:29:25,623 --> 00:29:28,249
-el aire tiene cada vez menos oxígeno.
+el aire tiene cada vez menos oxï¿½geno.
 
 376
 00:29:28,709 --> 00:29:32,128
-Los últimos en pasar hambre
-serán los primeros en asfixiarse.
+Los ï¿½ltimos en pasar hambre
+serï¿½n los primeros en asfixiarse.
 
 377
 00:29:32,380 --> 00:29:34,464
-La generación de tu hija
+La generaciï¿½n de tu hija
 
 378
 00:29:36,008 --> 00:29:38,259
-será la última
+serï¿½ la ï¿½ltima
 que sobreviva en la Tierra.
 
 379
 00:29:38,469 --> 00:29:41,888
-Está un poco cansada.
-¿Puede echar una siesta en mi despacho?
+Estï¿½ un poco cansada.
+ï¿½Puede echar una siesta en mi despacho?
 
 380
 00:29:42,515 --> 00:29:44,015
-Sí, gracias.
+Sï¿½, gracias.
 
 381
 00:29:48,895 --> 00:29:52,398
-Ahora cuénteme cuál es su plan
+Ahora cuï¿½nteme cuï¿½l es su plan
 para salvar el mundo.
 
 382
@@ -1690,8 +1690,8 @@ Rangers.
 
 384
 00:30:03,743 --> 00:30:07,621
-Los últimos componentes
-de nuestra versátil nave en órbita:
+Los ï¿½ltimos componentes
+de nuestra versï¿½til nave en ï¿½rbita:
 
 385
 00:30:07,789 --> 00:30:08,789
@@ -1699,25 +1699,25 @@ de nuestra versátil nave en órbita:
 
 386
 00:30:08,957 --> 00:30:10,624
-Nuestra expedición final.
+Nuestra expediciï¿½n final.
 
 387
 00:30:11,376 --> 00:30:14,420
-¿Han enviado a gente
+ï¿½Han enviado a gente
 en busca de un nuevo hogar?
 
 388
 00:30:14,963 --> 00:30:16,296
-Las misiones Lázaro.
+Las misiones Lï¿½zaro.
 
 389
 00:30:16,631 --> 00:30:19,550
-- Qué alentador.
-- Lázaro regresó de entre los muertos.
+- Quï¿½ alentador.
+- Lï¿½zaro regresï¿½ de entre los muertos.
 
 390
 00:30:19,884 --> 00:30:21,802
-Sí, pero antes tuvo que morir.
+Sï¿½, pero antes tuvo que morir.
 
 391
 00:30:22,304 --> 00:30:25,307
@@ -1726,20 +1726,20 @@ compatible con la vida.
 
 392
 00:30:25,474 --> 00:30:28,351
-La estrella más cercana
-está a más de mil años de distancia.
+La estrella mï¿½s cercana
+estï¿½ a mï¿½s de mil aï¿½os de distancia.
 
 393
 00:30:28,519 --> 00:30:30,770
-Ni siquiera puede llamársele inútil.
+Ni siquiera puede llamï¿½rsele inï¿½til.
 
 394
 00:30:32,398 --> 00:30:33,690
-¿Dónde los han enviado?
+ï¿½Dï¿½nde los han enviado?
 
 395
 00:30:35,735 --> 00:30:38,403
-No puedo decirte más
+No puedo decirte mï¿½s
 a menos que aceptes
 
 396
@@ -1749,7 +1749,7 @@ pilotar esta nave.
 397
 00:30:40,656 --> 00:30:43,950
 - No hemos tenido mejor piloto.
-- Apenas salí de la estratosfera.
+- Apenas salï¿½ de la estratosfera.
 
 398
 00:30:44,326 --> 00:30:46,411
@@ -1757,42 +1757,42 @@ Este equipo no ha salido del simulador.
 
 399
 00:30:46,746 --> 00:30:50,498
-Necesitamos un piloto y esta es la misión
+Necesitamos un piloto y esta es la misiï¿½n
 para la que te prepararon.
 
 400
 00:30:50,708 --> 00:30:52,208
-¿Sin que yo lo supiera?
+ï¿½Sin que yo lo supiera?
 
 401
 00:30:53,294 --> 00:30:57,297
-Hace una hora ni siquiera sabían
+Hace una hora ni siquiera sabï¿½an
 que estaba vivo e iban a irse.
 
 402
 00:30:57,798 --> 00:30:59,424
-No teníamos elección.
+No tenï¿½amos elecciï¿½n.
 
 403
 00:30:59,592 --> 00:31:01,384
-Pero algo te ha traído hasta aquí.
+Pero algo te ha traï¿½do hasta aquï¿½.
 
 404
 00:31:01,761 --> 00:31:04,304
 - Ellos te han elegido.
-- ¿Quiénes son "ellos"?
+- ï¿½Quiï¿½nes son "ellos"?
 
 405
 00:31:12,438 --> 00:31:14,189
-¿Cuánto tiempo estaría fuera?
+ï¿½Cuï¿½nto tiempo estarï¿½a fuera?
 
 406
 00:31:14,939 --> 00:31:16,273
-Es difícil saberlo.
+Es difï¿½cil saberlo.
 
 407
 00:31:16,691 --> 00:31:17,858
-¿Años?
+ï¿½Aï¿½os?
 
 408
 00:31:18,526 --> 00:31:20,027
@@ -1800,34 +1800,34 @@ Tengo hijos, Profesor.
 
 409
 00:31:20,695 --> 00:31:22,613
-Pues sal ahí y sálvalos.
+Pues sal ahï¿½ y sï¿½lvalos.
 
 410
 00:31:26,117 --> 00:31:27,451
-¿Quiénes son ellos?
+ï¿½Quiï¿½nes son ellos?
 
 411
 00:31:27,702 --> 00:31:31,455
-Empezamos a detectar anomalías
-gravitatorias hace casi cincuenta años.
+Empezamos a detectar anomalï¿½as
+gravitatorias hace casi cincuenta aï¿½os.
 
 412
 00:31:31,790 --> 00:31:35,292
 Distorsiones en nuestros instrumentos
-en la atmósfera superior.
+en la atmï¿½sfera superior.
 
 413
 00:31:35,460 --> 00:31:38,713
-Creo que usted mismo experimentó una.
+Creo que usted mismo experimentï¿½ una.
 
 414
 00:31:39,381 --> 00:31:41,382
-Sí, en los Estrechos.
+Sï¿½, en los Estrechos.
 
 415
 00:31:42,385 --> 00:31:45,136
 Mi accidente.
-Algo desactivó el fly-by-wire.
+Algo desactivï¿½ el fly-by-wire.
 
 416
 00:31:45,471 --> 00:31:46,805
@@ -1835,11 +1835,11 @@ Exacto.
 
 417
 00:31:47,640 --> 00:31:49,808
-Pero de todas esas anomalías...
+Pero de todas esas anomalï¿½as...
 
 418
 00:31:49,975 --> 00:31:52,268
-la más significativa es esta.
+la mï¿½s significativa es esta.
 
 419
 00:31:52,478 --> 00:31:53,645
@@ -1847,16 +1847,16 @@ Cerca de Saturno,
 
 420
 00:31:54,897 --> 00:31:56,731
-una alteración del espacio-tiempo.
+una alteraciï¿½n del espacio-tiempo.
 
 421
 00:31:58,943 --> 00:32:02,112
-- ¿Eso es un agujero de gusano?
-- Apareció hace 48 años.
+- ï¿½Eso es un agujero de gusano?
+- Apareciï¿½ hace 48 aï¿½os.
 
 422
 00:32:02,404 --> 00:32:04,489
-¿Y dónde conduce?
+ï¿½Y dï¿½nde conduce?
 
 423
 00:32:05,032 --> 00:32:06,699
@@ -1865,20 +1865,20 @@ A otra galaxia.
 424
 00:32:08,119 --> 00:32:10,578
 Un agujero de gusano
-no es un fenómeno natural.
+no es un fenï¿½meno natural.
 
 425
 00:32:10,746 --> 00:32:12,163
-Alguien lo ha puesto ahí.
+Alguien lo ha puesto ahï¿½.
 
 426
 00:32:13,040 --> 00:32:14,124
-¿"Ellos"?
+ï¿½"Ellos"?
 
 427
 00:32:15,042 --> 00:32:19,045
 Y quienesquiera que sean
-parece que nos están ayudando.
+parece que nos estï¿½n ayudando.
 
 428
 00:32:19,588 --> 00:32:22,173
@@ -1886,7 +1886,7 @@ Nos permite viajar a otras estrellas.
 
 429
 00:32:22,341 --> 00:32:24,175
-Apareció cuando lo necesitábamos.
+Apareciï¿½ cuando lo necesitï¿½bamos.
 
 430
 00:32:24,343 --> 00:32:27,345
@@ -1895,19 +1895,19 @@ habitables a nuestro alcance.
 
 431
 00:32:27,513 --> 00:32:29,347
-Doce, según las primeras sondas.
+Doce, segï¿½n las primeras sondas.
 
 432
 00:32:29,807 --> 00:32:31,307
-¿Han mandado sondas?
+ï¿½Han mandado sondas?
 
 433
 00:32:32,143 --> 00:32:35,145
-Y a personas. Hace diez años.
+Y a personas. Hace diez aï¿½os.
 
 434
 00:32:36,480 --> 00:32:38,148
-Las misiones Lázaro.
+Las misiones Lï¿½zaro.
 
 435
 00:32:38,482 --> 00:32:39,983
@@ -1919,7 +1919,7 @@ doce lanzamientos de Rangers
 
 437
 00:32:42,652 --> 00:32:45,237
-con los hombres más valientes
+con los hombres mï¿½s valientes
 que hayan existido,
 
 438
@@ -1928,35 +1928,35 @@ liderados por el gran Dr. Mann.
 
 439
 00:32:48,241 --> 00:32:51,243
-Las cápsulas de aterrizaje
-tenían soporte vital para dos años.
+Las cï¿½psulas de aterrizaje
+tenï¿½an soporte vital para dos aï¿½os.
 
 440
 00:32:51,411 --> 00:32:53,413
-Pero podían hibernar para prolongarlo,
+Pero podï¿½an hibernar para prolongarlo,
 
 441
 00:32:53,581 --> 00:32:56,666
 realizando observaciones
-durante una década o más.
+durante una dï¿½cada o mï¿½s.
 
 442
 00:32:57,084 --> 00:33:00,837
-Su misión consistía en evaluar su mundo
+Su misiï¿½n consistï¿½a en evaluar su mundo
 y, si mostraba potencial,
 
 443
 00:33:01,255 --> 00:33:05,258
-nos enviarían una señal, se echarían
-a dormir y esperarían a ser rescatados.
+nos enviarï¿½an una seï¿½al, se echarï¿½an
+a dormir y esperarï¿½an a ser rescatados.
 
 444
 00:33:05,676 --> 00:33:07,844
-¿Y si no mostraba potencial?
+ï¿½Y si no mostraba potencial?
 
 445
 00:33:08,470 --> 00:33:09,804
-De ahí lo de "valientes".
+De ahï¿½ lo de "valientes".
 
 446
 00:33:10,681 --> 00:33:13,141
@@ -1965,18 +1965,18 @@ para llegar a los doce.
 
 447
 00:33:15,436 --> 00:33:18,188
-La transmisión de datos
+La transmisiï¿½n de datos
 es rudimentaria.
 
 448
 00:33:18,355 --> 00:33:20,523
-Una vez al año
+Una vez al aï¿½o
 sencillos paquetes binarios
 
 449
 00:33:20,691 --> 00:33:23,359
 nos dan pistas
-sobre qué planetas tienen potencial.
+sobre quï¿½ planetas tienen potencial.
 
 450
 00:33:23,611 --> 00:33:25,278
@@ -1985,11 +1985,11 @@ Y un sistema parece prometedor.
 451
 00:33:25,696 --> 00:33:28,281
 Uno.
-Una posibilidad bastante remota, ¿no?
+Una posibilidad bastante remota, ï¿½no?
 
 452
 00:33:29,074 --> 00:33:31,910
-¿Un sistema
+ï¿½Un sistema
 con tres planetas potenciales?
 
 453
@@ -2002,7 +2002,7 @@ Y si encontramos un hogar,
 
 455
 00:33:42,922 --> 00:33:44,088
-¿entonces qué?
+ï¿½entonces quï¿½?
 
 456
 00:33:44,298 --> 00:33:46,382
@@ -2014,17 +2014,17 @@ Hay un plan A y un plan B.
 
 458
 00:33:50,471 --> 00:33:53,431
-¿No has notado nada raro
-en la cámara de lanzamiento?
+ï¿½No has notado nada raro
+en la cï¿½mara de lanzamiento?
 
 459
 00:34:05,110 --> 00:34:08,030
-Toda esta instalación es una centrífuga.
+Toda esta instalaciï¿½n es una centrï¿½fuga.
 
 460
 00:34:08,365 --> 00:34:10,865
-Una especie de vehículo.
-¿Una estación espacial?
+Una especie de vehï¿½culo.
+ï¿½Una estaciï¿½n espacial?
 
 461
 00:34:11,200 --> 00:34:12,867
@@ -2032,11 +2032,11 @@ Las dos cosas. El plan A.
 
 462
 00:34:13,160 --> 00:34:14,786
-¿Cómo consiguen que despegue?
+ï¿½Cï¿½mo consiguen que despegue?
 
 463
 00:34:15,371 --> 00:34:19,040
-Las primeras anomalías gravitatorias
+Las primeras anomalï¿½as gravitatorias
 lo cambiaron todo.
 
 464
@@ -2046,15 +2046,15 @@ controlar la gravedad.
 
 465
 00:34:24,046 --> 00:34:26,297
-Así que empecé a trabajar en una teoría
+Asï¿½ que empecï¿½ a trabajar en una teorï¿½a
 
 466
 00:34:26,465 --> 00:34:28,716
-y empezamos a construir esta estación.
+y empezamos a construir esta estaciï¿½n.
 
 467
 00:34:29,093 --> 00:34:31,177
-Pero aún no la ha demostrado.
+Pero aï¿½n no la ha demostrado.
 
 468
 00:34:32,263 --> 00:34:33,721
@@ -2066,7 +2066,7 @@ El problema es la gravedad.
 
 470
 00:34:35,933 --> 00:34:39,018
-Cómo sacar del planeta
+Cï¿½mo sacar del planeta
 una cantidad viable de vida humana.
 
 471
@@ -2075,11 +2075,11 @@ Es un boleto de ida.
 
 472
 00:34:40,854 --> 00:34:43,356
-El plan B: Una bomba de población.
+El plan B: Una bomba de poblaciï¿½n.
 
 473
 00:34:43,607 --> 00:34:45,608
-Con más de cinco mil óvulos fecundados
+Con mï¿½s de cinco mil ï¿½vulos fecundados
 
 474
 00:34:45,776 --> 00:34:48,403
@@ -2087,7 +2087,7 @@ y que pesa menos de 900 kilos.
 
 475
 00:34:49,029 --> 00:34:50,029
-¿Cómo se desarrollarían?
+ï¿½Cï¿½mo se desarrollarï¿½an?
 
 476
 00:34:50,447 --> 00:34:53,533
@@ -2096,18 +2096,18 @@ incubamos los primeros diez.
 
 477
 00:34:53,701 --> 00:34:57,287
-Después, por subrogación,
+Despuï¿½s, por subrogaciï¿½n,
 el crecimiento se vuelve exponencial.
 
 478
 00:34:58,038 --> 00:35:01,207
-Dentro de 30 años, podríamos tener
+Dentro de 30 aï¿½os, podrï¿½amos tener
 una colonia de cientos.
 
 479
 00:35:01,500 --> 00:35:04,836
-La dificultad de la colonización
-es la diversidad genética.
+La dificultad de la colonizaciï¿½n
+es la diversidad genï¿½tica.
 
 480
 00:35:05,462 --> 00:35:06,963
@@ -2115,28 +2115,28 @@ Con esto no es un problema.
 
 481
 00:35:07,298 --> 00:35:09,632
-Sí, ¿pero y los que se quedan aquí?
+Sï¿½, ï¿½pero y los que se quedan aquï¿½?
 
 482
 00:35:10,050 --> 00:35:11,384
-¿Se les abandona?
+ï¿½Se les abandona?
 
 483
 00:35:11,969 --> 00:35:13,219
-¿Mis hijos?
+ï¿½Mis hijos?
 
 484
 00:35:13,846 --> 00:35:17,098
-Por eso el plan A es más divertido.
+Por eso el plan A es mï¿½s divertido.
 
 485
 00:35:19,393 --> 00:35:21,687
-- ¿Cuánto le falta?
-- Ya casi está.
+- ï¿½Cuï¿½nto le falta?
+- Ya casi estï¿½.
 
 486
 00:35:22,314 --> 00:35:24,815
-Me está pidiendo que deje todo en manos
+Me estï¿½ pidiendo que deje todo en manos
 
 487
 00:35:25,859 --> 00:35:27,192
@@ -2144,11 +2144,11 @@ de un "casi".
 
 488
 00:35:27,736 --> 00:35:30,070
-Te estoy pidiendo que confíes en mí.
+Te estoy pidiendo que confï¿½es en mï¿½.
 
 489
 00:35:33,116 --> 00:35:34,700
-Encuéntranos un nuevo hogar.
+Encuï¿½ntranos un nuevo hogar.
 
 490
 00:35:35,577 --> 00:35:37,578
@@ -2156,7 +2156,7 @@ Y para cuando vuelvas
 
 491
 00:35:38,120 --> 00:35:40,788
-habré solucionado
+habrï¿½ solucionado
 el problema de la gravedad.
 
 492
@@ -2165,7 +2165,7 @@ Te doy mi palabra.
 
 493
 00:35:55,971 --> 00:35:57,472
-¡Vete!
+ï¿½Vete!
 
 494
 00:36:09,568 --> 00:36:12,570
@@ -2174,11 +2174,11 @@ Vete. Si te vas a ir, vete.
 495
 00:36:15,366 --> 00:36:18,201
 Este planeta siempre
-se te ha quedado pequeño.
+se te ha quedado pequeï¿½o.
 
 496
 00:36:19,036 --> 00:36:22,789
-Que salir ahí fuera me haga sentir
+Que salir ahï¿½ fuera me haga sentir
 que es para lo que he nacido
 
 497
@@ -2191,53 +2191,53 @@ no quiere decir que me equivoque.
 
 499
 00:36:28,962 --> 00:36:30,046
-O sí.
+O sï¿½.
 
 500
 00:36:30,464 --> 00:36:33,549
 Hay cosas correctas
-que se hacen por la razón equivocada.
+que se hacen por la razï¿½n equivocada.
 
 501
 00:36:34,301 --> 00:36:36,637
-El porqué es la base.
+El porquï¿½ es la base.
 
 502
 00:36:36,805 --> 00:36:38,889
-Y la base es sólida.
+Y la base es sï¿½lida.
 
 503
 00:36:42,102 --> 00:36:46,105
-Los granjeros cada año,
+Los granjeros cada aï¿½o,
 cuando no llegan las lluvias, decimos:
 
 504
 00:36:47,357 --> 00:36:48,607
-"El año que viene".
+"El aï¿½o que viene".
 
 505
 00:36:49,275 --> 00:36:52,945
-Pues el año que viene
+Pues el aï¿½o que viene
 no nos va a salvar, ni el siguiente.
 
 506
 00:36:53,571 --> 00:36:57,574
-Este planeta es un tesoro, pero lleva años
-diciéndonos que lo abandonemos.
+Este planeta es un tesoro, pero lleva aï¿½os
+diciï¿½ndonos que lo abandonemos.
 
 507
 00:37:02,664 --> 00:37:06,416
-La humanidad nació en la Tierra,
-pero su destino no es morir aquí.
+La humanidad naciï¿½ en la Tierra,
+pero su destino no es morir aquï¿½.
 
 508
 00:37:09,545 --> 00:37:12,713
-Tom lo entenderá,
+Tom lo entenderï¿½,
 pero tienes que hablar con Murph.
 
 509
 00:37:12,923 --> 00:37:14,006
-Lo haré.
+Lo harï¿½.
 
 510
 00:37:14,925 --> 00:37:18,094
@@ -2262,7 +2262,7 @@ Cuando naciste nuestra madre
 
 515
 00:37:42,536 --> 00:37:45,037
-me dijo algo que nunca entendí.
+me dijo algo que nunca entendï¿½.
 
 516
 00:37:45,372 --> 00:37:47,039
@@ -2270,7 +2270,7 @@ Me dijo: "Ahora...
 
 517
 00:37:48,876 --> 00:37:49,877
-estamos aquí
+estamos aquï¿½
 
 518
 00:37:50,920 --> 00:37:53,380
@@ -2280,7 +2280,7 @@ de nuestros hijos...
 519
 00:37:58,511 --> 00:38:01,013
 Y creo que ahora entiendo
-lo que quería decir.
+lo que querï¿½a decir.
 
 520
 00:38:04,767 --> 00:38:08,520
@@ -2289,16 +2289,16 @@ eres el fantasma del futuro de tus hijos.
 
 521
 00:38:10,148 --> 00:38:12,316
-¿No decías
+ï¿½No decï¿½as
 que los fantasmas no existen?
 
 522
 00:38:18,781 --> 00:38:20,282
-Y así es, Murph.
+Y asï¿½ es, Murph.
 
 523
 00:38:23,495 --> 00:38:24,828
-Murph, mírame.
+Murph, mï¿½rame.
 
 524
 00:38:27,874 --> 00:38:30,375
@@ -2310,12 +2310,12 @@ Tengo que existir.
 
 526
 00:38:35,798 --> 00:38:37,715
-Me han elegido a mí.
+Me han elegido a mï¿½.
 
 527
 00:38:38,425 --> 00:38:42,386
-Me han elegido a mí. Tú lo has visto.
-Tú me has llevado hasta ellos.
+Me han elegido a mï¿½. Tï¿½ lo has visto.
+Tï¿½ me has llevado hasta ellos.
 
 528
 00:38:45,015 --> 00:38:47,517
@@ -2327,15 +2327,15 @@ He descifrado el mensaje.
 
 530
 00:38:53,273 --> 00:38:56,442
-Una palabra. ¿Sabes cuál es?
+Una palabra. ï¿½Sabes cuï¿½l es?
 
 531
 00:38:56,610 --> 00:38:58,152
-"Quédate".
+"Quï¿½date".
 
 532
 00:38:58,320 --> 00:39:01,489
-Pone "quédate", papá.
+Pone "quï¿½date", papï¿½.
 
 533
 00:39:01,657 --> 00:39:03,449
@@ -2343,13 +2343,13 @@ No me crees.
 
 534
 00:39:03,617 --> 00:39:06,870
-¡Mira los libros!
-Pone "quédate".
+ï¿½Mira los libros!
+Pone "quï¿½date".
 
 535
 00:39:07,038 --> 00:39:09,873
-¡No me estás escuchando!
-¡Pone "quédate"!
+ï¿½No me estï¿½s escuchando!
+ï¿½Pone "quï¿½date"!
 
 536
 00:39:10,375 --> 00:39:11,875
@@ -2357,16 +2357,16 @@ Voy a volver.
 
 537
 00:39:12,085 --> 00:39:13,418
-¿Cuándo?
+ï¿½Cuï¿½ndo?
 
 538
 00:39:26,432 --> 00:39:28,851
-Uno para ti y otro para mí.
+Uno para ti y otro para mï¿½.
 
 539
 00:39:29,102 --> 00:39:32,271
-Cuando esté ahí arriba
-durante el hipersueño o...
+Cuando estï¿½ ahï¿½ arriba
+durante el hipersueï¿½o o...
 
 540
 00:39:32,605 --> 00:39:35,190
@@ -2379,11 +2379,11 @@ cerca de un agujero negro...
 
 542
 00:39:38,736 --> 00:39:41,113
-el tiempo va a cambiar para mí.
+el tiempo va a cambiar para mï¿½.
 
 543
 00:39:41,281 --> 00:39:43,282
-Y va a pasar más despacio.
+Y va a pasar mï¿½s despacio.
 
 544
 00:39:44,868 --> 00:39:46,702
@@ -2395,8 +2395,8 @@ los compararemos.
 
 546
 00:39:49,372 --> 00:39:52,040
-- ¿El tiempo pasará de forma diferente?
-- Sí.
+- ï¿½El tiempo pasarï¿½ de forma diferente?
+- Sï¿½.
 
 547
 00:39:53,084 --> 00:39:56,253
@@ -2405,24 +2405,24 @@ a lo mejor tenemos la misma edad.
 
 548
 00:39:56,421 --> 00:39:57,754
-Tú y yo.
+Tï¿½ y yo.
 
 549
 00:39:58,172 --> 00:40:00,507
-¿Te imaginas?
+ï¿½Te imaginas?
 
 550
 00:40:06,388 --> 00:40:08,973
 No tienes ni idea
-de cuándo vas a volver.
+de cuï¿½ndo vas a volver.
 
 551
 00:40:10,767 --> 00:40:12,268
-¡Ni idea!
+ï¿½Ni idea!
 
 552
 00:40:15,397 --> 00:40:17,398
-Murph, no dejes que me vaya así.
+Murph, no dejes que me vaya asï¿½.
 
 553
 00:40:17,733 --> 00:40:19,234
@@ -2430,7 +2430,7 @@ Vamos, Murph.
 
 554
 00:40:19,736 --> 00:40:22,070
-No dejes que me vaya así.
+No dejes que me vaya asï¿½.
 
 555
 00:40:31,247 --> 00:40:32,581
@@ -2438,11 +2438,11 @@ Te quiero.
 
 556
 00:40:32,915 --> 00:40:34,833
-Siempre te querré. ¿Me oyes?
+Siempre te querrï¿½. ï¿½Me oyes?
 
 557
 00:40:35,293 --> 00:40:38,545
-Siempre te querré. Y voy a volver.
+Siempre te querrï¿½. Y voy a volver.
 
 558
 00:40:44,302 --> 00:40:45,636
@@ -2450,7 +2450,7 @@ Voy a volver.
 
 559
 00:41:04,030 --> 00:41:06,323
-- ¿Cómo te ha ido?
+- ï¿½Cï¿½mo te ha ido?
 - Bien.
 
 560
@@ -2467,20 +2467,20 @@ Ten cuidado.
 
 563
 00:41:18,378 --> 00:41:20,545
-Cuida de esto por mí, ¿de acuerdo?
+Cuida de esto por mï¿½, ï¿½de acuerdo?
 
 564
 00:41:20,838 --> 00:41:21,838
-¿De acuerdo?
+ï¿½De acuerdo?
 
 565
 00:41:27,387 --> 00:41:30,763
-- ¿Puedo usar tu camioneta mientras?
-- Dirás tu camioneta.
+- ï¿½Puedo usar tu camioneta mientras?
+- Dirï¿½s tu camioneta.
 
 566
 00:41:31,974 --> 00:41:33,892
-Les diré que te la traigan.
+Les dirï¿½ que te la traigan.
 
 567
 00:41:35,978 --> 00:41:37,437
@@ -2493,7 +2493,7 @@ en diez...
 
 569
 00:41:54,580 --> 00:41:55,580
-¡Papá!
+ï¿½Papï¿½!
 
 570
 00:41:55,748 --> 00:41:56,748
@@ -2501,7 +2501,7 @@ en diez...
 
 571
 00:41:56,916 --> 00:41:58,083
-¡Papá!
+ï¿½Papï¿½!
 
 572
 00:41:58,751 --> 00:41:59,751
@@ -2513,7 +2513,7 @@ en diez...
 
 574
 00:42:02,338 --> 00:42:03,588
-¡Papá!
+ï¿½Papï¿½!
 
 575
 00:42:03,881 --> 00:42:04,965
@@ -2544,7 +2544,7 @@ Iniciando programa de giro.
 
 581
 00:42:32,785 --> 00:42:35,620
-Preparados para separación
+Preparados para separaciï¿½n
 de primera etapa.
 
 582
@@ -2557,7 +2557,7 @@ Mach 1.
 
 584
 00:42:45,590 --> 00:42:49,343
-¿Todos bien? ¿Suficientes esclavos
+ï¿½Todos bien? ï¿½Suficientes esclavos
 para mi colonia de robots?
 
 585
@@ -2571,11 +2571,11 @@ Cree que nos relaja.
 
 587
 00:42:56,602 --> 00:42:59,436
-Un robot gigante sarcástico.
+Un robot gigante sarcï¿½stico.
 
 588
 00:43:00,313 --> 00:43:01,438
-¡Qué gran idea!
+ï¿½Quï¿½ gran idea!
 
 589
 00:43:01,814 --> 00:43:04,024
@@ -2584,16 +2584,16 @@ cuando bromee.
 
 590
 00:43:04,609 --> 00:43:05,734
-Estaría bien.
+Estarï¿½a bien.
 
 591
 00:43:05,943 --> 00:43:09,654
-Le ayudará a regresar a la nave
-después de que le haga salir despedido.
+Le ayudarï¿½ a regresar a la nave
+despuï¿½s de que le haga salir despedido.
 
 592
 00:43:10,740 --> 00:43:13,033
-¿A cuánto te ajustaron
+ï¿½A cuï¿½nto te ajustaron
 el sentido del humor?
 
 593
@@ -2603,7 +2603,7 @@ el sentido del humor?
 
 594
 00:43:16,287 --> 00:43:18,121
-Separación de segunda etapa.
+Separaciï¿½n de segunda etapa.
 
 595
 00:43:28,800 --> 00:43:32,677
@@ -2626,8 +2626,8 @@ Pasando a manual.
 
 599
 00:43:53,324 --> 00:43:56,827
-Atrás propulsores.
-Células de combustible 1, 2 y 3.
+Atrï¿½s propulsores.
+Cï¿½lulas de combustible 1, 2 y 3.
 
 600
 00:43:57,161 --> 00:43:58,328
@@ -2651,8 +2651,8 @@ Vamos a pasar mucho tiempo juntos.
 
 605
 00:44:17,307 --> 00:44:20,351
-- Deberíamos aprender a hablar.
-- Y saber cuándo no hacerlo.
+- Deberï¿½amos aprender a hablar.
+- Y saber cuï¿½ndo no hacerlo.
 
 606
 00:44:22,521 --> 00:44:24,188
@@ -2664,22 +2664,22 @@ No hace falta que seas tan sincera.
 
 608
 00:44:26,983 --> 00:44:29,317
-TARS, ¿cuál es tu parámetro
+TARS, ï¿½cuï¿½l es tu parï¿½metro
 de sinceridad?
 
 609
 00:44:29,694 --> 00:44:32,070
 - Noventa por ciento.
-- ¿Noventa por ciento?
+- ï¿½Noventa por ciento?
 
 610
 00:44:32,238 --> 00:44:35,115
 Ser totalmente sincero
-no siempre es lo más diplomático
+no siempre es lo mï¿½s diplomï¿½tico
 
 611
 00:44:35,283 --> 00:44:38,201
-ni lo más seguro para comunicarse
+ni lo mï¿½s seguro para comunicarse
 con seres emocionales.
 
 612
@@ -2688,7 +2688,7 @@ Noventa por ciento entonces, Dra. Brand.
 
 613
 00:44:46,627 --> 00:44:49,796
-Estamos acercándonos a la Endurance.
+Estamos acercï¿½ndonos a la Endurance.
 Doce minutos.
 
 614
@@ -2697,8 +2697,8 @@ Tomando el control.
 
 615
 00:45:12,528 --> 00:45:15,363
-Aproximándonos
-a la escotilla del módulo, 500 metros.
+Aproximï¿½ndonos
+a la escotilla del mï¿½dulo, 500 metros.
 
 616
 00:45:28,253 --> 00:45:29,420
@@ -2710,11 +2710,11 @@ Con cuidado, Doyle.
 
 618
 00:45:55,613 --> 00:45:56,947
-Esto está hecho.
+Esto estï¿½ hecho.
 
 619
 00:45:57,114 --> 00:45:58,281
-Llévanos a casa.
+Llï¿½vanos a casa.
 
 620
 00:46:06,040 --> 00:46:08,375
@@ -2732,7 +2732,7 @@ Buen trabajo.
 
 623
 00:46:44,997 --> 00:46:46,664
-La puerta no se está cargando.
+La puerta no se estï¿½ cargando.
 
 624
 00:46:46,915 --> 00:46:48,416
@@ -2740,7 +2740,7 @@ No pasa nada.
 
 625
 00:47:11,314 --> 00:47:12,857
-¿Cooper, tienes el control?
+ï¿½Cooper, tienes el control?
 
 626
 00:47:13,233 --> 00:47:14,734
@@ -2748,8 +2748,8 @@ Lo tengo.
 
 627
 00:47:16,153 --> 00:47:18,779
-<i>Comunicación
-con el módulo anular activa.
+<i>Comunicaciï¿½n
+con el mï¿½dulo anular activa.
 
 628
 00:47:32,585 --> 00:47:33,752
@@ -2757,7 +2757,7 @@ Iniciando.
 
 629
 00:47:41,302 --> 00:47:43,803
-<i>- ¿Listos para girar?
+<i>- ï¿½Listos para girar?
 - Un segundo.
 
 630
@@ -2771,7 +2771,7 @@ Muy bien, estamos listos.
 
 632
 00:48:00,906 --> 00:48:02,406
-Vamos allá.
+Vamos allï¿½.
 
 633
 00:48:31,561 --> 00:48:32,895
@@ -2783,7 +2783,7 @@ Vamos allá.
 
 635
 00:48:41,947 --> 00:48:43,948
-<i>¿Cómo les está tratando la gravedad?
+<i>ï¿½Cï¿½mo les estï¿½ tratando la gravedad?
 
 636
 00:48:44,241 --> 00:48:45,407
@@ -2791,29 +2791,29 @@ Bueno...
 
 637
 00:48:48,619 --> 00:48:50,370
-¿Romilly? ¿Estás bien?
+ï¿½Romilly? ï¿½Estï¿½s bien?
 
 638
 00:48:50,538 --> 00:48:52,038
-- Sí.
-- ¿Te encuentras bien?
+- Sï¿½.
+- ï¿½Te encuentras bien?
 
 639
 00:48:52,206 --> 00:48:53,873
-Sí, un segundo.
+Sï¿½, un segundo.
 
 640
 00:48:54,291 --> 00:48:57,418
 Creo que hay Dramamine
-en la cápsula habitacional
+en la cï¿½psula habitacional
 
 641
 00:48:57,628 --> 00:48:59,296
-o en las criocámaras. No tardo.
+o en las criocï¿½maras. No tardo.
 
 642
 00:49:00,632 --> 00:49:02,967
-- ¿Qué?
+- ï¿½Quï¿½?
 - Trae bastantes.
 
 643
@@ -2827,7 +2827,7 @@ o en las criocámaras. No tardo.
 645
 00:49:15,147 --> 00:49:18,482
 <i>- Dale recuerdos al Dr. Mann.
-- Lo haré, papá.
+- Lo harï¿½, papï¿½.
 
 646
 00:49:18,733 --> 00:49:20,734
@@ -2835,7 +2835,7 @@ o en las criocámaras. No tardo.
 
 647
 00:49:20,902 --> 00:49:24,238
-<i>Hemos calculado dos años a Saturno.
+<i>Hemos calculado dos aï¿½os a Saturno.
 
 648
 00:49:24,823 --> 00:49:26,490
@@ -2852,18 +2852,18 @@ cuando regresen.
 
 651
 00:49:33,498 --> 00:49:37,334
-<i>Un poco más viejos, un poco más sabios,
+<i>Un poco mï¿½s viejos, un poco mï¿½s sabios,
 pero felices de verlos.
 
 652
 00:49:40,172 --> 00:49:43,507
-<i>"No entres dócilmente
+<i>"No entres dï¿½cilmente
 en esa buena noche.
 
 653
 00:49:44,050 --> 00:49:48,053
-<i>La vejez debería delirar y arder
-cuando se acaba el día.
+<i>La vejez deberï¿½a delirar y arder
+cuando se acaba el dï¿½a.
 
 654
 00:49:49,389 --> 00:49:53,392
@@ -2877,12 +2877,12 @@ a la tiniebla no haga reproche,
 
 656
 00:49:59,316 --> 00:50:02,234
-<i>dado que a su verbo ningún rayo
+<i>dado que a su verbo ningï¿½n rayo
 ha confiado vigor,
 
 657
 00:50:02,611 --> 00:50:06,155
-<i>no entra dócilmente
+<i>no entra dï¿½cilmente
 en esa buena noche.
 
 658
@@ -2892,12 +2892,12 @@ contra la luz que se esconde".
 
 659
 00:50:27,802 --> 00:50:29,470
-- ¿Estás bien?
-- Sí.
+- ï¿½Estï¿½s bien?
+- Sï¿½.
 
 660
 00:50:30,388 --> 00:50:31,889
-Gracias, señor.
+Gracias, seï¿½or.
 
 661
 00:50:35,393 --> 00:50:36,727
@@ -2905,7 +2905,7 @@ Ten. Las pastillas.
 
 662
 00:50:39,481 --> 00:50:40,898
-Cuánta soledad.
+Cuï¿½nta soledad.
 
 663
 00:50:41,316 --> 00:50:43,317
@@ -2927,7 +2927,7 @@ No es como buscar piso.
 
 667
 00:50:54,579 --> 00:50:56,747
-La raza humana irá...
+La raza humana irï¿½...
 
 668
 00:50:57,207 --> 00:50:58,207
@@ -2935,7 +2935,7 @@ a la deriva
 
 669
 00:50:58,458 --> 00:51:01,961
-y buscará desesperadamente
+y buscarï¿½ desesperadamente
 una roca a la que aferrarse.
 
 670
@@ -2945,7 +2945,7 @@ Tenemos que encontrar esa roca.
 671
 00:51:04,714 --> 00:51:07,341
 Y nuestras tres posibilidades
-están al límite
+estï¿½n al lï¿½mite
 
 672
 00:51:07,509 --> 00:51:09,635
@@ -2958,29 +2958,29 @@ es el primero.
 
 674
 00:51:12,556 --> 00:51:14,723
-Laura inició
-nuestro programa de biología.
+Laura iniciï¿½
+nuestro programa de biologï¿½a.
 
 675
 00:51:19,896 --> 00:51:22,898
-- Wolf Edmunds está aquí.
-- Háblame de Edmunds.
+- Wolf Edmunds estï¿½ aquï¿½.
+- Hï¿½blame de Edmunds.
 
 676
 00:51:24,567 --> 00:51:26,485
-Wolf es físico de partículas.
+Wolf es fï¿½sico de partï¿½culas.
 
 677
 00:51:28,781 --> 00:51:30,240
-Ninguno tenía familia, ¿no?
+Ninguno tenï¿½a familia, ï¿½no?
 
 678
 00:51:32,785 --> 00:51:34,869
-Ninguna atadura. Mi padre insistió.
+Ninguna atadura. Mi padre insistiï¿½.
 
 679
 00:51:35,037 --> 00:51:38,665
-Todos sabían qué probabilidad tenían
+Todos sabï¿½an quï¿½ probabilidad tenï¿½an
 de volver a ver a un ser humano.
 
 680
@@ -2989,8 +2989,8 @@ Espero que sorprendamos a tres.
 
 681
 00:51:41,002 --> 00:51:42,919
-- ¿Y Mann?
-- ¿El Dr. Mann?
+- ï¿½Y Mann?
+- ï¿½El Dr. Mann?
 
 682
 00:51:43,087 --> 00:51:44,503
@@ -3002,16 +3002,16 @@ Once personas le han seguido
 
 684
 00:51:47,257 --> 00:51:49,967
-en el viaje más solitario
+en el viaje mï¿½s solitario
 de la historia de la humanidad.
 
 685
 00:51:50,135 --> 00:51:51,343
-Científicos, exploradores.
+Cientï¿½ficos, exploradores.
 
 686
 00:51:51,553 --> 00:51:55,556
-Es lo que me fascina. Ahí fuera
+Es lo que me fascina. Ahï¿½ fuera
 nos enfrentamos a grandes adversidades.
 
 687
@@ -3024,7 +3024,7 @@ no al mal.
 
 689
 00:52:00,812 --> 00:52:02,563
-¿No es malvada la naturaleza?
+ï¿½No es malvada la naturaleza?
 
 690
 00:52:02,981 --> 00:52:05,649
@@ -3036,7 +3036,7 @@ malvada no.
 
 692
 00:52:09,738 --> 00:52:12,865
-¿Es un león malvado
+ï¿½Es un leï¿½n malvado
 por hacer trizas a una gacela?
 
 693
@@ -3045,7 +3045,7 @@ Es lo que llevamos en la mochila.
 
 694
 00:52:15,994 --> 00:52:16,994
-Sí.
+Sï¿½.
 
 695
 00:52:17,537 --> 00:52:19,538
@@ -3054,7 +3054,7 @@ lo mejor de la humanidad.
 
 696
 00:52:19,748 --> 00:52:20,873
-¿Yo también?
+ï¿½Yo tambiï¿½n?
 
 697
 00:52:21,082 --> 00:52:22,875
@@ -3071,13 +3071,13 @@ Ten.
 
 700
 00:52:27,339 --> 00:52:30,841
-Recuerda que estás literalmente
-malgastando energía.
+Recuerda que estï¿½s literalmente
+malgastando energï¿½a.
 
 701
 00:52:38,016 --> 00:52:41,185
 TARS, repasemos la trayectoria
-una vez más.
+una vez mï¿½s.
 
 702
 00:52:41,561 --> 00:52:43,229
@@ -3099,29 +3099,29 @@ Una pregunta.
 706
 00:52:52,615 --> 00:52:56,117
 - La Dra. Brand y Edmunds...
-- ¿Por qué susurra? No le oyen.
+- ï¿½Por quï¿½ susurra? No le oyen.
 
 707
 00:52:57,661 --> 00:53:00,664
 La Dra. Brand y Edmunds.
-¿Son muy amigos?
+ï¿½Son muy amigos?
 
 708
 00:53:00,873 --> 00:53:02,123
-No sabría decirle.
+No sabrï¿½a decirle.
 
 709
 00:53:02,291 --> 00:53:05,126
-¿Es un "no sabría decirle"
+ï¿½Es un "no sabrï¿½a decirle"
 del 90 por ciento o del 10 por ciento?
 
 710
 00:53:05,336 --> 00:53:07,837
-También tengo parámetros de discreción.
+Tambiï¿½n tengo parï¿½metros de discreciï¿½n.
 
 711
 00:53:10,007 --> 00:53:11,882
-Pero no de cara de póquer, máquina.
+Pero no de cara de pï¿½quer, mï¿½quina.
 
 712
 00:53:24,604 --> 00:53:25,854
@@ -3129,16 +3129,16 @@ Hola, chicos.
 
 713
 00:53:26,690 --> 00:53:29,358
-Papá va a echar una larga siesta.
+Papï¿½ va a echar una larga siesta.
 
 714
 00:53:29,693 --> 00:53:32,528
-<i>Y quería ponerles al día.
+<i>Y querï¿½a ponerles al dï¿½a.
 
 715
 00:53:34,280 --> 00:53:36,698
 <i>La Tierra se ve impresionante
-desde aquí.
+desde aquï¿½.
 
 716
 00:53:38,410 --> 00:53:40,577
@@ -3146,12 +3146,12 @@ desde aquí.
 
 717
 00:53:42,706 --> 00:53:45,541
-<i>Espero que estén fenomenal.
+<i>Espero que estï¿½n fenomenal.
 
 718
 00:53:45,875 --> 00:53:49,878
-<i>Sé que van a recibir este mensaje.
-El Profesor Brand me lo aseguró.
+<i>Sï¿½ que van a recibir este mensaje.
+El Profesor Brand me lo asegurï¿½.
 
 719
 00:53:50,797 --> 00:53:52,172
@@ -3159,7 +3159,7 @@ El Profesor Brand me lo aseguró.
 
 720
 00:53:54,217 --> 00:53:56,469
-- ¿Es él?
+- ï¿½Es ï¿½l?
 - No creo, Murph.
 
 721
@@ -3172,7 +3172,7 @@ Hola, Murph.
 
 723
 00:54:09,150 --> 00:54:11,151
-¿Qué hace con la camioneta
+ï¿½Quï¿½ hace con la camioneta
 de mi padre?
 
 724
@@ -3191,7 +3191,7 @@ que se haya ido.
 
 727
 00:54:22,121 --> 00:54:26,124
-Si graban algún mensaje, puedo hacer
+Si graban algï¿½n mensaje, puedo hacer
 que se lo transmitan a Cooper.
 
 728
@@ -3200,7 +3200,7 @@ Murph es una mente brillante.
 
 729
 00:54:30,963 --> 00:54:33,465
-A lo mejor yo debería potenciar esa luz.
+A lo mejor yo deberï¿½a potenciar esa luz.
 
 730
 00:54:33,716 --> 00:54:36,217
@@ -3208,23 +3208,23 @@ Ya deja en evidencia a sus Profesores.
 
 731
 00:54:36,469 --> 00:54:39,303
-A lo mejor debería ir
+A lo mejor deberï¿½a ir
 a dejarle en evidencia a usted.
 
 732
 00:54:40,221 --> 00:54:43,223
-- ¿Y dónde están?
+- ï¿½Y dï¿½nde estï¿½n?
 - Camino de Marte.
 
 733
 00:54:43,933 --> 00:54:47,895
-La próxima vez que sepan de Cooper
-estarán llegando a Saturno.
+La prï¿½xima vez que sepan de Cooper
+estarï¿½n llegando a Saturno.
 
 734
 00:55:27,895 --> 00:55:31,231
 <i>Quieren que repita
-Patología Vegetal.
+Patologï¿½a Vegetal.
 
 735
 00:55:31,398 --> 00:55:32,899
@@ -3232,13 +3232,13 @@ Patología Vegetal.
 
 736
 00:55:33,400 --> 00:55:36,653
-<i>Pero podría tomar Agricultura Avanzada
-un año antes.
+<i>Pero podrï¿½a tomar Agricultura Avanzada
+un aï¿½o antes.
 
 737
 00:55:38,405 --> 00:55:42,325
-<i>Tengo que irme, papá.
-Espero que estés bien ahí arriba.
+<i>Tengo que irme, papï¿½.
+Espero que estï¿½s bien ahï¿½ arriba.
 
 738
 00:55:46,330 --> 00:55:47,747
@@ -3254,11 +3254,11 @@ Espero que estés bien ahí arriba.
 
 741
 00:55:53,379 --> 00:55:55,296
-<i>Volveré a intentarlo la próxima vez.
+<i>Volverï¿½ a intentarlo la prï¿½xima vez.
 
 742
 00:56:10,228 --> 00:56:11,728
-¿Estás bien, Rom?
+ï¿½Estï¿½s bien, Rom?
 
 743
 00:56:14,148 --> 00:56:15,816
@@ -3270,17 +3270,17 @@ Esto.
 
 745
 00:56:18,278 --> 00:56:21,029
-Unos milímetros de aluminio, nada más,
+Unos milï¿½metros de aluminio, nada mï¿½s,
 y no hay nada
 
 746
 00:56:21,406 --> 00:56:25,326
-ahí fuera en millones de kilómetros
+ahï¿½ fuera en millones de kilï¿½metros
 que no nos mate en segundos.
 
 747
 00:56:26,245 --> 00:56:28,079
-¿Sabías que algunos de los mejores
+ï¿½Sabï¿½as que algunos de los mejores
 
 748
 00:56:28,330 --> 00:56:32,166
@@ -3306,7 +3306,7 @@ Toma.
 
 753
 00:57:11,206 --> 00:57:12,957
-¿Es de la sonda de transmisión?
+ï¿½Es de la sonda de transmisiï¿½n?
 
 754
 00:57:13,500 --> 00:57:15,543
@@ -3319,7 +3319,7 @@ y al girar a su alrededor
 
 756
 00:57:18,964 --> 00:57:22,133
-recibimos imágenes de esa otra galaxia.
+recibimos imï¿½genes de esa otra galaxia.
 
 757
 00:57:22,468 --> 00:57:24,636
@@ -3336,12 +3336,12 @@ Tenemos una idea aproximada
 760
 00:57:27,848 --> 00:57:30,475
 de lo que nos vamos a encontrar
-al otro lado, ¿no?
+al otro lado, ï¿½no?
 
 761
 00:57:31,602 --> 00:57:33,478
 Desde el punto de vista
-de la navegación.
+de la navegaciï¿½n.
 
 762
 00:57:34,396 --> 00:57:38,148
@@ -3350,11 +3350,11 @@ al agujero de gusano en tres horas.
 
 763
 00:57:46,450 --> 00:57:48,201
-¿Podemos parar la rotación?
+ï¿½Podemos parar la rotaciï¿½n?
 
 764
 00:57:48,369 --> 00:57:49,369
-¿Por qué?
+ï¿½Por quï¿½?
 
 765
 00:57:49,620 --> 00:57:52,163
@@ -3371,7 +3371,7 @@ Gracias.
 
 768
 00:58:01,924 --> 00:58:03,925
-¡Ese es el agujero de gusano!
+ï¿½Ese es el agujero de gusano!
 
 769
 00:58:04,176 --> 00:58:05,843
@@ -3383,7 +3383,7 @@ Es una esfera.
 
 771
 00:58:07,721 --> 00:58:11,641
-Pues claro. ¿Te esperabas un agujero?
+Pues claro. ï¿½Te esperabas un agujero?
 
 772
 00:58:12,851 --> 00:58:15,937
@@ -3393,16 +3393,16 @@ que he visto...
 773
 00:58:16,480 --> 00:58:19,565
 Las ilustraciones tratan de mostrar
-cómo funciona.
+cï¿½mo funciona.
 
 774
 00:58:20,275 --> 00:58:24,112
 Digamos que quieres ir
-desde aquí hasta aquí,
+desde aquï¿½ hasta aquï¿½,
 
 775
 00:58:24,446 --> 00:58:25,947
-pero está demasiado lejos.
+pero estï¿½ demasiado lejos.
 
 776
 00:58:27,199 --> 00:58:29,367
@@ -3411,11 +3411,11 @@ Un agujero de gusano pliega el espacio
 777
 00:58:29,535 --> 00:58:31,953
 para que puedas tomar un atajo
-a través de...
+a travï¿½s de...
 
 778
 00:58:32,287 --> 00:58:33,788
-una dimensión superior.
+una dimensiï¿½n superior.
 
 779
 00:58:35,833 --> 00:58:39,752
@@ -3425,11 +3425,11 @@ tridimensional en dos dimensiones,
 780
 00:58:39,920 --> 00:58:43,840
 lo cual convierte el agujero de gusano
-en dos dimensiones, un círculo.
+en dos dimensiones, un cï¿½rculo.
 
 781
 00:58:44,049 --> 00:58:46,300
-¿Qué es un círculo en tres dimensiones?
+ï¿½Quï¿½ es un cï¿½rculo en tres dimensiones?
 
 782
 00:58:47,511 --> 00:58:49,012
@@ -3438,21 +3438,21 @@ en dos dimensiones, un círculo.
 
 783
 00:58:49,430 --> 00:58:50,930
-Un agujero esférico.
+Un agujero esfï¿½rico.
 
 784
 00:58:51,265 --> 00:58:54,268
-¿Pero quién lo ha puesto ahí?
-¿A quién se lo agradecemos?
+ï¿½Pero quiï¿½n lo ha puesto ahï¿½?
+ï¿½A quiï¿½n se lo agradecemos?
 
 785
 00:58:54,728 --> 00:58:58,731
 Yo, a nadie. Hasta que salgamos
-de aquí sanos y salvos.
+de aquï¿½ sanos y salvos.
 
 786
 00:59:06,363 --> 00:59:08,030
-¿Algún truco para esto, Doyle?
+ï¿½Algï¿½n truco para esto, Doyle?
 
 787
 00:59:09,533 --> 00:59:11,034
@@ -3460,7 +3460,7 @@ No que se sepa.
 
 788
 00:59:18,167 --> 00:59:19,834
-Los otros lo lograron, ¿no?
+Los otros lo lograron, ï¿½no?
 
 789
 00:59:21,879 --> 00:59:23,546
@@ -3468,7 +3468,7 @@ Al menos algunos.
 
 790
 00:59:55,496 --> 00:59:58,664
-¿Preparados para despedirse
+ï¿½Preparados para despedirse
 de nuestro sistema solar?
 
 791
@@ -3477,11 +3477,11 @@ De nuestra galaxia.
 
 792
 01:00:03,545 --> 01:00:04,545
-Vamos allá.
+Vamos allï¿½.
 
 793
 01:00:37,121 --> 01:00:40,623
-Los controles no funcionan aquí.
+Los controles no funcionan aquï¿½.
 Estamos atravesando el bulk.
 
 794
@@ -3494,7 +3494,7 @@ Solo pueden tomar nota y observar.
 
 796
 01:00:56,431 --> 01:00:57,431
-¿Qué es eso?
+ï¿½Quï¿½ es eso?
 
 797
 01:00:59,977 --> 01:01:01,644
@@ -3506,15 +3506,15 @@ Distorsionando el espacio-tiempo.
 
 799
 01:01:06,024 --> 01:01:07,024
-¡No!
+ï¿½No!
 
 800
 01:01:35,013 --> 01:01:36,263
-¿Qué ha sido eso?
+ï¿½Quï¿½ ha sido eso?
 
 801
 01:01:39,267 --> 01:01:40,767
-El primer apretón de manos.
+El primer apretï¿½n de manos.
 
 802
 01:01:42,478 --> 01:01:43,478
@@ -3530,12 +3530,12 @@ Han entrado los mensajes perdidos.
 
 805
 01:02:09,213 --> 01:02:12,048
-- ¿Cómo?
-- La sonda los había almacenado.
+- ï¿½Cï¿½mo?
+- La sonda los habï¿½a almacenado.
 
 806
 01:02:12,299 --> 01:02:15,801
-Años de datos básicos,
+Aï¿½os de datos bï¿½sicos,
 ninguna sorpresa.
 
 807
@@ -3545,12 +3545,12 @@ al igual que el Dr. Mann.
 
 808
 01:02:20,474 --> 01:02:22,808
-Edmunds no envía nada
-desde hace tres años.
+Edmunds no envï¿½a nada
+desde hace tres aï¿½os.
 
 809
 01:02:22,976 --> 01:02:24,310
-¿Un fallo de transmisión?
+ï¿½Un fallo de transmisiï¿½n?
 
 810
 01:02:24,478 --> 01:02:27,313
@@ -3559,24 +3559,24 @@ hasta entonces.
 
 811
 01:02:27,481 --> 01:02:29,315
-El planeta de Miller promete, ¿no?
+El planeta de Miller promete, ï¿½no?
 
 812
 01:02:29,691 --> 01:02:30,983
-Porque se acerca rápido.
+Porque se acerca rï¿½pido.
 
 813
 01:02:32,152 --> 01:02:34,237
-Con una complicación.
+Con una complicaciï¿½n.
 
 814
 01:02:34,655 --> 01:02:37,658
-Está mucho más cerca de Gargantúa
-de lo que pensábamos.
+Estï¿½ mucho mï¿½s cerca de Gargantï¿½a
+de lo que pensï¿½bamos.
 
 815
 01:02:37,825 --> 01:02:40,369
-- ¿Gargantúa?
+- ï¿½Gargantï¿½a?
 - Lo que llamamos el agujero negro.
 
 816
@@ -3586,18 +3586,18 @@ lo orbitan.
 
 817
 01:02:42,997 --> 01:02:45,249
-¿Y el de Miller está en el horizonte
+ï¿½Y el de Miller estï¿½ en el horizonte
 de sucesos?
 
 818
 01:02:45,416 --> 01:02:48,543
-Como un balón sobre el aro.
+Como un balï¿½n sobre el aro.
 Al aterrizar estaremos muy cerca
 
 819
 01:02:48,711 --> 01:02:52,172
-y un agujero negro de ese tamaño
-tiene un gran tirón gravitatorio.
+y un agujero negro de ese tamaï¿½o
+tiene un gran tirï¿½n gravitatorio.
 
 820
 01:02:54,509 --> 01:02:57,844
@@ -3610,25 +3610,25 @@ No es eso. Es el tiempo.
 
 822
 01:02:59,555 --> 01:03:03,183
-La gravedad de ese planeta ralentizará
+La gravedad de ese planeta ralentizarï¿½
 nuestro paso del tiempo...
 
 823
 01:03:03,434 --> 01:03:04,434
-drásticamente.
+drï¿½sticamente.
 
 824
 01:03:04,978 --> 01:03:05,978
-¿Pero mucho?
+ï¿½Pero mucho?
 
 825
 01:03:06,229 --> 01:03:09,731
 Cada hora que pasemos
-en ese planeta serán
+en ese planeta serï¿½n
 
 826
 01:03:10,608 --> 01:03:12,776
-siete años en la Tierra.
+siete aï¿½os en la Tierra.
 
 827
 01:03:13,695 --> 01:03:14,695
@@ -3636,19 +3636,19 @@ Demonios.
 
 828
 01:03:15,029 --> 01:03:16,697
-Así es la relatividad.
+Asï¿½ es la relatividad.
 
 829
 01:03:18,116 --> 01:03:20,534
-No podemos aterrizar ahí sin...
+No podemos aterrizar ahï¿½ sin...
 
 830
 01:03:21,494 --> 01:03:22,619
-Tenemos una misión.
+Tenemos una misiï¿½n.
 
 831
 01:03:22,787 --> 01:03:25,455
-Sí, y el plan A de nuestra misión
+Sï¿½, y el plan A de nuestra misiï¿½n
 
 832
 01:03:25,623 --> 01:03:28,791
@@ -3658,12 +3658,12 @@ la gente de la Tierra.
 833
 01:03:28,959 --> 01:03:31,752
 No puedes pensar en tu familia.
-Debes ir más allá.
+Debes ir mï¿½s allï¿½.
 
 834
 01:03:31,920 --> 01:03:35,006
 Estoy pensando en mi familia
-y en millones de familias más.
+y en millones de familias mï¿½s.
 
 835
 01:03:35,173 --> 01:03:36,382
@@ -3671,7 +3671,7 @@ De nada sirve el plan A
 
 836
 01:03:36,550 --> 01:03:39,468
-si la gente de la Tierra está muerta
+si la gente de la Tierra estï¿½ muerta
 cuando lo logremos.
 
 837
@@ -3684,12 +3684,12 @@ Por eso hay un plan B.
 
 839
 01:03:47,019 --> 01:03:48,019
-Cooper tiene razón.
+Cooper tiene razï¿½n.
 
 840
 01:03:48,186 --> 01:03:51,982
 El tiempo es un recurso, como la comida.
-Bajar ahí nos va a costar caro.
+Bajar ahï¿½ nos va a costar caro.
 
 841
 01:03:54,277 --> 01:03:55,444
@@ -3698,20 +3698,20 @@ Escuchen.
 842
 01:03:56,654 --> 01:04:00,240
 Los datos del Dr. Mann son prometedores.
-Pero tardaríamos meses en llegar.
+Pero tardarï¿½amos meses en llegar.
 
 843
 01:04:00,533 --> 01:04:02,451
-Y el de Edmunds está aún más lejos.
+Y el de Edmunds estï¿½ aï¿½n mï¿½s lejos.
 
 844
 01:04:02,702 --> 01:04:06,705
 Miller no ha dicho gran cosa,
-pero hay agua, compuestos orgánicos...
+pero hay agua, compuestos orgï¿½nicos...
 
 845
 01:04:07,081 --> 01:04:09,249
-- Eso no se encuentra todos los días.
+- Eso no se encuentra todos los dï¿½as.
 - No.
 
 846
@@ -3721,8 +3721,8 @@ incluido el tiempo,
 
 847
 01:04:12,045 --> 01:04:14,421
-que consumiríamos
-intentando regresar aquí.
+que consumirï¿½amos
+intentando regresar aquï¿½.
 
 848
 01:04:15,548 --> 01:04:16,548
@@ -3730,16 +3730,16 @@ Romilly.
 
 849
 01:04:16,966 --> 01:04:20,969
-¿A qué distancia del planeta de Miller
-evitaríamos el desfase temporal?
+ï¿½A quï¿½ distancia del planeta de Miller
+evitarï¿½amos el desfase temporal?
 
 850
 01:04:21,554 --> 01:04:23,221
-Por detrás de la cúspide.
+Por detrï¿½s de la cï¿½spide.
 
 851
 01:04:23,556 --> 01:04:26,224
-Que está aquí,
+Que estï¿½ aquï¿½,
 casi rozando el planeta de Miller.
 
 852
@@ -3748,7 +3748,7 @@ Correcto.
 
 853
 01:04:29,187 --> 01:04:32,022
-Esto es Gargantúa.
+Esto es Gargantï¿½a.
 Este, el planeta de Miller.
 
 854
@@ -3758,13 +3758,13 @@ orbite alrededor de ese planeta,
 
 855
 01:04:35,568 --> 01:04:38,737
-con lo que no perderíamos combustible,
-pero sí mucho tiempo,
+con lo que no perderï¿½amos combustible,
+pero sï¿½ mucho tiempo,
 
 856
 01:04:38,905 --> 01:04:42,574
-¿y si seguimos una órbita más amplia
-alrededor de Gargantúa,
+ï¿½y si seguimos una ï¿½rbita mï¿½s amplia
+alrededor de Gargantï¿½a,
 
 857
 01:04:42,867 --> 01:04:45,285
@@ -3787,41 +3787,41 @@ pero ganamos mucho tiempo.
 
 861
 01:04:53,960 --> 01:04:55,544
-- Eso estaría bien.
+- Eso estarï¿½a bien.
 - Me gusta.
 
 862
 01:04:55,712 --> 01:04:58,547
 No va a haber tiempo
-para estar de cháchara ahí abajo.
+para estar de chï¿½chara ahï¿½ abajo.
 
 863
 01:04:58,715 --> 01:05:00,883
-Así que, TARS, tú te quedas aquí.
+Asï¿½ que, TARS, tï¿½ te quedas aquï¿½.
 
 864
 01:05:01,051 --> 01:05:03,636
-CASE, tú vienes conmigo.
+CASE, tï¿½ vienes conmigo.
 El resto puede quedarse.
 
 865
 01:05:03,804 --> 01:05:07,432
-Si estamos hablando de un par de años,
-podría investigar la gravedad.
+Si estamos hablando de un par de aï¿½os,
+podrï¿½a investigar la gravedad.
 
 866
 01:05:07,975 --> 01:05:10,602
-Los datos serían una mina de oro
+Los datos serï¿½an una mina de oro
 para el Profesor Brand.
 
 867
 01:05:10,770 --> 01:05:12,396
-TARS, calcula órbita.
+TARS, calcula ï¿½rbita.
 
 868
 01:05:12,688 --> 01:05:14,940
 Ahorra combustible,
-minimiza la propulsión,
+minimiza la propulsiï¿½n,
 
 869
 01:05:15,108 --> 01:05:17,359
@@ -3830,8 +3830,8 @@ del planeta de Miller.
 
 870
 01:05:17,527 --> 01:05:20,028
-- ¿Entendido?
-- Yo jamás le abandonaría...
+- ï¿½Entendido?
+- Yo jamï¿½s le abandonarï¿½a...
 
 871
 01:05:20,196 --> 01:05:21,196
@@ -3839,11 +3839,11 @@ Dra. Brand.
 
 872
 01:05:25,868 --> 01:05:26,868
-¿Estás listo, CASE?
+ï¿½Estï¿½s listo, CASE?
 
 873
 01:05:28,454 --> 01:05:31,873
-- No eres muy hablador, ¿no?
+- No eres muy hablador, ï¿½no?
 - Ya habla TARS por los dos.
 
 874
@@ -3852,27 +3852,27 @@ Desacoplar.
 
 875
 01:05:41,551 --> 01:05:44,386
-<i>- ¿Estás recibiendo estas fuerzas?
-- Increíble.
+<i>- ï¿½Estï¿½s recibiendo estas fuerzas?
+- Increï¿½ble.
 
 876
 01:05:47,723 --> 01:05:49,850
 Literalmente
-el corazón de las tinieblas.
+el corazï¿½n de las tinieblas.
 
 877
 01:05:53,980 --> 01:05:56,523
-Si viéramos la estrella
+Si viï¿½ramos la estrella
 colapsada en el interior,
 
 878
 01:05:56,774 --> 01:05:59,568
 la singularidad,
-descifraríamos la gravedad.
+descifrarï¿½amos la gravedad.
 
 879
 01:06:00,111 --> 01:06:03,113
-<i>- ¿Y no podemos sacar nada?
+<i>- ï¿½Y no podemos sacar nada?
 - Nada escapa a ese horizonte.
 
 880
@@ -3881,35 +3881,35 @@ Ni siquiera la luz.
 
 881
 01:06:04,907 --> 01:06:08,493
-<i>- La respuesta está ahí, pero oculta.
-- Ahí está el planeta de Miller.
+<i>- La respuesta estï¿½ ahï¿½, pero oculta.
+- Ahï¿½ estï¿½ el planeta de Miller.
 
 882
 01:06:11,330 --> 01:06:12,664
-Adiós, Ranger.
+Adiï¿½s, Ranger.
 
 883
 01:06:25,469 --> 01:06:27,637
-Vamos rápido
-para la entrada atmosférica.
+Vamos rï¿½pido
+para la entrada atmosfï¿½rica.
 
 884
 01:06:27,889 --> 01:06:30,182
-¿Reducimos la velocidad
+ï¿½Reducimos la velocidad
 con los propulsores?
 
 885
 01:06:30,641 --> 01:06:33,727
-Voy a usar la aerodinámica del Ranger
+Voy a usar la aerodinï¿½mica del Ranger
 para ahorrar combustible.
 
 886
 01:06:34,020 --> 01:06:35,103
-¿Aerofrenado?
+ï¿½Aerofrenado?
 
 887
 01:06:35,271 --> 01:06:38,815
-- Queremos descender rápido.
+- Queremos descender rï¿½pido.
 - Lo que queremos es llegar de una pieza.
 
 888
@@ -3919,13 +3919,13 @@ para ahorrar combustible.
 
 889
 01:06:58,211 --> 01:07:00,337
-- ¡Deberíamos reducir!
+- ï¿½Deberï¿½amos reducir!
 - Arriba las manos, CASE.
 
 890
 01:07:00,546 --> 01:07:03,840
-Solo me la he pegado cuando una máquina
-redujo cuando no debía.
+Solo me la he pegado cuando una mï¿½quina
+redujo cuando no debï¿½a.
 
 891
 01:07:04,091 --> 01:07:07,093
@@ -3934,21 +3934,21 @@ redujo cuando no debía.
 
 892
 01:07:07,386 --> 01:07:09,221
-- Vamos muy rápido.
-- Está controlado.
+- Vamos muy rï¿½pido.
+- Estï¿½ controlado.
 
 893
 01:07:14,393 --> 01:07:18,063
-- ¿Elimino el acople?
+- ï¿½Elimino el acople?
 - No, necesito sentir el aire.
 
 894
 01:07:22,443 --> 01:07:23,610
-Vamos allá.
+Vamos allï¿½.
 
 895
 01:07:26,572 --> 01:07:27,906
-¡Solo hay agua!
+ï¿½Solo hay agua!
 
 896
 01:07:29,408 --> 01:07:30,909
@@ -3960,17 +3960,17 @@ Mil doscientos metros.
 
 898
 01:07:32,912 --> 01:07:35,081
-- ¿Hemos localizado la baliza?
-- ¡La tengo!
+- ï¿½Hemos localizado la baliza?
+- ï¿½La tengo!
 
 899
 01:07:35,249 --> 01:07:37,750
-- ¿Puede maniobrar?
+- ï¿½Puede maniobrar?
 - Voy a tener que reducir.
 
 900
 01:07:37,960 --> 01:07:40,711
-¡Voy a descender en espiral! ¡Agarraos!
+ï¿½Voy a descender en espiral! ï¿½Agarraos!
 
 901
 01:07:42,965 --> 01:07:44,048
@@ -3978,7 +3978,7 @@ Setecientos.
 
 902
 01:07:46,176 --> 01:07:48,177
-A mi señal, CASE.
+A mi seï¿½al, CASE.
 
 903
 01:07:51,681 --> 01:07:53,181
@@ -3986,7 +3986,7 @@ Quinientos metros.
 
 904
 01:08:02,608 --> 01:08:03,692
-¡Ignición!
+ï¿½Igniciï¿½n!
 
 905
 01:08:17,290 --> 01:08:18,290
@@ -4002,20 +4002,20 @@ eficiente.
 
 908
 01:08:24,755 --> 01:08:26,923
-¿Qué esperas? ¡Vamos!
+ï¿½Quï¿½ esperas? ï¿½Vamos!
 
 909
 01:08:27,174 --> 01:08:28,383
-¡Vamos!
+ï¿½Vamos!
 
 910
 01:08:29,343 --> 01:08:32,679
-¡Siete años por cada hora!
-¡Haz que cuente!
+ï¿½Siete aï¿½os por cada hora!
+ï¿½Haz que cuente!
 
 911
 01:08:58,749 --> 01:08:59,999
-Por aquí.
+Por aquï¿½.
 
 912
 01:09:02,836 --> 01:09:04,587
@@ -4027,7 +4027,7 @@ La gravedad pasa factura.
 
 914
 01:09:16,808 --> 01:09:18,975
-¿Demasiado tiempo
+ï¿½Demasiado tiempo
 flotando por el espacio?
 
 915
@@ -4040,12 +4040,12 @@ Vamos.
 
 917
 01:09:26,067 --> 01:09:28,902
-- Aquí no hay nada.
-- Debería estar aquí.
+- Aquï¿½ no hay nada.
+- Deberï¿½a estar aquï¿½.
 
 918
 01:09:30,863 --> 01:09:33,865
-Si la señal viene de aquí...
+Si la seï¿½al viene de aquï¿½...
 
 919
 01:09:43,459 --> 01:09:44,626
@@ -4057,15 +4057,15 @@ Restos.
 
 921
 01:09:54,470 --> 01:09:55,637
-<i>¿Y el resto?
+<i>ï¿½Y el resto?
 
 922
 01:09:56,180 --> 01:09:57,680
-¡Las montañas!
+ï¿½Las montaï¿½as!
 
 923
 01:10:01,435 --> 01:10:03,269
-Eso no son montañas.
+Eso no son montaï¿½as.
 
 924
 01:10:04,940 --> 01:10:06,273
@@ -4085,7 +4085,7 @@ Necesitamos la grabadora.
 
 928
 01:10:35,137 --> 01:10:37,304
-¡Brand, Doyle, vuelvan al Ranger ahora!
+ï¿½Brand, Doyle, vuelvan al Ranger ahora!
 
 929
 01:10:37,514 --> 01:10:40,683
@@ -4093,16 +4093,16 @@ No vamos a irnos sin los datos.
 
 930
 01:10:40,934 --> 01:10:42,268
-¡Vuelvan aquí ahora!
+ï¿½Vuelvan aquï¿½ ahora!
 
 931
 01:10:42,436 --> 01:10:44,186
-<i>¡No hay tiempo!
+<i>ï¿½No hay tiempo!
 
 932
 01:10:44,354 --> 01:10:46,855
-¡Viene una segunda ola!
-¡Es un oleaje!
+ï¿½Viene una segunda ola!
+ï¿½Es un oleaje!
 
 933
 01:10:48,190 --> 01:10:49,524
@@ -4110,11 +4110,11 @@ No, ya la tengo.
 
 934
 01:10:49,775 --> 01:10:51,776
-¡Qué traigas tu trasero aquí ahora!
+ï¿½Quï¿½ traigas tu trasero aquï¿½ ahora!
 
 935
 01:10:56,782 --> 01:10:58,867
-¡Brand, vuelve aquí ahora!
+ï¿½Brand, vuelve aquï¿½ ahora!
 
 936
 01:11:00,786 --> 01:11:02,954
@@ -4123,38 +4123,38 @@ No voy a lograrlo.
 
 937
 01:11:03,414 --> 01:11:05,832
-- ¡Vete!
+- ï¿½Vete!
 - CASE, ve por ella.
 
 938
 01:11:10,588 --> 01:11:12,589
-- ¡Vete!
-- ¡Levántate, Brand!
+- ï¿½Vete!
+- ï¿½Levï¿½ntate, Brand!
 
 939
 01:11:13,549 --> 01:11:15,049
-¡Vamos!
+ï¿½Vamos!
 
 940
 01:11:16,635 --> 01:11:19,472
-- ¡No voy a lograrlo!
-- ¡Claro que sí!
+- ï¿½No voy a lograrlo!
+- ï¿½Claro que sï¿½!
 
 941
 01:11:26,480 --> 01:11:28,647
-¡CASE la tiene! ¡Vuelve aquí, Doyle!
+ï¿½CASE la tiene! ï¿½Vuelve aquï¿½, Doyle!
 
 942
 01:11:31,610 --> 01:11:32,610
-¡Vamos!
+ï¿½Vamos!
 
 943
 01:11:35,363 --> 01:11:36,363
-¡A la escotilla!
+ï¿½A la escotilla!
 
 944
 01:11:41,453 --> 01:11:42,953
-¡Vamos!
+ï¿½Vamos!
 
 945
 01:11:48,460 --> 01:11:49,543
@@ -4162,24 +4162,24 @@ Mierda.
 
 946
 01:11:49,961 --> 01:11:51,962
-¡Control manual de escotilla interior!
+ï¿½Control manual de escotilla interior!
 
 947
 01:12:03,934 --> 01:12:07,603
-¡Ha entrado agua en los motores!
-¡Voy a tener que apagar!
+ï¿½Ha entrado agua en los motores!
+ï¿½Voy a tener que apagar!
 
 948
 01:12:40,971 --> 01:12:41,971
-¡Mierda!
+ï¿½Mierda!
 
 949
 01:12:46,935 --> 01:12:47,935
-¡Agárrense!
+ï¿½Agï¿½rrense!
 
 950
 01:13:19,301 --> 01:13:20,634
-CASE, ¿qué pasa?
+CASE, ï¿½quï¿½ pasa?
 
 951
 01:13:20,802 --> 01:13:23,137
@@ -4187,34 +4187,34 @@ Demasiada agua. Debe drenarse.
 
 952
 01:13:24,306 --> 01:13:25,472
-¡Maldita sea!
+ï¿½Maldita sea!
 
 953
 01:13:25,640 --> 01:13:29,643
-- ¡Te dije que me dejaras!
-- ¡Y yo que volvieras aquí, maldición!
+- ï¿½Te dije que me dejaras!
+- ï¿½Y yo que volvieras aquï¿½, maldiciï¿½n!
 
 954
 01:13:30,437 --> 01:13:32,896
-¡Al menos uno de nosotros
-pensaba en la misión!
+ï¿½Al menos uno de nosotros
+pensaba en la misiï¿½n!
 
 955
 01:13:33,064 --> 01:13:35,065
-¡Tú en lo que pensabas
+ï¿½Tï¿½ en lo que pensabas
 era en volver a casa!
 
 956
 01:13:36,985 --> 01:13:39,320
-¡Yo solo intentaba hacer lo correcto!
+ï¿½Yo solo intentaba hacer lo correcto!
 
 957
 01:13:39,487 --> 01:13:41,404
-Eso díselo a Doyle.
+Eso dï¿½selo a Doyle.
 
 958
 01:13:43,699 --> 01:13:45,992
-- CASE, ¿cuánto falta?
+- CASE, ï¿½cuï¿½nto falta?
 - De 45 a 60 minutos.
 
 959
@@ -4223,15 +4223,15 @@ Eso díselo a Doyle.
 
 960
 01:13:49,789 --> 01:13:51,332
-¿Cuánto nos va a costar esto?
+ï¿½Cuï¿½nto nos va a costar esto?
 
 961
 01:13:52,375 --> 01:13:54,376
-Mucho. Décadas.
+Mucho. Dï¿½cadas.
 
 962
 01:14:01,551 --> 01:14:02,801
-¿Qué ha sido de Miller?
+ï¿½Quï¿½ ha sido de Miller?
 
 963
 01:14:03,720 --> 01:14:05,596
@@ -4240,12 +4240,12 @@ A juzgar por los restos,
 964
 01:14:05,764 --> 01:14:09,141
 fue alcanzada por una ola
-después del impacto.
+despuï¿½s del impacto.
 
 965
 01:14:09,392 --> 01:14:12,144
-¿Cómo han permanecido
-los restos juntos tantos años?
+ï¿½Cï¿½mo han permanecido
+los restos juntos tantos aï¿½os?
 
 966
 01:14:13,396 --> 01:14:15,397
@@ -4253,17 +4253,17 @@ Por el desfase temporal.
 
 967
 01:14:16,483 --> 01:14:20,486
-Según el paso del tiempo aquí,
-aterrizó hace unas horas.
+Segï¿½n el paso del tiempo aquï¿½,
+aterrizï¿½ hace unas horas.
 
 968
 01:14:21,946 --> 01:14:24,198
-Y probablemente murió
+Y probablemente muriï¿½
 hace unos minutos.
 
 969
 01:14:24,491 --> 01:14:26,825
-Los datos que recibió Doyle
+Los datos que recibiï¿½ Doyle
 eran el primer mensaje
 
 970
@@ -4276,7 +4276,7 @@ No estamos preparados para esto.
 
 972
 01:14:33,291 --> 01:14:37,044
-Son unos cerebritos con las técnicas
+Son unos cerebritos con las tï¿½cnicas
 de supervivencia de un boy scout.
 
 973
@@ -4286,20 +4286,20 @@ muy lejos, donde nadie ha llegado.
 
 974
 01:14:40,590 --> 01:14:42,091
-¡Pero no lo suficiente!
+ï¿½Pero no lo suficiente!
 
 975
 01:14:42,425 --> 01:14:45,928
-Y ahora vamos a estar aquí
+Y ahora vamos a estar aquï¿½
 hasta que no quede nadie a quien salvar.
 
 976
 01:14:48,973 --> 01:14:51,642
-Yo cuento cada minuto, igual que tú.
+Yo cuento cada minuto, igual que tï¿½.
 
 977
 01:14:56,439 --> 01:14:58,107
-¿Hay alguna posibilidad,
+ï¿½Hay alguna posibilidad,
 
 978
 01:14:58,441 --> 01:15:02,112
@@ -4308,7 +4308,7 @@ podamos meternos en un agujero negro?
 
 979
 01:15:02,363 --> 01:15:04,030
-¿Y recuperar los años?
+ï¿½Y recuperar los aï¿½os?
 
 980
 01:15:04,573 --> 01:15:06,157
@@ -4328,22 +4328,22 @@ no retroceder. Es imposible.
 
 984
 01:15:14,332 --> 01:15:18,335
-Lo único que puede atravesar dimensiones
+Lo ï¿½nico que puede atravesar dimensiones
 como el tiempo es la gravedad.
 
 985
 01:15:24,551 --> 01:15:28,303
 Los seres que nos han conducido
-hasta aquí se comunican
+hasta aquï¿½ se comunican
 
 986
 01:15:28,596 --> 01:15:30,556
-- a través de la gravedad, ¿no?
-- Sí.
+- a travï¿½s de la gravedad, ï¿½no?
+- Sï¿½.
 
 987
 01:15:30,890 --> 01:15:32,766
-¿Podrían hablarnos desde el futuro?
+ï¿½Podrï¿½an hablarnos desde el futuro?
 
 988
 01:15:33,727 --> 01:15:35,978
@@ -4357,7 +4357,7 @@ hasta aquí se comunican
 990
 01:15:40,859 --> 01:15:44,153
 Para ellos el tiempo tal vez
-sea otra dimensión física.
+sea otra dimensiï¿½n fï¿½sica.
 
 991
 01:15:44,529 --> 01:15:45,863
@@ -4365,12 +4365,12 @@ Para ellos...
 
 992
 01:15:46,281 --> 01:15:50,284
-el pasado tal vez sea un cañón por el que
+el pasado tal vez sea un caï¿½ï¿½n por el que
 puedan descolgarse, y el futuro,
 
 993
 01:15:50,618 --> 01:15:53,620
-una montaña que puedan escalar.
+una montaï¿½a que puedan escalar.
 Pero para nosotros, no.
 
 994
@@ -4379,20 +4379,20 @@ Cooper, la he regado. Lo siento.
 
 995
 01:15:59,252 --> 01:16:01,086
-Pero sabías qué era la relatividad.
+Pero sabï¿½as quï¿½ era la relatividad.
 
 996
 01:16:10,305 --> 01:16:12,222
-Mi hija tenía diez años.
+Mi hija tenï¿½a diez aï¿½os.
 
 997
 01:16:12,849 --> 01:16:15,602
-No le enseñé
-las teorías de Einstein antes de irme.
+No le enseï¿½ï¿½
+las teorï¿½as de Einstein antes de irme.
 
 998
 01:16:16,062 --> 01:16:18,855
-¿No podías haberle dicho
+ï¿½No podï¿½as haberle dicho
 que ibas a salvar el mundo?
 
 999
@@ -4407,17 +4407,17 @@ se sientan a salvo.
 
 1001
 01:16:32,078 --> 01:16:35,830
-Y eso no pasa por decirle a una niña
+Y eso no pasa por decirle a una niï¿½a
 que el mundo se va a acabar.
 
 1002
 01:16:43,379 --> 01:16:45,714
-- ¿Cuánto falta?
+- ï¿½Cuï¿½nto falta?
 - Uno o dos minutos.
 
 1003
 01:16:45,882 --> 01:16:48,217
-No los tenemos. ¡Cascos!
+No los tenemos. ï¿½Cascos!
 
 1004
 01:16:52,055 --> 01:16:53,806
@@ -4425,8 +4425,8 @@ Brand, copiloto, te ha tocado.
 
 1005
 01:16:53,973 --> 01:16:56,475
-¡Expulsa el oxígeno
-a través de los propulsores!
+ï¿½Expulsa el oxï¿½geno
+a travï¿½s de los propulsores!
 
 1006
 01:16:56,643 --> 01:16:58,393
@@ -4435,12 +4435,12 @@ a través de los propulsores!
 
 1007
 01:16:58,686 --> 01:17:00,187
-- Cinturón.
-- ¡Despresurizando!
+- Cinturï¿½n.
+- ï¿½Despresurizando!
 
 1008
 01:17:06,027 --> 01:17:07,277
-¡Motores encendidos!
+ï¿½Motores encendidos!
 
 1009
 01:17:36,142 --> 01:17:37,642
@@ -4448,21 +4448,21 @@ Hola, Rom.
 
 1010
 01:17:38,102 --> 01:17:39,769
-Llevo años esperando.
+Llevo aï¿½os esperando.
 
 1011
 01:17:40,855 --> 01:17:42,689
-¿Cuántos?
+ï¿½Cuï¿½ntos?
 
 1012
 01:17:44,525 --> 01:17:48,528
-- Ahora serán...
-- Veintitrés años, cuatro meses y ocho días.
+- Ahora serï¿½n...
+- Veintitrï¿½s aï¿½os, cuatro meses y ocho dï¿½as.
 
 1013
 01:18:01,166 --> 01:18:04,168
-Creía que estaba preparada.
-Sabía la teoría.
+Creï¿½a que estaba preparada.
+Sabï¿½a la teorï¿½a.
 
 1014
 01:18:05,545 --> 01:18:07,045
@@ -4470,25 +4470,25 @@ La realidad es diferente.
 
 1015
 01:18:08,089 --> 01:18:09,256
-¿Y Miller?
+ï¿½Y Miller?
 
 1016
 01:18:10,842 --> 01:18:12,843
-Aquí no tenemos nada que hacer.
+Aquï¿½ no tenemos nada que hacer.
 
 1017
 01:18:15,597 --> 01:18:17,097
-¿Por qué no has dormido?
+ï¿½Por quï¿½ no has dormido?
 
 1018
 01:18:18,057 --> 01:18:22,060
 Me he echado un par de veces.
-Pero dejé de creer que fueras a volver.
+Pero dejï¿½ de creer que fueras a volver.
 
 1019
 01:18:22,645 --> 01:18:25,647
-Y no me hacía gracia
-que se me fuera la vida soñando.
+Y no me hacï¿½a gracia
+que se me fuera la vida soï¿½ando.
 
 1020
 01:18:26,316 --> 01:18:29,318
@@ -4506,12 +4506,12 @@ Seguimos recibiendo, pero no sale nada.
 
 1023
 01:18:34,741 --> 01:18:36,825
-- ¿Está vivo?
-- Sí.
+- ï¿½Estï¿½ vivo?
+- Sï¿½.
 
 1024
 01:18:42,040 --> 01:18:45,043
-Tenemos años de mensajes guardados.
+Tenemos aï¿½os de mensajes guardados.
 
 1025
 01:18:45,377 --> 01:18:46,377
@@ -4519,8 +4519,8 @@ Cooper.
 
 1026
 01:18:46,670 --> 01:18:49,672
-<i>Período de tiempo de los mensajes:
-23 años.
+<i>Perï¿½odo de tiempo de los mensajes:
+23 aï¿½os.
 
 1027
 01:18:51,717 --> 01:18:53,384
@@ -4528,11 +4528,11 @@ Desde el principio.
 
 1028
 01:18:56,430 --> 01:18:58,264
-<i>Hola, papá.
+<i>Hola, papï¿½.
 
 1029
 01:18:58,974 --> 01:19:01,392
-<i>¿Qué tal? Quería saludarte.
+<i>ï¿½Quï¿½ tal? Querï¿½a saludarte.
 
 1030
 01:19:04,188 --> 01:19:05,939
@@ -4546,15 +4546,15 @@ me sigue poniendo aprobados.
 1032
 01:19:10,236 --> 01:19:13,321
 <i>Eso me ha bajado la media,
-pero ser el segundo no está mal.
+pero ser el segundo no estï¿½ mal.
 
 1033
 01:19:14,240 --> 01:19:16,407
-<i>El abuelo ha ido a la graduación.
+<i>El abuelo ha ido a la graduaciï¿½n.
 
 1034
 01:19:20,996 --> 01:19:22,914
-<i>He conocido a otra chica, papá.
+<i>He conocido a otra chica, papï¿½.
 
 1035
 01:19:25,459 --> 01:19:27,460
@@ -4570,15 +4570,15 @@ pero ser el segundo no está mal.
 
 1038
 01:19:37,053 --> 01:19:39,721
-<i>Se ha estrellado. Pero está bien.
+<i>Se ha estrellado. Pero estï¿½ bien.
 
 1039
 01:19:40,390 --> 01:19:41,473
-<i>Hola, papá.
+<i>Hola, papï¿½.
 
 1040
 01:19:42,392 --> 01:19:43,725
-<i>¡Mira!
+<i>ï¿½Mira!
 
 1041
 01:19:44,560 --> 01:19:46,061
@@ -4590,7 +4590,7 @@ pero ser el segundo no está mal.
 
 1043
 01:19:49,816 --> 01:19:53,068
-<i>Yo quería ponerle Coop,
+<i>Yo querï¿½a ponerle Coop,
 pero Lois dice que...
 
 1044
@@ -4599,20 +4599,20 @@ pero Lois dice que...
 
 1045
 01:19:55,071 --> 01:19:57,864
-<i>Donald dice que no le hacía falta
-subir de categoría.
+<i>Donald dice que no le hacï¿½a falta
+subir de categorï¿½a.
 
 1046
 01:19:58,116 --> 01:19:59,492
-<i>Así que para qué insistir.
+<i>Asï¿½ que para quï¿½ insistir.
 
 1047
 01:20:05,249 --> 01:20:06,874
-<i>Dile adiós al abuelo.
+<i>Dile adiï¿½s al abuelo.
 
 1048
 01:20:07,251 --> 01:20:09,085
-<i>"Adiós, abuelo".
+<i>"Adiï¿½s, abuelo".
 
 1049
 01:20:09,503 --> 01:20:12,005
@@ -4624,16 +4624,16 @@ subir de categoría.
 
 1051
 01:20:16,635 --> 01:20:18,636
-<i>con lo de Jesse y demás.
+<i>con lo de Jesse y demï¿½s.
 
 1052
 01:20:25,144 --> 01:20:27,478
-<i>El abuelo murió la semana pasada.
+<i>El abuelo muriï¿½ la semana pasada.
 
 1053
 01:20:27,896 --> 01:20:30,982
-<i>Le hemos enterrado en el baldío,
-junto a mamá y a...
+<i>Le hemos enterrado en el baldï¿½o,
+junto a mamï¿½ y a...
 
 1054
 01:20:31,859 --> 01:20:32,942
@@ -4641,7 +4641,7 @@ junto a mamá y a...
 
 1055
 01:20:33,819 --> 01:20:36,904
-<i>Que es donde te habríamos enterrado a ti
+<i>Que es donde te habrï¿½amos enterrado a ti
 si hubieras...
 
 1056
@@ -4658,15 +4658,15 @@ si hubieras...
 
 1059
 01:20:49,501 --> 01:20:51,919
-<i>No estás escuchando esto, lo sé.
+<i>No estï¿½s escuchando esto, lo sï¿½.
 
 1060
 01:20:55,049 --> 01:20:57,800
-<i>Todos estos mensajes están...
+<i>Todos estos mensajes estï¿½n...
 
 1061
 01:20:58,969 --> 01:21:02,637
-<i>flotando ahí fuera en la oscuridad.
+<i>flotando ahï¿½ fuera en la oscuridad.
 
 1062
 01:21:03,723 --> 01:21:06,058
@@ -4678,7 +4678,7 @@ si hubieras...
 
 1064
 01:21:09,979 --> 01:21:11,813
-<i>Así que,
+<i>Asï¿½ que,
 
 1065
 01:21:12,148 --> 01:21:13,149
@@ -4690,19 +4690,19 @@ si hubieras...
 
 1067
 01:21:20,699 --> 01:21:23,368
-<i>No sé dónde estás, papá.
+<i>No sï¿½ dï¿½nde estï¿½s, papï¿½.
 
 1068
 01:21:23,702 --> 01:21:26,621
-<i>Pero espero que estés en paz y...
+<i>Pero espero que estï¿½s en paz y...
 
 1069
 01:21:28,415 --> 01:21:29,499
-<i>adiós.
+<i>adiï¿½s.
 
 1070
 01:21:43,097 --> 01:21:44,347
-<i>Hola, papá.
+<i>Hola, papï¿½.
 
 1071
 01:21:47,184 --> 01:21:48,226
@@ -4710,17 +4710,17 @@ Hola, Murph.
 
 1072
 01:21:48,519 --> 01:21:50,436
-<i>Qué hijo de perra.
+<i>Quï¿½ hijo de perra.
 
 1073
 01:21:54,149 --> 01:21:56,651
-<i>Nunca te mandé un mensaje
-cuando respondías.
+<i>Nunca te mandï¿½ un mensaje
+cuando respondï¿½as.
 
 1074
 01:21:56,819 --> 01:21:59,153
-<i>Estaba enfadadísima
-porque te habías ido.
+<i>Estaba enfadadï¿½sima
+porque te habï¿½as ido.
 
 1075
 01:22:02,199 --> 01:22:04,283
@@ -4728,12 +4728,12 @@ porque te habías ido.
 
 1076
 01:22:06,912 --> 01:22:09,831
-<i>entendí que debía vivir
-con esa decisión, y lo he hecho.
+<i>entendï¿½ que debï¿½a vivir
+con esa decisiï¿½n, y lo he hecho.
 
 1077
 01:22:14,253 --> 01:22:16,671
-<i>Pero hoy es mi cumpleaños.
+<i>Pero hoy es mi cumpleaï¿½os.
 
 1078
 01:22:20,342 --> 01:22:23,511
@@ -4742,25 +4742,25 @@ con esa decisión, y lo he hecho.
 1079
 01:22:27,641 --> 01:22:31,644
 <i>Una vez me dijiste que cuando volvieras,
-a lo mejor teníamos la misma edad.
+a lo mejor tenï¿½amos la misma edad.
 
 1080
 01:22:33,689 --> 01:22:36,774
 <i>Y hoy tengo la misma edad
-que tenías tú cuando te fuiste.
+que tenï¿½as tï¿½ cuando te fuiste.
 
 1081
 01:22:39,778 --> 01:22:42,780
-<i>Por lo que sería un buen momento
+<i>Por lo que serï¿½a un buen momento
 para que volvieras.
 
 1082
 01:22:56,336 --> 01:23:00,339
-Perdona. Nunca te había visto aquí.
+Perdona. Nunca te habï¿½a visto aquï¿½.
 
 1083
 01:23:01,258 --> 01:23:03,426
-Nunca había venido.
+Nunca habï¿½a venido.
 
 1084
 01:23:05,179 --> 01:23:06,637
@@ -4781,11 +4781,11 @@ Ayuda.
 
 1088
 01:23:13,604 --> 01:23:16,105
-Solo quería decirle una cosa.
+Solo querï¿½a decirle una cosa.
 
 1089
 01:23:16,440 --> 01:23:18,774
-- Sé que siguen ahí fuera.
+- Sï¿½ que siguen ahï¿½ fuera.
 - Ya.
 
 1090
@@ -4795,11 +4795,11 @@ sus mensajes puedan no estar llegando.
 
 1091
 01:23:23,572 --> 01:23:24,739
-Lo sé, Profesor.
+Lo sï¿½, Profesor.
 
 1092
 01:23:25,449 --> 01:23:28,451
-No sé muy bien qué me da más miedo.
+No sï¿½ muy bien quï¿½ me da mï¿½s miedo.
 
 1093
 01:23:29,536 --> 01:23:31,871
@@ -4820,7 +4820,7 @@ Bien.
 
 1097
 01:23:40,505 --> 01:23:44,509
-Volvamos a la cuarta iteración.
+Volvamos a la cuarta iteraciï¿½n.
 Vamos a aplicarla a nuevos campos.
 
 1098
@@ -4834,8 +4834,8 @@ Solo tiene que salir una vez.
 
 1100
 01:23:55,312 --> 01:23:59,148
-Cada roblón que ponen
-podría haber sido una bala.
+Cada roblï¿½n que ponen
+podrï¿½a haber sido una bala.
 
 1101
 01:23:59,524 --> 01:24:01,526
@@ -4843,7 +4843,7 @@ Hemos hecho algo bueno por este mundo,
 
 1102
 01:24:01,693 --> 01:24:06,531
-resolvamos o no la ecuación
+resolvamos o no la ecuaciï¿½n
 antes de que estire la pata.
 
 1103
@@ -4853,7 +4853,7 @@ antes de que estire la pata.
 
 1104
 01:24:10,244 --> 01:24:12,078
-Soy un viejo físico.
+Soy un viejo fï¿½sico.
 
 1105
 01:24:13,330 --> 01:24:14,997
@@ -4869,8 +4869,8 @@ Teme al tiempo.
 
 1108
 01:24:29,638 --> 01:24:31,472
-Años intentando
-resolver la ecuación
+Aï¿½os intentando
+resolver la ecuaciï¿½n
 
 1109
 01:24:31,640 --> 01:24:34,392
@@ -4879,12 +4879,12 @@ relativo al tiempo.
 
 1110
 01:24:34,643 --> 01:24:36,143
-<i>- ¿Y?
+<i>- ï¿½Y?
 - Y que...
 
 1111
 01:24:36,311 --> 01:24:39,438
-cada iteración es un intento
+cada iteraciï¿½n es un intento
 de demostrar su propia validez.
 
 1112
@@ -4893,7 +4893,7 @@ Es recurrente. Es absurdo.
 
 1113
 01:24:43,402 --> 01:24:45,403
-¿Estás diciendo que el trabajo
+ï¿½Estï¿½s diciendo que el trabajo
 de toda mi vida
 
 1114
@@ -4911,7 +4911,7 @@ con las dos manos atadas.
 
 1117
 01:24:55,455 --> 01:24:57,457
-Y no entiendo por qué.
+Y no entiendo por quï¿½.
 
 1118
 01:24:58,418 --> 01:25:00,252
@@ -4919,7 +4919,7 @@ Soy un anciano, Murph.
 
 1119
 01:25:01,170 --> 01:25:03,755
-¿Podemos dejar esto para otro momento?
+ï¿½Podemos dejar esto para otro momento?
 
 1120
 01:25:04,007 --> 01:25:06,091
@@ -4949,23 +4949,23 @@ nuestra propia existencia.
 
 1126
 01:25:28,322 --> 01:25:31,824
-<i>"No entres dócilmente
+<i>"No entres dï¿½cilmente
 en esa buena noche".
 
 1127
 01:25:33,118 --> 01:25:35,369
 TARS ha mantenido la Endurance
-donde debía,
+donde debï¿½a,
 
 1128
 01:25:35,787 --> 01:25:38,789
-pero la expedición nos ha llevado
-más años de lo previsto.
+pero la expediciï¿½n nos ha llevado
+mï¿½s aï¿½os de lo previsto.
 
 1129
 01:25:38,957 --> 01:25:42,460
 Ya no tenemos combustible
-para visitar las dos opciones, así que...
+para visitar las dos opciones, asï¿½ que...
 
 1130
 01:25:42,794 --> 01:25:44,295
@@ -4973,7 +4973,7 @@ hay que elegir.
 
 1131
 01:25:45,505 --> 01:25:46,589
-¿Y cómo?
+ï¿½Y cï¿½mo?
 
 1132
 01:25:47,674 --> 01:25:49,342
@@ -5006,17 +5006,17 @@ Y...
 1138
 01:26:08,403 --> 01:26:10,488
 creo que el de Edmunds
-es mejor opción.
+es mejor opciï¿½n.
 
 1139
 01:26:10,656 --> 01:26:13,992
-- ¿Por qué?
-- Gargantúa, ¿por qué va a ser?
+- ï¿½Por quï¿½?
+- Gargantï¿½a, ï¿½por quï¿½ va a ser?
 
 1140
 01:26:15,119 --> 01:26:19,122
 Mira el planeta de Miller.
-Hidrocarburos, compuestos orgánicos
+Hidrocarburos, compuestos orgï¿½nicos
 
 1141
 01:26:19,415 --> 01:26:23,418
@@ -5025,17 +5025,17 @@ Encontraremos lo mismo en el de Mann.
 
 1142
 01:26:24,170 --> 01:26:25,837
-¿Por el agujero negro?
+ï¿½Por el agujero negro?
 
 1143
 01:26:26,130 --> 01:26:29,132
 La Ley de Murphy.
-Si algo puede pasar, pasará.
+Si algo puede pasar, pasarï¿½.
 
 1144
 01:26:29,342 --> 01:26:31,677
 Los accidentes son la base
-de la evolución,
+de la evoluciï¿½n,
 
 1145
 01:26:31,844 --> 01:26:34,679
@@ -5045,15 +5045,15 @@ no pasa gran cosa.
 1146
 01:26:34,889 --> 01:26:38,892
 Se traga asteroides, cometas
-que de lo contrario te alcanzarían.
+que de lo contrario te alcanzarï¿½an.
 
 1147
 01:26:39,560 --> 01:26:40,894
-Debemos alejarnos más.
+Debemos alejarnos mï¿½s.
 
 1148
 01:26:41,979 --> 01:26:44,314
-Tú dijiste que el Dr. Mann...
+Tï¿½ dijiste que el Dr. Mann...
 
 1149
 01:26:45,608 --> 01:26:47,109
@@ -5062,11 +5062,11 @@ era el mejor.
 1150
 01:26:47,402 --> 01:26:50,570
 Es una eminencia.
-Si estamos aquí, es por él.
+Si estamos aquï¿½, es por ï¿½l.
 
 1151
 01:26:51,113 --> 01:26:52,947
-Y ahí sigue.
+Y ahï¿½ sigue.
 
 1152
 01:26:53,115 --> 01:26:57,118
@@ -5083,12 +5083,12 @@ No lo niego, pero los datos de Edmunds
 
 1155
 01:27:03,458 --> 01:27:04,708
-son más prometedores.
+son mï¿½s prometedores.
 
 1156
 01:27:05,168 --> 01:27:08,504
 - Votemos.
-- Si vamos a votar, deberías saber algo.
+- Si vamos a votar, deberï¿½as saber algo.
 
 1157
 01:27:11,007 --> 01:27:12,508
@@ -5096,31 +5096,31 @@ Tiene derecho a saberlo.
 
 1158
 01:27:13,093 --> 01:27:14,760
-No veo por qué.
+No veo por quï¿½.
 
 1159
 01:27:15,053 --> 01:27:17,888
-- ¿Qué pasa?
-- Está enamorada de Wolf Edmunds.
+- ï¿½Quï¿½ pasa?
+- Estï¿½ enamorada de Wolf Edmunds.
 
 1160
 01:27:18,223 --> 01:27:20,725
-- ¿Es verdad?
-- Sí.
+- ï¿½Es verdad?
+- Sï¿½.
 
 1161
 01:27:23,895 --> 01:27:26,648
 Y eso hace que quiera guiarme
-por el corazón.
+por el corazï¿½n.
 
 1162
 01:27:29,902 --> 01:27:33,572
 Tal vez llevemos demasiado
-aplicando la teoría.
+aplicando la teorï¿½a.
 
 1163
 01:27:33,781 --> 01:27:35,282
-Eres científica, Brand.
+Eres cientï¿½fica, Brand.
 
 1164
 01:27:35,450 --> 01:27:36,867
@@ -5146,12 +5146,12 @@ Tiene que significar algo.
 1169
 01:27:49,756 --> 01:27:53,758
 El amor tiene significado.
-Una utilidad social, una función social...
+Una utilidad social, una funciï¿½n social...
 
 1170
 01:27:54,051 --> 01:27:57,804
 Amamos a personas que han muerto.
-¿Qué utilidad social tiene eso?
+ï¿½Quï¿½ utilidad social tiene eso?
 
 1171
 01:27:58,514 --> 01:27:59,514
@@ -5159,12 +5159,12 @@ Ninguna.
 
 1172
 01:27:59,682 --> 01:28:03,351
-A lo mejor significa algo más.
+A lo mejor significa algo mï¿½s.
 Algo que no...
 
 1173
 01:28:03,603 --> 01:28:05,604
-alcanzamos a comprender aún.
+alcanzamos a comprender aï¿½n.
 
 1174
 01:28:05,897 --> 01:28:09,232
@@ -5172,21 +5172,21 @@ A lo mejor se trata de una prueba, de...
 
 1175
 01:28:10,401 --> 01:28:14,404
-un artefacto de una dimensión superior
+un artefacto de una dimensiï¿½n superior
 que no percibimos conscientemente.
 
 1176
 01:28:15,114 --> 01:28:19,116
 Estoy cruzando el Universo por alguien
-a quien no he visto en una década
+a quien no he visto en una dï¿½cada
 
 1177
 01:28:19,910 --> 01:28:22,661
-y que probablemente esté muerto.
+y que probablemente estï¿½ muerto.
 
 1178
 01:28:22,996 --> 01:28:26,248
-El amor es lo único
+El amor es lo ï¿½nico
 que somos capaces de percibir
 
 1179
@@ -5196,16 +5196,16 @@ del tiempo y del espacio.
 
 1180
 01:28:31,338 --> 01:28:35,341
-A lo mejor deberíamos creer en eso,
-aunque aún no alcancemos a entenderlo.
+A lo mejor deberï¿½amos creer en eso,
+aunque aï¿½n no alcancemos a entenderlo.
 
 1181
 01:28:40,681 --> 01:28:42,182
-Está bien, Cooper,
+Estï¿½ bien, Cooper,
 
 1182
 01:28:44,143 --> 01:28:45,310
-sí...
+sï¿½...
 
 1183
 01:28:46,646 --> 01:28:49,981
@@ -5223,7 +5223,7 @@ Sinceramente, Amelia...
 
 1186
 01:28:57,031 --> 01:28:58,198
-O sí.
+O sï¿½.
 
 1187
 01:29:05,039 --> 01:29:07,791
@@ -5233,35 +5233,35 @@ hacia el planeta del Dr. Mann.
 1188
 01:29:24,767 --> 01:29:27,769
 Volveremos a perder un tercio.
-Pero el próximo año...
+Pero el prï¿½ximo aï¿½o...
 
 1189
 01:29:30,064 --> 01:29:32,899
-lo cultivaré en la granja de Nelson
+lo cultivarï¿½ en la granja de Nelson
 para compensarlo.
 
 1190
 01:29:33,860 --> 01:29:35,527
-¿Qué le ha pasado a Nelson?
+ï¿½Quï¿½ le ha pasado a Nelson?
 
 1191
 01:29:41,450 --> 01:29:43,910
-<i>Murph, ¿te has quedado con hambre,
-más soufflé?
+<i>Murph, ï¿½te has quedado con hambre,
+mï¿½s soufflï¿½?
 
 1192
 01:29:44,537 --> 01:29:46,871
 Estoy llena. Gracias.
-Estaba buenísimo.
+Estaba buenï¿½simo.
 
 1193
 01:29:48,123 --> 01:29:50,124
-Coop, cómete el buñuelo, por favor.
+Coop, cï¿½mete el buï¿½uelo, por favor.
 
 1194
 01:29:52,294 --> 01:29:55,964
-Quédate a dormir.
-Tu cuarto está tal y como lo dejaste.
+Quï¿½date a dormir.
+Tu cuarto estï¿½ tal y como lo dejaste.
 
 1195
 01:29:56,132 --> 01:29:57,632
@@ -5269,7 +5269,7 @@ Tengo que irme.
 
 1196
 01:29:57,842 --> 01:30:00,260
-Está mi máquina de coser,
+Estï¿½ mi mï¿½quina de coser,
 pero hay espacio...
 
 1197
@@ -5294,7 +5294,7 @@ Lois, tengo un amigo que...
 
 1202
 01:30:23,909 --> 01:30:25,410
-podría mirarle los pulmones.
+podrï¿½a mirarle los pulmones.
 
 1203
 01:30:43,679 --> 01:30:46,264
@@ -5303,21 +5303,21 @@ podría mirarle los pulmones.
 
 1204
 01:30:46,432 --> 01:30:49,809
-A no ser que me estés castigando
+A no ser que me estï¿½s castigando
 por cagarla en el planeta de Miller.
 
 1205
 01:30:50,019 --> 01:30:52,354
-No ha sido una decisión personal.
+No ha sido una decisiï¿½n personal.
 
 1206
 01:30:53,189 --> 01:30:57,025
 Si te equivocas, vas a tener que tomar
-una decisión muy personal.
+una decisiï¿½n muy personal.
 
 1207
 01:30:57,276 --> 01:31:00,362
-Tus cálculos de combustible
+Tus cï¿½lculos de combustible
 incluyen el viaje de vuelta.
 
 1208
@@ -5333,7 +5333,7 @@ con el plan B.
 1210
 01:31:07,328 --> 01:31:10,998
 Crear una colonia
-podría salvarnos de la extinción.
+podrï¿½a salvarnos de la extinciï¿½n.
 
 1211
 01:31:11,291 --> 01:31:14,459
@@ -5358,7 +5358,7 @@ Hemos intentado localizarte.
 
 1216
 01:31:38,150 --> 01:31:39,651
-Estoy aquí, Profesor.
+Estoy aquï¿½, Profesor.
 
 1217
 01:31:40,361 --> 01:31:42,696
@@ -5371,7 +5371,7 @@ Estamos a nada.
 
 1219
 01:31:48,244 --> 01:31:49,995
-Terminaré lo que usted empezó.
+Terminarï¿½ lo que usted empezï¿½.
 
 1220
 01:31:50,204 --> 01:31:52,372
@@ -5387,7 +5387,7 @@ todos...
 
 1223
 01:32:00,589 --> 01:32:02,257
-todos estos años.
+todos estos aï¿½os.
 
 1224
 01:32:04,010 --> 01:32:05,010
@@ -5395,11 +5395,11 @@ Yo...
 
 1225
 01:32:05,469 --> 01:32:07,804
-Yo te pedí que tuvieras fe.
+Yo te pedï¿½ que tuvieras fe.
 
 1226
 01:32:10,224 --> 01:32:12,308
-Quería que creyeras
+Querï¿½a que creyeras
 
 1227
 01:32:14,020 --> 01:32:15,770
@@ -5407,7 +5407,7 @@ que tu padre...
 
 1228
 01:32:18,858 --> 01:32:19,858
-volvería.
+volverï¿½a.
 
 1229
 01:32:20,776 --> 01:32:21,985
@@ -5415,7 +5415,7 @@ Y lo creo, Profesor.
 
 1230
 01:32:23,655 --> 01:32:25,114
-Perdóname, Murph.
+Perdï¿½name, Murph.
 
 1231
 01:32:25,907 --> 01:32:27,867
@@ -5431,7 +5431,7 @@ Te he mentido.
 
 1234
 01:32:44,550 --> 01:32:47,802
-No había ninguna razón
+No habï¿½a ninguna razï¿½n
 
 1235
 01:32:49,096 --> 01:32:50,847
@@ -5455,15 +5455,15 @@ Todo esto. Toda esta gente.
 
 1240
 01:33:03,903 --> 01:33:05,653
-Y la ecuación.
+Y la ecuaciï¿½n.
 
 1241
 01:33:09,867 --> 01:33:11,493
-¿Lo sabía mi padre?
+ï¿½Lo sabï¿½a mi padre?
 
 1242
 01:33:15,331 --> 01:33:16,998
-¿Me abandonó?
+ï¿½Me abandonï¿½?
 
 1243
 01:33:23,380 --> 01:33:24,506
@@ -5475,7 +5475,7 @@ entres...
 
 1245
 01:33:28,010 --> 01:33:29,511
-dócilmente..."
+dï¿½cilmente..."
 
 1246
 01:33:36,602 --> 01:33:38,270
@@ -5500,15 +5500,15 @@ que su padre ha fallecido hoy.
 
 1251
 01:34:03,255 --> 01:34:04,922
-Brand, ¿lo sabías?
+Brand, ï¿½lo sabï¿½as?
 
 1252
 01:34:07,342 --> 01:34:09,009
-<i>Te lo dijo, ¿verdad?
+<i>Te lo dijo, ï¿½verdad?
 
 1253
 01:34:12,096 --> 01:34:13,263
-<i>Tú lo sabías.
+<i>Tï¿½ lo sabï¿½as.
 
 1254
 01:34:15,307 --> 01:34:16,975
@@ -5516,15 +5516,15 @@ Brand, ¿lo sabías?
 
 1255
 01:34:21,480 --> 01:34:23,815
-<i>Nos dejaste aquí.
+<i>Nos dejaste aquï¿½.
 
 1256
 01:34:25,192 --> 01:34:26,860
-<i>Para que muriéramos asfixiados.
+<i>Para que muriï¿½ramos asfixiados.
 
 1257
 01:34:28,863 --> 01:34:30,446
-<i>Para que muriéramos de hambre.
+<i>Para que muriï¿½ramos de hambre.
 
 1258
 01:34:57,601 --> 01:34:58,934
@@ -5540,25 +5540,25 @@ Reza para que nunca sepan...
 
 1261
 01:37:43,266 --> 01:37:46,435
-lo increíble que es ver otra cara.
+lo increï¿½ble que es ver otra cara.
 
 1262
 01:37:55,070 --> 01:37:57,446
-No tenía muchas esperanzas de entrada,
+No tenï¿½a muchas esperanzas de entrada,
 pero...
 
 1263
 01:37:57,739 --> 01:37:59,907
-después de tanto tiempo
-no tenía ninguna.
+despuï¿½s de tanto tiempo
+no tenï¿½a ninguna.
 
 1264
 01:38:01,576 --> 01:38:04,411
-Me había quedado sin provisiones.
+Me habï¿½a quedado sin provisiones.
 
 1265
 01:38:06,623 --> 01:38:10,250
-La última vez que me fui a dormir
+La ï¿½ltima vez que me fui a dormir
 no puse una fecha para despertarme.
 
 1266
@@ -5567,12 +5567,12 @@ Literalmente me han resucitado.
 
 1267
 01:38:17,550 --> 01:38:18,550
-Lázaro.
+Lï¿½zaro.
 
 1268
 01:38:20,845 --> 01:38:24,056
-- ¿Y los demás?
-- Me temo que solo está usted.
+- ï¿½Y los demï¿½s?
+- Me temo que solo estï¿½ usted.
 
 1269
 01:38:24,808 --> 01:38:25,808
@@ -5584,16 +5584,16 @@ claro.
 
 1271
 01:38:28,103 --> 01:38:32,731
-La probabilidad de rescatar a alguien más
-es prácticamente nula.
+La probabilidad de rescatar a alguien mï¿½s
+es prï¿½cticamente nula.
 
 1272
 01:38:36,569 --> 01:38:38,570
-¿Dr. Mann?
+ï¿½Dr. Mann?
 
 1273
 01:38:39,656 --> 01:38:41,323
-Háblenos de su planeta.
+Hï¿½blenos de su planeta.
 
 1274
 01:38:44,828 --> 01:38:46,662
@@ -5601,11 +5601,11 @@ De nuestro planeta, espero.
 
 1275
 01:38:50,500 --> 01:38:52,668
-Nuestro planeta es frío,
+Nuestro planeta es frï¿½o,
 
 1276
 01:38:53,128 --> 01:38:54,294
-inhóspito,
+inhï¿½spito,
 
 1277
 01:38:56,172 --> 01:38:58,006
@@ -5613,7 +5613,7 @@ pero innegablemente hermoso.
 
 1278
 01:39:00,260 --> 01:39:03,512
-<i>Los días tienen 67 frías horas.
+<i>Los dï¿½as tienen 67 frï¿½as horas.
 
 1279
 01:39:07,684 --> 01:39:09,017
@@ -5621,7 +5621,7 @@ pero innegablemente hermoso.
 
 1280
 01:39:09,269 --> 01:39:11,603
-<i>67 horas mucho más frías.
+<i>67 horas mucho mï¿½s frï¿½as.
 
 1281
 01:39:17,443 --> 01:39:21,447
@@ -5630,7 +5630,7 @@ de la de la Tierra.
 
 1282
 01:39:21,948 --> 01:39:24,950
-Aquí arriba, donde aterricé,
+Aquï¿½ arriba, donde aterricï¿½,
 el agua es alcalina
 
 1283
@@ -5657,7 +5657,7 @@ cristalinos, a aire respirable.
 
 1288
 01:39:39,966 --> 01:39:41,466
-A compuestos orgánicos.
+A compuestos orgï¿½nicos.
 
 1289
 01:39:41,801 --> 01:39:44,136
@@ -5670,51 +5670,51 @@ este planeta.
 
 1291
 01:39:47,432 --> 01:39:49,434
-¿Son lecturas de la superficie?
+ï¿½Son lecturas de la superficie?
 
 1292
 01:39:49,602 --> 01:39:52,729
-Durante estos años
+Durante estos aï¿½os
 he lanzado varias sondas.
 
 1293
 01:39:53,063 --> 01:39:56,482
-- ¿Hasta dónde ha explorado?
+- ï¿½Hasta dï¿½nde ha explorado?
 - He organizado varias expediciones.
 
 1294
 01:39:56,650 --> 01:40:00,570
-Pero con el suministro de oxígeno
+Pero con el suministro de oxï¿½geno
 limitado, KIPP hizo el trabajo de campo.
 
 1295
 01:40:00,821 --> 01:40:03,489
-- ¿Qué le ha pasado, señor?
+- ï¿½Quï¿½ le ha pasado, seï¿½or?
 - Deterioro.
 
 1296
 01:40:03,740 --> 01:40:07,242
-Identificó erróneamente
-el primer compuesto orgánico que hallamos.
+Identificï¿½ errï¿½neamente
+el primer compuesto orgï¿½nico que hallamos.
 
 1297
 01:40:07,493 --> 01:40:11,413
-Seguimos intentándolo,
-pero al final lo relevé del servicio.
+Seguimos intentï¿½ndolo,
+pero al final lo relevï¿½ del servicio.
 
 1298
 01:40:11,581 --> 01:40:13,999
-Con su fuente de alimentación
-seguí con la misión.
+Con su fuente de alimentaciï¿½n
+seguï¿½ con la misiï¿½n.
 
 1299
 01:40:14,167 --> 01:40:16,752
-¡Y creía que estaba solo
+ï¿½Y creï¿½a que estaba solo
 antes de apagarlo!
 
 1300
 01:40:17,003 --> 01:40:18,837
-¿Quiere que le eche un vistazo?
+ï¿½Quiere que le eche un vistazo?
 
 1301
 01:40:20,423 --> 01:40:21,757
@@ -5748,24 +5748,24 @@ que su padre ha fallecido hoy.
 
 1308
 01:40:56,876 --> 01:40:57,960
-¿Es Murph?
+ï¿½Es Murph?
 
 1309
 01:40:58,503 --> 01:40:59,503
-Qué...
+Quï¿½...
 
 1310
 01:41:00,213 --> 01:41:02,714
-<i>- Qué mayor está.
-- Brand, ¿lo sabías?
+<i>- Quï¿½ mayor estï¿½.
+- Brand, ï¿½lo sabï¿½as?
 
 1311
 01:41:03,884 --> 01:41:05,552
-<i>Te lo dijo, ¿verdad?
+<i>Te lo dijo, ï¿½verdad?
 
 1312
 01:41:08,722 --> 01:41:09,889
-<i>Tú lo sabías.
+<i>Tï¿½ lo sabï¿½as.
 
 1313
 01:41:11,642 --> 01:41:13,142
@@ -5773,23 +5773,23 @@ Qué...
 
 1314
 01:41:14,186 --> 01:41:15,853
-<i>Nos dejaste aquí.
+<i>Nos dejaste aquï¿½.
 
 1315
 01:41:17,982 --> 01:41:19,649
-<i>Para que muriéramos asfixiados.
+<i>Para que muriï¿½ramos asfixiados.
 
 1316
 01:41:21,610 --> 01:41:23,194
-<i>Para que muriéramos de hambre.
+<i>Para que muriï¿½ramos de hambre.
 
 1317
 01:41:26,282 --> 01:41:28,032
-<i>¿Mi padre también lo sabía?
+<i>ï¿½Mi padre tambiï¿½n lo sabï¿½a?
 
 1318
 01:41:30,576 --> 01:41:31,910
-<i>¿Papá?
+<i>ï¿½Papï¿½?
 
 1319
 01:41:33,746 --> 01:41:35,581
@@ -5797,7 +5797,7 @@ Qué...
 
 1320
 01:41:37,000 --> 01:41:39,084
-<i>si me dejaste aquí para que muriera.
+<i>si me dejaste aquï¿½ para que muriera.
 
 1321
 01:41:41,587 --> 01:41:43,588
@@ -5817,64 +5817,64 @@ toda su vida al plan A.
 
 1325
 01:41:56,394 --> 01:41:59,438
-No sé de qué está hablando.
+No sï¿½ de quï¿½ estï¿½ hablando.
 
 1326
 01:42:01,149 --> 01:42:02,316
-Yo sí.
+Yo sï¿½.
 
 1327
 01:42:07,322 --> 01:42:10,073
-¿No tenía esperanza
+ï¿½No tenï¿½a esperanza
 de sacar a la gente de la Tierra?
 
 1328
 01:42:16,581 --> 01:42:20,335
-Ha estado cuarenta años intentando
-resolver la ecuación gravitatoria.
+Ha estado cuarenta aï¿½os intentando
+resolver la ecuaciï¿½n gravitatoria.
 
 1329
 01:42:20,919 --> 01:42:24,339
-Amelia, tu padre resolvió la ecuación
+Amelia, tu padre resolviï¿½ la ecuaciï¿½n
 antes de que yo me fuera.
 
 1330
 01:42:25,007 --> 01:42:26,758
-¿Y por qué no la utilizó?
+ï¿½Y por quï¿½ no la utilizï¿½?
 
 1331
 01:42:26,925 --> 01:42:29,969
 No reconciliaba la relatividad
-con la mecánica cuántica.
+con la mecï¿½nica cuï¿½ntica.
 
 1332
 01:42:30,262 --> 01:42:33,014
-- Hace falta algo más.
-- ¿Más qué?
+- Hace falta algo mï¿½s.
+- ï¿½Mï¿½s quï¿½?
 
 1333
 01:42:33,265 --> 01:42:35,975
-Más datos. Hay que mirar
+Mï¿½s datos. Hay que mirar
 dentro de un agujero negro.
 
 1334
 01:42:36,143 --> 01:42:38,311
-La naturaleza prohíbe
+La naturaleza prohï¿½be
 una singularidad desnuda.
 
 1335
 01:42:38,604 --> 01:42:39,979
-Romilly, ¿es eso cierto?
+Romilly, ï¿½es eso cierto?
 
 1336
 01:42:41,357 --> 01:42:45,026
 Si un agujero negro fuera una ostra,
-la singularidad sería la perla.
+la singularidad serï¿½a la perla.
 
 1337
 01:42:45,235 --> 01:42:47,904
 La gravedad es tan fuerte
-que está escondida,
+que estï¿½ escondida,
 
 1338
 01:42:48,072 --> 01:42:49,572
@@ -5886,8 +5886,8 @@ Por eso se llama agujero negro.
 
 1340
 01:42:53,243 --> 01:42:56,662
-Pero si lográramos ver
-más allá del horizonte...
+Pero si logrï¿½ramos ver
+mï¿½s allï¿½ del horizonte...
 
 1341
 01:42:57,246 --> 01:42:58,747
@@ -5900,8 +5900,8 @@ que deben permanecer desconocidas.
 
 1343
 01:43:01,667 --> 01:43:05,671
-Tu padre debía hallar otra forma
-de salvar a la humanidad de la extinción.
+Tu padre debï¿½a hallar otra forma
+de salvar a la humanidad de la extinciï¿½n.
 
 1344
 01:43:05,880 --> 01:43:07,381
@@ -5909,17 +5909,17 @@ El plan B: Una colonia.
 
 1345
 01:43:07,548 --> 01:43:09,216
-¿Por qué se lo calló?
+ï¿½Por quï¿½ se lo callï¿½?
 
 1346
 01:43:10,760 --> 01:43:13,762
-- ¿Por qué construyó esas estaciones?
-- Porque sabía que
+- ï¿½Por quï¿½ construyï¿½ esas estaciones?
+- Porque sabï¿½a que
 
 1347
 01:43:13,930 --> 01:43:17,933
-la gente no querría salvar a la especie
-antes que a sí misma.
+la gente no querrï¿½a salvar a la especie
+antes que a sï¿½ misma.
 
 1348
 01:43:18,393 --> 01:43:19,559
@@ -5931,12 +5931,12 @@ Puros cuentos.
 
 1350
 01:43:20,895 --> 01:43:23,730
-Tú no habrías venido
+Tï¿½ no habrï¿½as venido
 de no haber podido salvarlos.
 
 1351
 01:43:23,898 --> 01:43:27,067
-La evolución aún tiene que trascender
+La evoluciï¿½n aï¿½n tiene que trascender
 esa simple barrera.
 
 1352
@@ -5947,15 +5947,15 @@ sentimientos abnegados
 1353
 01:43:29,779 --> 01:43:33,366
 aquellos a los que conocemos,
-pero esa empatía se reduce a lo que vemos.
+pero esa empatï¿½a se reduce a lo que vemos.
 
 1354
 01:43:33,617 --> 01:43:35,284
-¡Pero esa mentira!
+ï¿½Pero esa mentira!
 
 1355
 01:43:38,580 --> 01:43:40,957
-¿Esa monstruosa mentira?
+ï¿½Esa monstruosa mentira?
 
 1356
 01:43:42,126 --> 01:43:43,292
@@ -5963,7 +5963,7 @@ Imperdonable.
 
 1357
 01:43:43,544 --> 01:43:45,044
-Y él lo sabía.
+Y ï¿½l lo sabï¿½a.
 
 1358
 01:43:45,879 --> 01:43:49,882
@@ -5972,11 +5972,11 @@ con el fin de salvar a la especie.
 
 1359
 01:43:50,300 --> 01:43:52,718
-Hizo un sacrificio increíble.
+Hizo un sacrificio increï¿½ble.
 
 1360
 01:43:54,138 --> 01:43:57,432
-¡Sacrificio es el que hace
+ï¿½Sacrificio es el que hace
 la gente de la Tierra,
 
 1361
@@ -5989,7 +5989,7 @@ Porque por su maldita arrogancia
 
 1363
 01:44:02,062 --> 01:44:04,063
-les declaró un caso perdido.
+les declarï¿½ un caso perdido.
 
 1364
 01:44:04,815 --> 01:44:06,315
@@ -6005,7 +6005,7 @@ Nosotros somos el futuro.
 
 1367
 01:44:16,410 --> 01:44:18,327
-Cooper, ¿qué puedo hacer?
+Cooper, ï¿½quï¿½ puedo hacer?
 
 1368
 01:44:21,540 --> 01:44:23,374
@@ -6013,25 +6013,25 @@ Dejarme volver a casa.
 
 1369
 01:44:23,959 --> 01:44:25,667
-¿Estás completamente segura?
+ï¿½Estï¿½s completamente segura?
 
 1370
 01:44:26,419 --> 01:44:28,962
-Su solución era correcta.
-Llegó a ella hace años.
+Su soluciï¿½n era correcta.
+Llegï¿½ a ella hace aï¿½os.
 
 1371
 01:44:29,672 --> 01:44:32,257
-- ¿No tiene valor?
+- ï¿½No tiene valor?
 - Es la mitad de la respuesta.
 
 1372
 01:44:34,677 --> 01:44:36,344
-¿Y cómo se halla la otra mitad?
+ï¿½Y cï¿½mo se halla la otra mitad?
 
 1373
 01:44:36,888 --> 01:44:38,513
-¿Allí? En un agujero negro.
+ï¿½Allï¿½? En un agujero negro.
 
 1374
 01:44:38,723 --> 01:44:39,848
@@ -6043,11 +6043,11 @@ No creo que se pueda.
 
 1376
 01:44:46,523 --> 01:44:49,192
-Dios, se han largado sin más.
+Dios, se han largado sin mï¿½s.
 
 1377
 01:44:50,611 --> 01:44:52,695
-¿Qué esperan encontrar?
+ï¿½Quï¿½ esperan encontrar?
 
 1378
 01:44:53,280 --> 01:44:54,280
@@ -6055,25 +6055,25 @@ La supervivencia.
 
 1379
 01:45:02,039 --> 01:45:03,122
-¡Mierda!
+ï¿½Mierda!
 
 1380
 01:45:07,336 --> 01:45:09,796
-¿No tiene la gente derecho a saberlo?
+ï¿½No tiene la gente derecho a saberlo?
 
 1381
 01:45:10,547 --> 01:45:14,550
-Sembrar el pánico no serviría de nada.
+Sembrar el pï¿½nico no servirï¿½a de nada.
 Hay que seguir trabajando igual.
 
 1382
 01:45:14,801 --> 01:45:18,012
-¿Pero no es eso lo que el Profesor Brand
+ï¿½Pero no es eso lo que el Profesor Brand
 nos hizo a nosotros?
 
 1383
 01:45:18,180 --> 01:45:21,474
-Brand perdió la fe en nosotros.
+Brand perdiï¿½ la fe en nosotros.
 Yo sigo intentando resolverlo.
 
 1384
@@ -6082,7 +6082,7 @@ Entonces,
 
 1385
 01:45:24,603 --> 01:45:25,603
-¿tienes una idea?
+ï¿½tienes una idea?
 
 1386
 01:45:26,980 --> 01:45:28,314
@@ -6094,7 +6094,7 @@ Un presentimiento.
 
 1388
 01:45:35,697 --> 01:45:37,865
-<i>Mi padre creía que lo llamaba fantasma
+<i>Mi padre creï¿½a que lo llamaba fantasma
 
 1389
 01:45:38,033 --> 01:45:39,825
@@ -6106,20 +6106,20 @@ Pero no me daba miedo.
 
 1391
 01:45:46,917 --> 01:45:49,585
-<i>Lo llamaba fantasma porque parecía...
+<i>Lo llamaba fantasma porque parecï¿½a...
 
 1392
 01:45:52,005 --> 01:45:53,672
-Parecía una persona.
+Parecï¿½a una persona.
 
 1393
 01:45:56,217 --> 01:45:57,884
-Quería decirme algo.
+Querï¿½a decirme algo.
 
 1394
 01:46:00,848 --> 01:46:03,849
 Si existe una respuesta en la Tierra,
-está allí.
+estï¿½ allï¿½.
 
 1395
 01:46:04,309 --> 01:46:06,227
@@ -6135,12 +6135,12 @@ Nos estamos quedando sin tiempo.
 
 1398
 01:46:15,612 --> 01:46:17,613
-<i>¿Y los purificadores de oxígeno?
+<i>ï¿½Y los purificadores de oxï¿½geno?
 
 1399
 01:46:17,781 --> 01:46:20,866
-Se pueden quedar aquí.
-Iré durmiendo casi todo el camino.
+Se pueden quedar aquï¿½.
+Irï¿½ durmiendo casi todo el camino.
 
 1400
 01:46:21,827 --> 01:46:23,786
@@ -6162,12 +6162,12 @@ Me voy a casa, Rom.
 
 1404
 01:46:30,335 --> 01:46:33,671
-Sí, lo sé.
-No te quitaría nada de tiempo.
+Sï¿½, lo sï¿½.
+No te quitarï¿½a nada de tiempo.
 
 1405
 01:46:34,381 --> 01:46:36,215
-Podrías salvar a los de la Tierra.
+Podrï¿½as salvar a los de la Tierra.
 
 1406
 01:46:36,550 --> 01:46:37,550
@@ -6175,8 +6175,8 @@ Dime.
 
 1407
 01:46:37,718 --> 01:46:40,344
-Gargantúa es un antiguo agujero negro
-en rotación.
+Gargantï¿½a es un antiguo agujero negro
+en rotaciï¿½n.
 
 1408
 01:46:40,512 --> 01:46:42,972
@@ -6185,7 +6185,7 @@ una singularidad moderada.
 
 1409
 01:46:43,140 --> 01:46:44,140
-¿Moderada?
+ï¿½Moderada?
 
 1410
 01:46:44,308 --> 01:46:47,727
@@ -6195,7 +6195,7 @@ son tan intensas
 1411
 01:46:47,894 --> 01:46:51,147
 que si algo cruzara el horizonte
-velozmente podría sobrevivir.
+velozmente podrï¿½a sobrevivir.
 
 1412
 01:46:51,315 --> 01:46:52,315
@@ -6203,31 +6203,31 @@ Como una sonda.
 
 1413
 01:46:52,482 --> 01:46:53,608
-¿Y después qué?
+ï¿½Y despuï¿½s quï¿½?
 
 1414
 01:46:53,775 --> 01:46:56,986
-Lo que haya más allá del horizonte
+Lo que haya mï¿½s allï¿½ del horizonte
 es un misterio.
 
 1415
 01:46:57,237 --> 01:47:00,072
-¿Quién dice que no hay alguna forma
+ï¿½Quiï¿½n dice que no hay alguna forma
 de que la sonda
 
 1416
 01:47:00,240 --> 01:47:03,326
 pueda ver la singularidad
-y transmitir los datos cuánticos?
+y transmitir los datos cuï¿½nticos?
 
 1417
 01:47:03,493 --> 01:47:06,746
-Si está equipado para transmitir
-toda energía que pueda oscilar.
+Si estï¿½ equipado para transmitir
+toda energï¿½a que pueda oscilar.
 
 1418
 01:47:06,914 --> 01:47:09,665
-¿Desde cuándo "sonda" es masculino?
+ï¿½Desde cuï¿½ndo "sonda" es masculino?
 
 1419
 01:47:10,250 --> 01:47:12,001
@@ -6235,21 +6235,21 @@ TARS es el mejor candidato.
 
 1420
 01:47:12,836 --> 01:47:14,754
-Ya le he dicho qué debe buscar.
+Ya le he dicho quï¿½ debe buscar.
 
 1421
 01:47:14,921 --> 01:47:17,674
-Necesitaría el transmisor óptico
-que tenía KIPP.
+Necesitarï¿½a el transmisor ï¿½ptico
+que tenï¿½a KIPP.
 
 1422
 01:47:17,842 --> 01:47:19,176
-¿Harías eso por nosotros?
+ï¿½Harï¿½as eso por nosotros?
 
 1423
 01:47:19,344 --> 01:47:23,179
 Antes de que rompan a llorar, no olviden
-que, como robot, cumplo órdenes.
+que, como robot, cumplo ï¿½rdenes.
 
 1424
 01:47:24,139 --> 01:47:25,640
@@ -6261,7 +6261,7 @@ No estoy bromeando.
 
 1426
 01:47:29,936 --> 01:47:33,189
-Necesitaré que TARS modifique
+Necesitarï¿½ que TARS modifique
 algunos componentes de KIPP.
 
 1427
@@ -6271,7 +6271,7 @@ sus funciones de archivo.
 
 1428
 01:47:35,859 --> 01:47:37,360
-Lo supervisaré.
+Lo supervisarï¿½.
 
 1429
 01:47:37,694 --> 01:47:38,694
@@ -6284,13 +6284,13 @@ tres emplazamientos.
 
 1431
 01:47:41,365 --> 01:47:43,616
-Uno servirá de laboratorio
-y dos, de hábitat.
+Uno servirï¿½ de laboratorio
+y dos, de hï¿½bitat.
 
 1432
 01:47:43,784 --> 01:47:46,160
-Una vez en tierra los módulos,
-no hay marcha atrás.
+Una vez en tierra los mï¿½dulos,
+no hay marcha atrï¿½s.
 
 1433
 01:47:46,328 --> 01:47:48,913
@@ -6300,16 +6300,16 @@ No creo que...
 1434
 01:47:49,081 --> 01:47:51,749
 estas condiciones se mantengan.
-Deberíamos esperar.
+Deberï¿½amos esperar.
 
 1435
 01:47:51,917 --> 01:47:54,794
 CASE ha bajado con el resto
-del equipo de destilación.
+del equipo de destilaciï¿½n.
 
 1436
 01:47:54,961 --> 01:47:58,255
-Me gustaría asegurar los emplazamientos
+Me gustarï¿½a asegurar los emplazamientos
 antes de que anochezca.
 
 1437
@@ -6322,21 +6322,21 @@ Pues vamos.
 
 1439
 01:48:04,471 --> 01:48:06,639
-- ¿Llevas transmisor de largo alcance?
-- Sí.
+- ï¿½Llevas transmisor de largo alcance?
+- Sï¿½.
 
 1440
 01:48:06,848 --> 01:48:08,432
-- ¿Estás cargado?
-- Sí.
+- ï¿½Estï¿½s cargado?
+- Sï¿½.
 
 1441
 01:48:09,017 --> 01:48:10,017
-Sígueme.
+Sï¿½gueme.
 
 1442
 01:48:10,811 --> 01:48:12,895
-TARS, 72 horas, ¿sí?
+TARS, 72 horas, ï¿½sï¿½?
 
 1443
 01:48:13,146 --> 01:48:14,397
@@ -6344,18 +6344,18 @@ Recibido, Cooper.
 
 1444
 01:48:20,654 --> 01:48:23,698
-Brand me ha contado por qué crees
+Brand me ha contado por quï¿½ crees
 que tienes que volver.
 
 1445
 01:48:25,534 --> 01:48:28,369
-Pero sería una irresponsabilidad
+Pero serï¿½a una irresponsabilidad
 no mencionarte que...
 
 1446
 01:48:28,662 --> 01:48:32,666
-a una misión como la nuestra
-no le vendría nada mal un ingeniero extra.
+a una misiï¿½n como la nuestra
+no le vendrï¿½a nada mal un ingeniero extra.
 
 1447
 01:48:34,669 --> 01:48:36,503
@@ -6376,11 +6376,11 @@ Ha sido un honor formar parte de esto.
 1451
 01:48:45,930 --> 01:48:49,306
 Pero establecemos el campamento base,
-aseguramos los módulos
+aseguramos los mï¿½dulos
 
 1452
 01:48:49,474 --> 01:48:51,142
-y mi trabajo aquí ha terminado.
+y mi trabajo aquï¿½ ha terminado.
 
 1453
 01:48:51,351 --> 01:48:52,685
@@ -6403,16 +6403,16 @@ Ese sentimiento es fundamentalmente
 1457
 01:49:13,749 --> 01:49:17,001
 lo que nos convierte en seres humanos.
-No es ninguna tontería.
+No es ninguna tonterï¿½a.
 
 1458
 01:49:24,760 --> 01:49:27,344
-- ¿Desde cuándo tienes esa tos?
+- ï¿½Desde cuï¿½ndo tienes esa tos?
 - Desde hace tiempo.
 
 1459
 01:49:37,898 --> 01:49:39,899
-Mamá me deja jugar aquí.
+Mamï¿½ me deja jugar aquï¿½.
 
 1460
 01:49:41,610 --> 01:49:43,069
@@ -6424,8 +6424,8 @@ Hay que ir con cuidado.
 
 1462
 01:50:20,816 --> 01:50:24,151
-¿Sabes por qué no podíamos enviar
-máquinas a estas misiones?
+ï¿½Sabes por quï¿½ no podï¿½amos enviar
+mï¿½quinas a estas misiones?
 
 1463
 01:50:24,778 --> 01:50:26,487
@@ -6443,7 +6443,7 @@ es nuestra mayor
 
 1466
 01:50:32,744 --> 01:50:36,330
-fuente de inspiración. Fíjate en ti.
+fuente de inspiraciï¿½n. Fï¿½jate en ti.
 
 1467
 01:50:37,040 --> 01:50:38,374
@@ -6456,8 +6456,8 @@ que se extiende a sus hijos.
 
 1469
 01:50:43,088 --> 01:50:47,216
-¿Qué es, según las investigaciones,
-lo último que se ve antes de morir?
+ï¿½Quï¿½ es, segï¿½n las investigaciones,
+lo ï¿½ltimo que se ve antes de morir?
 
 1470
 01:50:49,469 --> 01:50:52,012
@@ -6481,20 +6481,20 @@ Respira hondo.
 
 1475
 01:51:03,401 --> 01:51:06,611
-Tú debes de ser Coop.
-¿Por qué no te sientas aquí?
+Tï¿½ debes de ser Coop.
+ï¿½Por quï¿½ no te sientas aquï¿½?
 
 1476
 01:51:06,904 --> 01:51:09,239
-Es grave. No pueden quedarse aquí.
+Es grave. No pueden quedarse aquï¿½.
 
 1477
 01:51:19,500 --> 01:51:21,001
-¿Por qué tardas tanto?
+ï¿½Por quï¿½ tardas tanto?
 
 1478
 01:51:21,169 --> 01:51:24,004
-Profesor, me está costando
+Profesor, me estï¿½ costando
 completar el arranque.
 
 1479
@@ -6507,11 +6507,11 @@ Tiene gracia.
 
 1481
 01:51:35,850 --> 01:51:37,517
-Cuando dejé la Tierra,
+Cuando dejï¿½ la Tierra,
 
 1482
 01:51:38,519 --> 01:51:40,604
-pensé que estaba preparado para morir.
+pensï¿½ que estaba preparado para morir.
 
 1483
 01:51:42,648 --> 01:51:43,981
@@ -6519,7 +6519,7 @@ La verdad es...
 
 1484
 01:51:46,193 --> 01:51:48,736
-que realmente nunca consideré
+que realmente nunca considerï¿½
 la posibilidad
 
 1485
@@ -6536,21 +6536,21 @@ Vamos.
 
 1488
 01:52:05,921 --> 01:52:08,672
-Muy bien, campeón, respira hondo.
+Muy bien, campeï¿½n, respira hondo.
 
 1489
 01:52:13,554 --> 01:52:14,971
-¿Qué es esto?
+ï¿½Quï¿½ es esto?
 
 1490
 01:52:15,389 --> 01:52:19,225
-- ¿Pero qué hace?
+- ï¿½Pero quï¿½ hace?
 - No puedo dejar que te vayas en esa nave.
 
 1491
 01:52:19,560 --> 01:52:21,895
 Vamos a necesitarla
-para completar la misión,
+para completar la misiï¿½n,
 
 1492
 01:52:22,229 --> 01:52:25,649
@@ -6559,15 +6559,15 @@ la realidad de este planeta.
 
 1493
 01:52:25,942 --> 01:52:28,693
-No podemos sobrevivir aquí. ¡Lo siento!
+No podemos sobrevivir aquï¿½. ï¿½Lo siento!
 
 1494
 01:52:29,153 --> 01:52:30,403
-¡Lo siento!
+ï¿½Lo siento!
 
 1495
 01:52:39,914 --> 01:52:42,916
-- No pueden seguir aquí.
+- No pueden seguir aquï¿½.
 - Tienen que irse ahora.
 
 1496
@@ -6581,25 +6581,25 @@ Coop, toma sus cosas. Ya se va.
 
 1498
 01:52:50,299 --> 01:52:52,384
-¡Papá no te crio
-para que fueras tan estúpido!
+ï¿½Papï¿½ no te crio
+para que fueras tan estï¿½pido!
 
 1499
 01:52:52,593 --> 01:52:56,346
-Papá no me crio. Fue el abuelo.
-Y está enterrado ahí, con mamá y Jesse.
+Papï¿½ no me crio. Fue el abuelo.
+Y estï¿½ enterrado ahï¿½, con mamï¿½ y Jesse.
 
 1500
 01:52:57,181 --> 01:52:59,849
-¿Falseó todos los datos?
+ï¿½Falseï¿½ todos los datos?
 
 1501
 01:53:01,560 --> 01:53:02,644
-Sí.
+Sï¿½.
 
 1502
 01:53:06,649 --> 01:53:08,316
-¿No hay superficie?
+ï¿½No hay superficie?
 
 1503
 01:53:10,653 --> 01:53:12,569
@@ -6607,27 +6607,27 @@ He intentado cumplir con mi deber,
 
 1504
 01:53:12,821 --> 01:53:15,739
-pero desde que llegué supe que...
+pero desde que lleguï¿½ supe que...
 
 1505
 01:53:16,408 --> 01:53:17,950
-aquí no había nada que hacer.
+aquï¿½ no habï¿½a nada que hacer.
 
 1506
 01:53:18,451 --> 01:53:22,246
-Y he resistido la tentación durante años,
+Y he resistido la tentaciï¿½n durante aï¿½os,
 
 1507
 01:53:22,872 --> 01:53:24,957
-pero sabía que
+pero sabï¿½a que
 
 1508
 01:53:25,291 --> 01:53:28,128
-con pulsar ese botón
+con pulsar ese botï¿½n
 
 1509
 01:53:28,421 --> 01:53:30,338
-vendrían a salvarme.
+vendrï¿½an a salvarme.
 
 1510
 01:53:31,465 --> 01:53:32,966
@@ -6635,11 +6635,11 @@ Maldito cobarde.
 
 1511
 01:53:34,010 --> 01:53:46,563
-Sí.
+Sï¿½.
 
 1512
 01:53:58,075 --> 01:54:01,244
-Si tú no quieres irte,
+Si tï¿½ no quieres irte,
 deja que se vayan ellos.
 
 1513
@@ -6648,33 +6648,33 @@ Salva a tu familia.
 
 1514
 01:54:03,164 --> 01:54:05,373
-¿Y vivir bajo tierra, contigo?
+ï¿½Y vivir bajo tierra, contigo?
 
 1515
 01:54:05,583 --> 01:54:07,125
-¿Y rezar para que nos salve papá?
+ï¿½Y rezar para que nos salve papï¿½?
 
 1516
 01:54:07,585 --> 01:54:11,212
-Papá no va a volver.
-Nunca fue su intención. Lo haré yo.
+Papï¿½ no va a volver.
+Nunca fue su intenciï¿½n. Lo harï¿½ yo.
 
 1517
 01:54:11,505 --> 01:54:13,214
-¿Vas a salvar a todo el mundo?
+ï¿½Vas a salvar a todo el mundo?
 
 1518
 01:54:13,632 --> 01:54:16,301
-- ¡Si papá no ha podido!
-- ¡Papá ni lo ha intentado!
+- ï¿½Si papï¿½ no ha podido!
+- ï¿½Papï¿½ ni lo ha intentado!
 
 1519
 01:54:16,635 --> 01:54:18,470
-¡Papá nos abandonó!
+ï¿½Papï¿½ nos abandonï¿½!
 
 1520
 01:54:19,430 --> 01:54:21,890
-Nos dejó aquí para que muriéramos.
+Nos dejï¿½ aquï¿½ para que muriï¿½ramos.
 
 1521
 01:54:22,058 --> 01:54:23,725
@@ -6682,7 +6682,7 @@ No te vas a llevar a nadie.
 
 1522
 01:54:27,438 --> 01:54:30,106
-¿Quieres que se te muera otro hijo?
+ï¿½Quieres que se te muera otro hijo?
 
 1523
 01:54:33,110 --> 01:54:34,444
@@ -6698,16 +6698,16 @@ Haz lo que quieras con mis cosas.
 
 1526
 01:54:54,298 --> 01:54:55,632
-¡Pare!
+ï¿½Pare!
 
 1527
 01:55:01,388 --> 01:55:04,224
-¡Tiene un 50 por ciento de posibilidades
+ï¿½Tiene un 50 por ciento de posibilidades
 de matarse!
 
 1528
 01:55:05,059 --> 01:55:07,227
-Llevo años teniéndolo mucho más negro.
+Llevo aï¿½os teniï¿½ndolo mucho mï¿½s negro.
 
 1529
 01:55:27,581 --> 01:55:29,332
@@ -6715,7 +6715,7 @@ No me juzgues, Cooper.
 
 1530
 01:55:30,084 --> 01:55:32,335
-Nunca te han puesto a prueba como a mí.
+Nunca te han puesto a prueba como a mï¿½.
 
 1531
 01:55:32,962 --> 01:55:34,379
@@ -6723,11 +6723,11 @@ A casi nadie.
 
 1532
 01:55:42,721 --> 01:55:44,055
-No puedes hacer más.
+No puedes hacer mï¿½s.
 
 1533
 01:55:53,399 --> 01:55:55,233
-Lo sientes, ¿verdad?
+Lo sientes, ï¿½verdad?
 
 1534
 01:55:56,445 --> 01:55:58,279
@@ -6735,7 +6735,7 @@ El instinto de supervivencia.
 
 1535
 01:55:59,114 --> 01:56:01,782
-Es lo que me movió a mí
+Es lo que me moviï¿½ a mï¿½
 y lo que nos mueve a todos.
 
 1536
@@ -6745,7 +6745,7 @@ Y lo que nos va a salvar.
 1537
 01:56:04,661 --> 01:56:08,037
 Porque quiero que nos salvemos todos.
-Lo haré por ti.
+Lo harï¿½ por ti.
 
 1538
 01:56:13,169 --> 01:56:16,754
@@ -6753,11 +6753,11 @@ Lo siento, no puedo verte pasar por esto.
 
 1539
 01:56:17,089 --> 01:56:19,757
-Pensé que podría, pero no puedo.
+Pensï¿½ que podrï¿½a, pero no puedo.
 
 1540
 01:56:20,926 --> 01:56:23,011
-Estoy aquí, a tu lado.
+Estoy aquï¿½, a tu lado.
 
 1541
 01:56:23,345 --> 01:56:25,346
@@ -6765,15 +6765,15 @@ Estoy aquí, a tu lado.
 
 1542
 01:56:26,140 --> 01:56:27,474
-<i>Estoy aquí.
+<i>Estoy aquï¿½.
 
 1543
 01:56:29,310 --> 01:56:30,643
-<i>No estás solo.
+<i>No estï¿½s solo.
 
 1544
 01:56:40,362 --> 01:56:42,030
-¿Ves a tus hijos?
+ï¿½Ves a tus hijos?
 
 1545
 01:56:45,117 --> 01:56:46,451
@@ -6781,29 +6781,29 @@ Estoy aquí, a tu lado.
 
 1546
 01:56:47,494 --> 01:56:49,162
-Están a tu lado.
+Estï¿½n a tu lado.
 
 1547
 01:56:53,042 --> 01:56:55,793
-¿Te recitó el Profesor Brand
+ï¿½Te recitï¿½ el Profesor Brand
 ese poema al despedirte?
 
 1548
 01:56:56,462 --> 01:56:57,962
-<i>¿Lo recuerdas?
+<i>ï¿½Lo recuerdas?
 
 1549
 01:57:00,341 --> 01:57:03,009
-<i>"No entres dócilmente
+<i>"No entres dï¿½cilmente
 en esa buena noche.
 
 1550
 01:57:04,929 --> 01:57:07,764
-<i>La vejez debería delirar y arder
+<i>La vejez deberï¿½a delirar y arder
 
 1551
 01:57:07,973 --> 01:57:09,474
-<i>cuando se acaba el día.
+<i>cuando se acaba el dï¿½a.
 
 1552
 01:57:11,061 --> 01:57:13,646
@@ -6812,11 +6812,11 @@ contra la luz que se esconde".
 
 1553
 01:57:38,087 --> 01:57:39,837
-¡Brand! ¡Ayuda!
+ï¿½Brand! ï¿½Ayuda!
 
 1554
 01:57:40,005 --> 01:57:41,005
-<i>¡Ayuda!
+<i>ï¿½Ayuda!
 
 1555
 01:57:50,182 --> 01:57:51,474
@@ -6828,16 +6828,16 @@ Amoniaco.
 
 1557
 01:57:54,603 --> 01:57:57,021
-¡Cooper, ya vamos!
+ï¿½Cooper, ya vamos!
 
 1558
 01:57:57,273 --> 01:57:59,190
-- Tengo su posición.
-- ¡Vamos!
+- Tengo su posiciï¿½n.
+- ï¿½Vamos!
 
 1559
 01:57:59,358 --> 01:58:01,192
-¡Allá vamos!
+ï¿½Allï¿½ vamos!
 
 1560
 01:58:13,122 --> 01:58:15,290
@@ -6846,7 +6846,7 @@ No hables.
 
 1561
 01:58:15,457 --> 01:58:17,875
-Intenta respirar lo mínimo.
+Intenta respirar lo mï¿½nimo.
 Estamos llegando.
 
 1562
@@ -6860,7 +6860,7 @@ para acceder a las funciones.
 
 1564
 01:58:31,891 --> 01:58:33,392
-Todo suyo, señor.
+Todo suyo, seï¿½or.
 
 1565
 01:58:41,651 --> 01:58:43,068
@@ -6868,15 +6868,15 @@ Todo suyo, señor.
 
 1566
 01:58:44,112 --> 01:58:45,612
-<i>Ya estamos ahí.
+<i>Ya estamos ahï¿½.
 
 1567
 01:58:45,905 --> 01:58:47,990
-<i>¡CASE, vamos!
+<i>ï¿½CASE, vamos!
 
 1568
 01:58:48,158 --> 01:58:50,909
-<i>Rápido, CASE. ¡Más rápido!
+<i>Rï¿½pido, CASE. ï¿½Mï¿½s rï¿½pido!
 
 1569
 01:58:55,415 --> 01:58:57,166
@@ -6884,12 +6884,12 @@ Aguanta.
 
 1570
 01:59:03,672 --> 01:59:06,924
-¡Lo veo!
-CASE, inclínala hacia la derecha.
+ï¿½Lo veo!
+CASE, inclï¿½nala hacia la derecha.
 
 1571
 01:59:27,863 --> 01:59:28,946
-¡Estoy aquí!
+ï¿½Estoy aquï¿½!
 
 1572
 01:59:52,222 --> 01:59:54,223
@@ -6901,8 +6901,8 @@ Lo siento.
 
 1574
 02:00:04,192 --> 02:00:06,777
-- ¿Qué?
-- ¡Mann mentía!
+- ï¿½Quï¿½?
+- ï¿½Mann mentï¿½a!
 
 1575
 02:00:14,577 --> 02:00:16,328
@@ -6910,37 +6910,37 @@ Vamos.
 
 1576
 02:00:20,291 --> 02:00:22,626
-<i>Romilly, ¿me recibes?
+<i>Romilly, ï¿½me recibes?
 
 1577
 02:00:23,211 --> 02:00:25,212
-¡Apártese, Profesor!
+ï¿½Apï¿½rtese, Profesor!
 
 1578
 02:00:33,011 --> 02:00:35,763
-<i>Romilly, ¿me recibes?
+<i>Romilly, ï¿½me recibes?
 
 1579
 02:00:38,726 --> 02:00:40,059
-¡Vigila!
+ï¿½Vigila!
 
 1580
 02:00:41,270 --> 02:00:42,353
-¿Lois?
+ï¿½Lois?
 
 1581
 02:00:42,855 --> 02:00:45,606
-- ¿Y lo de "hombre precavido"?
+- ï¿½Y lo de "hombre precavido"?
 - La seguridad es lo primero.
 
 1582
 02:00:47,609 --> 02:00:50,153
-Romilly, ¿me recibes? Aquí Brand.
+Romilly, ï¿½me recibes? Aquï¿½ Brand.
 
 1583
 02:00:54,284 --> 02:00:56,827
 Dra. Brand, Cooper,
-ha habido una explosión.
+ha habido una explosiï¿½n.
 
 1584
 02:00:57,454 --> 02:00:59,288
@@ -6948,11 +6948,11 @@ En el complejo del Dr. Mann.
 
 1585
 02:01:26,858 --> 02:01:28,901
-¡TARS, a tus diez!
+ï¿½TARS, a tus diez!
 
 1586
 02:01:35,325 --> 02:01:37,242
-Avísame cuando TARS esté a bordo.
+Avï¿½same cuando TARS estï¿½ a bordo.
 
 1587
 02:01:40,830 --> 02:01:42,831
@@ -6964,13 +6964,13 @@ No he podido salvarle.
 
 1589
 02:01:45,502 --> 02:01:47,336
-- TARS está dentro.
+- TARS estï¿½ dentro.
 - Tomo el control.
 
 1590
 02:01:47,504 --> 02:01:49,796
-- ¿Posición del Ranger?
-- Lo pone en órbita.
+- ï¿½Posiciï¿½n del Ranger?
+- Lo pone en ï¿½rbita.
 
 1591
 02:01:50,423 --> 02:01:53,425
@@ -6979,25 +6979,25 @@ estamos muertos.
 
 1592
 02:01:54,677 --> 02:01:57,762
-- ¿Nos abandonaría?
+- ï¿½Nos abandonarï¿½a?
 - Ya lo ha hecho.
 
 1593
 02:01:59,598 --> 02:02:02,099
 Nos vemos abajo.
-Espérenme en el auto.
+Espï¿½renme en el auto.
 
 1594
 02:02:09,943 --> 02:02:13,946
-¡Vamos! Trae. ¡Suban, rápido!
+ï¿½Vamos! Trae. ï¿½Suban, rï¿½pido!
 
 1595
 02:02:19,827 --> 02:02:21,829
-<i>¡Dr. Mann, por favor, conteste!
+<i>ï¿½Dr. Mann, por favor, conteste!
 
 1596
 02:02:22,372 --> 02:02:24,373
-¡Dr. Mann, por favor, conteste!
+ï¿½Dr. Mann, por favor, conteste!
 
 1597
 02:02:24,541 --> 02:02:26,750
@@ -7006,8 +7006,8 @@ de acoplamiento.
 
 1598
 02:02:26,918 --> 02:02:29,545
-- Pero el piloto automático sí.
-- TARS lo desactivó.
+- Pero el piloto automï¿½tico sï¿½.
+- TARS lo desactivï¿½.
 
 1599
 02:02:30,838 --> 02:02:31,838
@@ -7015,8 +7015,8 @@ Genial.
 
 1600
 02:02:32,006 --> 02:02:34,967
-<i>- ¿Tu nivel de confianza, TARS?
-- Más bajo que el suyo.
+<i>- ï¿½Tu nivel de confianza, TARS?
+- Mï¿½s bajo que el suyo.
 
 1601
 02:02:38,471 --> 02:02:41,807
@@ -7051,7 +7051,7 @@ Repito, no intente el acoplamiento...
 
 1608
 02:04:44,264 --> 02:04:46,432
-Acercándonos a la Endurance.
+Acercï¿½ndonos a la Endurance.
 
 1609
 02:05:11,040 --> 02:05:12,541
@@ -7064,7 +7064,7 @@ Acercándonos a la Endurance.
 
 1611
 02:05:22,552 --> 02:05:25,137
-- ¿Se ha acoplado?
+- ï¿½Se ha acoplado?
 - No completamente.
 
 1612
@@ -7086,21 +7086,21 @@ Repito, no abra la escotilla.
 1616
 02:06:07,014 --> 02:06:10,058
 Si abre la escotilla,
-la esclusa se despresurizará.
+la esclusa se despresurizarï¿½.
 
 1617
 02:06:35,708 --> 02:06:38,085
-- ¿Qué pasaría si se despresurizase?
+- ï¿½Quï¿½ pasarï¿½a si se despresurizase?
 - Nada bueno.
 
 1618
 02:06:44,383 --> 02:06:46,551
-Atrás. ¡Retropropulsores al máximo!
+Atrï¿½s. ï¿½Retropropulsores al mï¿½ximo!
 
 1619
 02:06:46,719 --> 02:06:48,720
-- ¡Retropropulsores al máximo!
-- ¡Atrás!
+- ï¿½Retropropulsores al mï¿½ximo!
+- ï¿½Atrï¿½s!
 
 1620
 02:06:48,888 --> 02:06:51,223
@@ -7129,7 +7129,7 @@ Dr. Mann...
 
 1626
 02:07:01,567 --> 02:07:03,735
-<i>No sé qué te habrá contado.
+<i>No sï¿½ quï¿½ te habrï¿½ contado.
 
 1627
 02:07:03,986 --> 02:07:06,489
@@ -7138,11 +7138,11 @@ de la Endurance.
 
 1628
 02:07:06,907 --> 02:07:09,075
-<i>Y luego podremos completar la misión.
+<i>Y luego podremos completar la misiï¿½n.
 
 1629
 02:07:12,412 --> 02:07:14,163
-Dr. Mann, escúcheme.
+Dr. Mann, escï¿½cheme.
 
 1630
 02:07:14,915 --> 02:07:16,916
@@ -7163,21 +7163,21 @@ No es...
 
 1634
 02:07:38,897 --> 02:07:39,897
-¡Dios mío!
+ï¿½Dios mï¿½o!
 
 1635
 02:07:58,207 --> 02:08:02,168
 - No tiene sentido gastar combustible...
-- Analiza la rotación de la Endurance.
+- Analiza la rotaciï¿½n de la Endurance.
 
 1636
 02:08:07,341 --> 02:08:09,593
-- Cooper, ¿qué vas a hacer?
+- Cooper, ï¿½quï¿½ vas a hacer?
 - Acoplarme.
 
 1637
 02:08:14,223 --> 02:08:16,892
-La Endurance está girando a 68 r.p.m.
+La Endurance estï¿½ girando a 68 r.p.m.
 
 1638
 02:08:17,101 --> 02:08:19,603
@@ -7199,11 +7199,11 @@ La Endurance entra en la estratosfera.
 
 1642
 02:08:41,126 --> 02:08:43,127
-No tiene escudo térmico.
+No tiene escudo tï¿½rmico.
 
 1643
 02:08:46,089 --> 02:08:47,673
-- CASE, ¿preparado?
+- CASE, ï¿½preparado?
 - Preparado.
 
 1644
@@ -7213,7 +7213,7 @@ No es momento de ser precavido.
 1645
 02:09:01,146 --> 02:09:03,606
 CASE, si pierdo el conocimiento,
-toma el timón.
+toma el timï¿½n.
 
 1646
 02:09:03,774 --> 02:09:06,234
@@ -7242,16 +7242,16 @@ Estamos alineados.
 
 1652
 02:09:24,085 --> 02:09:25,585
-¡Iniciando giro!
+ï¿½Iniciando giro!
 
 1653
 02:10:07,087 --> 02:10:18,055
-¡Vamos, TARS!
+ï¿½Vamos, TARS!
 
 1654
 02:10:29,192 --> 02:10:31,819
 <i>- Acoplados.
-- Acoplados. ¡Disminuyendo velocidad!
+- Acoplados. ï¿½Disminuyendo velocidad!
 
 1655
 02:10:39,453 --> 02:10:43,289
@@ -7259,7 +7259,7 @@ Despacio.
 
 1656
 02:10:49,129 --> 02:10:50,629
-¡Retropropulsores!
+ï¿½Retropropulsores!
 
 1657
 02:10:58,847 --> 02:11:00,514
@@ -7267,41 +7267,41 @@ Motores principales encendidos.
 
 1658
 02:11:06,063 --> 02:11:08,814
-Saliendo de la órbita. Vamos.
+Saliendo de la ï¿½rbita. Vamos.
 
 1659
 02:11:16,823 --> 02:11:18,491
-¡Apagando motores principales!
+ï¿½Apagando motores principales!
 
 1660
 02:11:19,826 --> 02:11:21,410
-Fuera de la órbita.
+Fuera de la ï¿½rbita.
 
 1661
 02:11:30,212 --> 02:11:31,587
-¡Por el siguiente truco!
+ï¿½Por el siguiente truco!
 
 1662
 02:11:33,465 --> 02:11:37,301
-Más vale que sea bueno.
-Vamos hacia el tirón de Gargantúa.
+Mï¿½s vale que sea bueno.
+Vamos hacia el tirï¿½n de Gargantï¿½a.
 
 1663
 02:11:38,261 --> 02:11:39,261
-¡Mierda!
+ï¿½Mierda!
 
 1664
 02:11:39,763 --> 02:11:41,555
-- CASE, toma el timón.
+- CASE, toma el timï¿½n.
 - Recibido.
 
 1665
 02:12:31,398 --> 02:12:33,732
-<i>Cooper, vamos hacia Gargantúa.
+<i>Cooper, vamos hacia Gargantï¿½a.
 
 1666
 02:12:35,068 --> 02:12:37,069
-<i>¿Utilizo los motores principales?
+<i>ï¿½Utilizo los motores principales?
 
 1667
 02:12:38,822 --> 02:12:41,115
@@ -7310,7 +7310,7 @@ todo lo que podamos.
 
 1668
 02:12:49,875 --> 02:12:52,751
-- Cuéntame.
+- Cuï¿½ntame.
 - Tengo una buena noticia y una mala.
 
 1669
@@ -7324,7 +7324,7 @@ Al grano.
 1671
 02:13:05,390 --> 02:13:08,642
 Ya funciona el generador de reserva.
-El sistema está estable.
+El sistema estï¿½ estable.
 
 1672
 02:13:08,810 --> 02:13:09,810
@@ -7332,8 +7332,8 @@ Bien.
 
 1673
 02:13:11,521 --> 02:13:13,606
-El sistema de navegación
-está destruido.
+El sistema de navegaciï¿½n
+estï¿½ destruido.
 
 1674
 02:13:13,857 --> 02:13:16,692
@@ -7347,7 +7347,7 @@ al planeta de Edmunds.
 
 1676
 02:13:19,488 --> 02:13:20,488
-¿Y el combustible?
+ï¿½Y el combustible?
 
 1677
 02:13:20,865 --> 02:13:23,366
@@ -7355,8 +7355,8 @@ No hay suficiente, pero tengo un plan.
 
 1678
 02:13:23,993 --> 02:13:27,996
-<i>Dejaremos que Gargantúa
-con su tirón nos acerque a su horizonte.
+<i>Dejaremos que Gargantï¿½a
+con su tirï¿½n nos acerque a su horizonte.
 
 1679
 02:13:28,331 --> 02:13:31,750
@@ -7365,17 +7365,17 @@ hasta el planeta de Edmunds.
 
 1680
 02:13:31,918 --> 02:13:34,419
-<i>- ¿Manualmente?
-- Para eso estoy aquí.
+<i>- ï¿½Manualmente?
+- Para eso estoy aquï¿½.
 
 1681
 02:13:34,587 --> 02:13:37,005
 <i>Voy a hacer que entremos
-en la órbita crítica.
+en la ï¿½rbita crï¿½tica.
 
 1682
 02:13:37,173 --> 02:13:40,008
-<i>- ¿Y el desfase temporal?
+<i>- ï¿½Y el desfase temporal?
 - Ahora no estamos para preocuparnos
 
 1683
@@ -7389,11 +7389,11 @@ Lo siento, Cooper.
 1685
 02:13:51,061 --> 02:13:54,313
 <i>Cuando alcancemos suficiente velocidad
-alrededor de Gargantúa,
+alrededor de Gargantï¿½a,
 
 1686
 02:13:54,648 --> 02:13:56,482
-<i>usaremos el Módulo 1
+<i>usaremos el Mï¿½dulo 1
 
 1687
 02:13:56,983 --> 02:13:59,276
@@ -7407,25 +7407,25 @@ del agujero negro.
 
 1689
 02:14:04,783 --> 02:14:07,451
-<i>Las conexiones del Módulo
-están destruidas.
+<i>Las conexiones del Mï¿½dulo
+estï¿½n destruidas.
 
 1690
 02:14:07,619 --> 02:14:09,954
-<i>El control será manual.
+<i>El control serï¿½ manual.
 
 1691
 02:14:11,206 --> 02:14:14,041
-Cuando el Módulo 1 esté seco,
-TARS se separará
+Cuando el Mï¿½dulo 1 estï¿½ seco,
+TARS se separarï¿½
 
 1692
 02:14:14,292 --> 02:14:16,627
-y será engullido por el agujero negro.
+y serï¿½ engullido por el agujero negro.
 
 1693
 02:14:17,254 --> 02:14:18,504
-¿Por qué debe separarse?
+ï¿½Por quï¿½ debe separarse?
 
 1694
 02:14:18,672 --> 02:14:21,298
@@ -7439,7 +7439,7 @@ para escapar de la gravedad.
 1696
 02:14:23,051 --> 02:14:27,054
 <i>Los humanos solo saben avanzar
-dejando algo atrás.
+dejando algo atrï¿½s.
 
 1697
 02:14:28,807 --> 02:14:30,641
@@ -7448,7 +7448,7 @@ No le puedes pedir eso a TARS.
 1698
 02:14:30,809 --> 02:14:34,563
 Es un robot.
-Así que no hace falta pedirle nada.
+Asï¿½ que no hace falta pedirle nada.
 
 1699
 02:14:35,147 --> 02:14:36,189
@@ -7464,13 +7464,13 @@ Era el plan, Dra. Brand.
 
 1702
 02:14:41,487 --> 02:14:43,822
-La única opción de salvar
+La ï¿½nica opciï¿½n de salvar
 a la gente de la Tierra.
 
 1703
 02:14:43,990 --> 02:14:47,325
-<i>Si puedo transmitir los datos cuánticos
-que encuentre allí,
+<i>Si puedo transmitir los datos cuï¿½nticos
+que encuentre allï¿½,
 
 1704
 02:14:47,493 --> 02:14:49,327
@@ -7483,16 +7483,16 @@ a quien salvar.
 
 1706
 02:15:21,484 --> 02:15:23,152
-<i>Velocidad máxima alcanzada.
+<i>Velocidad mï¿½xima alcanzada.
 
 1707
 02:15:24,404 --> 02:15:26,739
-Preparados para ignición
+Preparados para igniciï¿½n
 de propulsores de escape.
 
 1708
 02:15:27,073 --> 02:15:28,073
-¿Preparados?
+ï¿½Preparados?
 
 1709
 02:15:28,575 --> 02:15:29,575
@@ -7504,7 +7504,7 @@ Preparado.
 
 1711
 02:15:31,036 --> 02:15:32,995
-Ignición del motor principal en tres,
+Igniciï¿½n del motor principal en tres,
 
 1712
 02:15:33,455 --> 02:15:34,455
@@ -7520,7 +7520,7 @@ Vamos.
 
 1715
 02:15:52,683 --> 02:15:54,851
-Motores del Módulo 1, a mi señal.
+Motores del Mï¿½dulo 1, a mi seï¿½al.
 
 1716
 02:15:55,227 --> 02:15:56,227
@@ -7536,7 +7536,7 @@ dos,
 
 1719
 02:16:04,820 --> 02:16:07,405
-<i>Motores del Ranger 2, a mi señal.
+<i>Motores del Ranger 2, a mi seï¿½al.
 
 1720
 02:16:07,573 --> 02:16:09,741
@@ -7545,22 +7545,22 @@ dos,
 1721
 02:16:10,493 --> 02:16:11,576
 - Ya.
-- ¡Ignición!
+- ï¿½Igniciï¿½n!
 
 1722
 02:16:21,754 --> 02:16:24,923
-¡Esta pequeña maniobra
-nos va a costar 51 años!
+ï¿½Esta pequeï¿½a maniobra
+nos va a costar 51 aï¿½os!
 
 1723
 02:16:25,841 --> 02:16:28,343
-¡No estás mal para estar
-a punto de cumplir 120 años!
+ï¿½No estï¿½s mal para estar
+a punto de cumplir 120 aï¿½os!
 
 1724
 02:16:43,650 --> 02:16:46,819
-<i>Módulo 1, preparado para separación,
-a mi señal.
+<i>Mï¿½dulo 1, preparado para separaciï¿½n,
+a mi seï¿½al.
 
 1725
 02:16:47,487 --> 02:16:49,488
@@ -7572,17 +7572,17 @@ Tres, dos,
 
 1727
 02:16:52,951 --> 02:16:53,951
-¡Separar!
+ï¿½Separar!
 
 1728
 02:16:57,038 --> 02:16:59,456
-<i>- Adiós, TARS.
-- Adiós, Dra. Brand.
+<i>- Adiï¿½s, TARS.
+- Adiï¿½s, Dra. Brand.
 
 1729
 02:16:59,708 --> 02:17:02,711
 - Nos vemos al otro lado, Coop.
-- Nos vemos, máquina.
+- Nos vemos, mï¿½quina.
 
 1730
 02:17:11,220 --> 02:17:12,804
@@ -7590,26 +7590,26 @@ Muy bien, CASE.
 
 1731
 02:17:13,931 --> 02:17:17,225
-<i>- ¡Gran vuelo temerario!
+<i>- ï¿½Gran vuelo temerario!
 - He aprendido del maestro.
 
 1732
 02:17:17,727 --> 02:17:20,395
-- Ranger 2, preparado para separación.
-- ¿Qué?
+- Ranger 2, preparado para separaciï¿½n.
+- ï¿½Quï¿½?
 
 1733
 02:17:21,814 --> 02:17:23,398
-Cooper, ¿qué haces?
+Cooper, ï¿½quï¿½ haces?
 
 1734
 02:17:23,899 --> 02:17:27,318
 La Tercera Ley de Newton.
-Hay que dejar algo atrás.
+Hay que dejar algo atrï¿½s.
 
 1735
 02:17:27,653 --> 02:17:30,071
-Dijiste que había suministros
+Dijiste que habï¿½a suministros
 para los dos.
 
 1736
@@ -7630,15 +7630,15 @@ Separar.
 
 1740
 02:17:54,305 --> 02:17:56,139
-Inclinando en dirección hacia abajo.
+Inclinando en direcciï¿½n hacia abajo.
 
 1741
 02:17:59,852 --> 02:18:01,853
-Aproximándome al horizonte de sucesos.
+Aproximï¿½ndome al horizonte de sucesos.
 
 1742
 02:18:04,105 --> 02:18:06,356
-Por babor, metiéndome por debajo
+Por babor, metiï¿½ndome por debajo
 
 1743
 02:18:06,941 --> 02:18:08,609
@@ -7658,7 +7658,7 @@ Todo oscuro.
 
 1747
 02:18:19,371 --> 02:18:21,039
-TARS, ¿me recibes?
+TARS, ï¿½me recibes?
 
 1748
 02:18:21,373 --> 02:18:22,874
@@ -7666,7 +7666,7 @@ La oscuridad total.
 
 1749
 02:18:24,877 --> 02:18:26,878
-TARS, ¿me recibes? Cambio.
+TARS, ï¿½me recibes? Cambio.
 
 1750
 02:18:34,094 --> 02:18:35,345
@@ -7696,12 +7696,12 @@ Los ordenadores no funcionan.
 
 1756
 02:19:09,838 --> 02:19:12,674
-El tirón gravitatorio.
+El tirï¿½n gravitatorio.
 Estoy perdiendo el control.
 
 1757
 02:19:45,958 --> 02:19:47,625
-¡Murph, vamos!
+ï¿½Murph, vamos!
 
 1758
 02:19:53,299 --> 02:20:02,807
@@ -7713,11 +7713,11 @@ Si te vas a ir, vete.
 
 1760
 02:23:36,105 --> 02:23:38,440
-No te vayas, imbécil.
+No te vayas, imbï¿½cil.
 
 1761
 02:23:38,608 --> 02:23:39,942
-¡No te vayas!
+ï¿½No te vayas!
 
 1762
 02:23:41,861 --> 02:23:45,322
@@ -7741,11 +7741,11 @@ Raya.
 
 1767
 02:24:06,552 --> 02:24:07,885
-¡Raya!
+ï¿½Raya!
 
 1768
 02:24:09,638 --> 02:24:11,639
-¡Murph, nos tenemos que ir!
+ï¿½Murph, nos tenemos que ir!
 
 1769
 02:24:12,057 --> 02:24:13,140
@@ -7753,7 +7753,7 @@ Raya.
 
 1770
 02:24:18,522 --> 02:24:19,522
-"¡Quédate!"
+"ï¿½Quï¿½date!"
 
 1771
 02:24:30,660 --> 02:24:32,995
@@ -7761,19 +7761,19 @@ Vamos, Murph.
 
 1772
 02:24:33,705 --> 02:24:35,455
-¿Qué pone, Murph?
+ï¿½Quï¿½ pone, Murph?
 
 1773
 02:24:36,249 --> 02:24:37,332
-¿Qué pone?
+ï¿½Quï¿½ pone?
 
 1774
 02:24:47,927 --> 02:24:49,011
-"Quédate".
+"Quï¿½date".
 
 1775
 02:25:24,546 --> 02:25:26,047
-Díselo, Murph.
+Dï¿½selo, Murph.
 
 1776
 02:25:26,215 --> 02:25:27,715
@@ -7785,7 +7785,7 @@ Haz que se quede, Murph.
 
 1778
 02:25:37,643 --> 02:25:40,144
-<i>QUÉDATE
+<i>QUï¿½DATE
 
 1779
 02:25:41,731 --> 02:25:43,649
@@ -7793,15 +7793,15 @@ Haz que se quede, Murph.
 
 1780
 02:25:45,109 --> 02:25:52,824
-¡No dejes que me vaya, Murph!
+ï¿½No dejes que me vaya, Murph!
 
 1781
 02:26:21,688 --> 02:26:23,188
-Eras tú.
+Eras tï¿½.
 
 1782
 02:26:34,617 --> 02:26:36,702
-Tú eras mi fantasma.
+Tï¿½ eras mi fantasma.
 
 1783
 02:26:48,381 --> 02:26:49,381
@@ -7809,17 +7809,17 @@ Tú eras mi fantasma.
 
 1784
 02:26:51,216 --> 02:26:53,718
-<i>- ¿TARS?
+<i>- ï¿½TARS?
 - Le recibo.
 
 1785
 02:26:55,512 --> 02:26:58,098
 <i>- Has sobrevivido.
-- En algún lugar...
+- En algï¿½n lugar...
 
 1786
 02:26:58,641 --> 02:27:00,642
-<i>de su quinta dimensión.
+<i>de su quinta dimensiï¿½n.
 
 1787
 02:27:00,893 --> 02:27:02,894
@@ -7827,15 +7827,15 @@ Tú eras mi fantasma.
 
 1788
 02:27:03,313 --> 02:27:05,272
-¿Sí? ¿Quiénes son "ellos"?
+ï¿½Sï¿½? ï¿½Quiï¿½nes son "ellos"?
 
 1789
 02:27:06,149 --> 02:27:08,150
-¿Y por qué iban a querer ayudarnos?
+ï¿½Y por quï¿½ iban a querer ayudarnos?
 
 1790
 02:27:08,443 --> 02:27:11,445
-<i>No lo sé, pero han construido
+<i>No lo sï¿½, pero han construido
 este espacio tridimensional
 
 1791
@@ -7849,17 +7849,17 @@ Pues no funciona.
 
 1793
 02:27:17,118 --> 02:27:18,452
-<i>Claro que sí.
+<i>Claro que sï¿½.
 
 1794
 02:27:18,745 --> 02:27:22,414
-<i>Aquí el tiempo
-es una dimensión física.
+<i>Aquï¿½ el tiempo
+es una dimensiï¿½n fï¿½sica.
 
 1795
 02:27:22,582 --> 02:27:25,542
 <i>Se puede ejercer
-una fuerza a través del espacio-tiempo.
+una fuerza a travï¿½s del espacio-tiempo.
 
 1796
 02:27:26,377 --> 02:27:27,502
@@ -7888,7 +7888,7 @@ entre ellas el tiempo.
 
 1802
 02:27:45,063 --> 02:27:47,064
-¿Tienes los datos cuánticos?
+ï¿½Tienes los datos cuï¿½nticos?
 
 1803
 02:27:47,440 --> 02:27:49,107
@@ -7906,23 +7906,23 @@ Yo puedo hacerlo.
 1806
 02:27:56,699 --> 02:27:59,201
 <i>Pero son datos muy complejos
-para una niña.
+para una niï¿½a.
 
 1807
 02:27:59,368 --> 02:28:00,744
-No es una niña cualquiera.
+No es una niï¿½a cualquiera.
 
 1808
 02:28:01,162 --> 02:28:02,496
-¿Qué más?
+ï¿½Quï¿½ mï¿½s?
 
 1809
 02:28:03,164 --> 02:28:05,874
-Vamos, papá.
+Vamos, papï¿½.
 
 1810
 02:28:07,502 --> 02:28:09,336
-¡Han apagado el fuego! ¡Vamos!
+ï¿½Han apagado el fuego! ï¿½Vamos!
 
 1811
 02:28:09,504 --> 02:28:10,922
@@ -7930,12 +7930,12 @@ Vamos, papá.
 
 1812
 02:28:11,090 --> 02:28:14,008
-<i>pasarían años hasta que pudiera entender
+<i>pasarï¿½an aï¿½os hasta que pudiera entender
 su significado.
 
 1813
 02:28:14,384 --> 02:28:15,885
-Lo sé, TARS.
+Lo sï¿½, TARS.
 
 1814
 02:28:16,053 --> 02:28:19,554
@@ -7944,11 +7944,11 @@ o la gente de la Tierra muere.
 
 1815
 02:28:19,722 --> 02:28:20,722
-¡Piensa!
+ï¿½Piensa!
 
 1816
 02:28:22,642 --> 02:28:25,685
-<i>No nos han traído hasta aquí
+<i>No nos han traï¿½do hasta aquï¿½
 para que cambiemos el pasado.
 
 1817
@@ -7957,12 +7957,12 @@ Repite eso.
 
 1818
 02:28:30,400 --> 02:28:34,069
-<i>Que no nos han traído hasta aquí
+<i>Que no nos han traï¿½do hasta aquï¿½
 para que cambiemos el pasado.
 
 1819
 02:28:38,241 --> 02:28:40,325
-No nos han traído ellos.
+No nos han traï¿½do ellos.
 
 1820
 02:28:45,081 --> 02:28:46,748
@@ -7988,29 +7988,29 @@ Transmitiendo datos.
 
 1825
 02:29:32,462 --> 02:29:34,130
-¿Aún no lo has entendido, TARS?
+ï¿½Aï¿½n no lo has entendido, TARS?
 
 1826
 02:29:34,798 --> 02:29:36,591
-¡He venido yo!
+ï¿½He venido yo!
 
 1827
 02:29:37,468 --> 02:29:40,970
-Estamos aquí para comunicarnos
+Estamos aquï¿½ para comunicarnos
 con el mundo tridimensional.
 
 1828
 02:29:41,430 --> 02:29:42,930
-¡Somos el puente!
+ï¿½Somos el puente!
 
 1829
 02:29:50,938 --> 02:29:52,689
-Creía que me habían elegido.
+Creï¿½a que me habï¿½an elegido.
 
 1830
 02:29:56,152 --> 02:29:59,821
-<i>- Pero no me eligieron a mí, sino a ella.
-- ¿Para qué?
+<i>- Pero no me eligieron a mï¿½, sino a ella.
+- ï¿½Para quï¿½?
 
 1831
 02:30:02,366 --> 02:30:04,034
@@ -8018,7 +8018,7 @@ Para salvar al mundo.
 
 1832
 02:30:08,164 --> 02:30:12,167
-Todo esto es el cuarto de una niña.
+Todo esto es el cuarto de una niï¿½a.
 Cada momento.
 
 1833
@@ -8032,7 +8032,7 @@ y a un espacio infinitos,
 
 1835
 02:30:17,131 --> 02:30:18,965
-pero no están delimitados por nada.
+pero no estï¿½n delimitados por nada.
 
 1836
 02:30:19,217 --> 02:30:22,469
@@ -8045,8 +8045,8 @@ No pueden comunicarse.
 
 1838
 02:30:25,556 --> 02:30:28,266
-Por eso estoy aquí.
-Voy a encontrar el modo de decírselo,
+Por eso estoy aquï¿½.
+Voy a encontrar el modo de decï¿½rselo,
 
 1839
 02:30:28,559 --> 02:30:30,227
@@ -8054,25 +8054,25 @@ igual que he encontrado este momento.
 
 1840
 02:30:30,394 --> 02:30:32,562
-<i>- ¿Cómo, Cooper?
+<i>- ï¿½Cï¿½mo, Cooper?
 - El amor, TARS.
 
 1841
 02:30:32,730 --> 02:30:33,897
-Es lo que decía Brand.
+Es lo que decï¿½a Brand.
 
 1842
 02:30:34,065 --> 02:30:37,275
-Mi vínculo con Murph es cuantificable.
-¡Es la clave!
+Mi vï¿½nculo con Murph es cuantificable.
+ï¿½Es la clave!
 
 1843
 02:30:37,443 --> 02:30:38,861
-<i>¿Para qué estamos aquí?
+<i>ï¿½Para quï¿½ estamos aquï¿½?
 
 1844
 02:30:40,322 --> 02:30:41,364
-Para ver cómo decírselo.
+Para ver cï¿½mo decï¿½rselo.
 
 1845
 02:30:44,993 --> 02:30:50,581
@@ -8090,7 +8090,7 @@ en el movimiento del segundero.
 1848
 02:31:03,303 --> 02:31:05,388
 Pasa los datos a Morse
-y transmítemelos.
+y transmï¿½temelos.
 
 1849
 02:31:05,597 --> 02:31:07,223
@@ -8098,19 +8098,19 @@ y transmítemelos.
 
 1850
 02:31:07,391 --> 02:31:09,892
-<i>Cooper, ¿y si nunca vuelve por él?
+<i>Cooper, ï¿½y si nunca vuelve por ï¿½l?
 
 1851
 02:31:11,562 --> 02:31:14,229
-Lo hará.
+Lo harï¿½.
 
 1852
 02:31:15,481 --> 02:31:16,982
-¡Murph, veo la camioneta!
+ï¿½Murph, veo la camioneta!
 
 1853
 02:31:18,276 --> 02:31:19,359
-¡Ya viene!
+ï¿½Ya viene!
 
 1854
 02:31:22,321 --> 02:31:23,321
@@ -8118,11 +8118,11 @@ Ya bajo.
 
 1855
 02:31:24,574 --> 02:31:26,074
-<i>¿Cómo lo sabe?
+<i>ï¿½Cï¿½mo lo sabe?
 
 1856
 02:31:29,328 --> 02:31:31,162
-Porque se lo regalé yo.
+Porque se lo regalï¿½ yo.
 
 1857
 02:31:36,544 --> 02:31:39,045
@@ -8155,53 +8155,53 @@ Raya, raya, raya.
 
 1864
 02:32:14,374 --> 02:32:15,708
-¡Ha vuelto!
+ï¿½Ha vuelto!
 
 1865
 02:32:16,627 --> 02:32:17,627
-¡Era él!
+ï¿½Era ï¿½l!
 
 1866
 02:32:17,919 --> 02:32:20,630
-¡Desde el principio!
-¡No lo sabía! ¡Era él!
+ï¿½Desde el principio!
+ï¿½No lo sabï¿½a! ï¿½Era ï¿½l!
 
 1867
 02:32:22,007 --> 02:32:23,841
-Papá va a salvarnos.
+Papï¿½ va a salvarnos.
 
 1868
 02:33:06,592 --> 02:33:07,843
-¡Eureka!
+ï¿½Eureka!
 
 1869
 02:33:11,640 --> 02:33:12,973
-Es tradición.
+Es tradiciï¿½n.
 
 1870
 02:33:17,479 --> 02:33:19,146
-¡Eureka!
+ï¿½Eureka!
 
 1871
 02:33:23,819 --> 02:33:25,319
-¿Ha funcionado?
+ï¿½Ha funcionado?
 
 1872
 02:33:25,654 --> 02:33:27,321
-<i>Puede que sí.
+<i>Puede que sï¿½.
 
 1873
 02:33:28,699 --> 02:33:29,698
-¿Cómo lo sabes?
+ï¿½Cï¿½mo lo sabes?
 
 1874
 02:33:29,866 --> 02:33:33,536
 <i>Porque los seres del bulk
-están cerrando el teseracto.
+estï¿½n cerrando el teseracto.
 
 1875
 02:33:37,374 --> 02:33:39,375
-¿Aún no lo has captado, TARS?
+ï¿½Aï¿½n no lo has captado, TARS?
 
 1876
 02:33:40,544 --> 02:33:42,378
@@ -8214,7 +8214,7 @@ Somos nosotros.
 1878
 02:33:46,466 --> 02:33:49,802
 Lo que he hecho yo por Murph
-lo están haciendo ellos por mí.
+lo estï¿½n haciendo ellos por mï¿½.
 
 1879
 02:33:50,137 --> 02:33:51,637
@@ -8222,36 +8222,36 @@ Por todos nosotros.
 
 1880
 02:33:52,013 --> 02:33:53,848
-<i>La gente no podría construir esto.
+<i>La gente no podrï¿½a construir esto.
 
 1881
 02:33:55,183 --> 02:33:56,559
-No, aún no.
+No, aï¿½n no.
 
 1882
 02:33:57,769 --> 02:33:58,894
-Pero algún día.
+Pero algï¿½n dï¿½a.
 
 1883
 02:33:59,062 --> 02:34:02,398
-No tú ni yo. Pero otros.
+No tï¿½ ni yo. Pero otros.
 
 1884
 02:34:03,108 --> 02:34:05,192
-Una civilización que habrá evolucionado
+Una civilizaciï¿½n que habrï¿½ evolucionado
 
 1885
 02:34:05,360 --> 02:34:07,903
-más allá de las cuatro dimensiones
+mï¿½s allï¿½ de las cuatro dimensiones
 que conocemos.
 
 1886
 02:34:13,576 --> 02:34:15,076
-¿Qué está pasando?
+ï¿½Quï¿½ estï¿½ pasando?
 
 1887
 02:35:17,724 --> 02:35:19,141
-Señor Cooper.
+Seï¿½or Cooper.
 
 1888
 02:35:23,355 --> 02:35:25,105
@@ -8259,7 +8259,7 @@ Despacio.
 
 1889
 02:35:25,482 --> 02:35:27,483
-Con cuidado, señor Cooper.
+Con cuidado, seï¿½or Cooper.
 
 1890
 02:35:27,651 --> 02:35:29,068
@@ -8267,7 +8267,7 @@ Recuerde que ya no es un jovencito.
 
 1891
 02:35:29,819 --> 02:35:32,821
-Tiene 124 años.
+Tiene 124 aï¿½os.
 
 1892
 02:35:39,830 --> 02:35:41,163
@@ -8275,20 +8275,20 @@ Debe ir despacio.
 
 1893
 02:35:42,249 --> 02:35:44,416
-Ha tenido muchísima suerte.
+Ha tenido muchï¿½sima suerte.
 
 1894
 02:35:44,751 --> 02:35:48,087
 Le encontraron cuando le quedaba
-oxígeno para unos minutos.
+oxï¿½geno para unos minutos.
 
 1895
 02:36:02,227 --> 02:36:03,561
-¿Dónde estoy?
+ï¿½Dï¿½nde estoy?
 
 1896
 02:36:05,313 --> 02:36:06,814
-En la Estación Cooper.
+En la Estaciï¿½n Cooper.
 
 1897
 02:36:08,149 --> 02:36:09,733
@@ -8296,20 +8296,20 @@ Actualmente orbitando Saturno.
 
 1898
 02:36:11,820 --> 02:36:13,821
-La Estación Cooper.
+La Estaciï¿½n Cooper.
 
 1899
 02:36:16,491 --> 02:36:18,534
-Es un detalle que se llame así por mí.
+Es un detalle que se llame asï¿½ por mï¿½.
 
 1900
 02:36:22,330 --> 02:36:23,330
-¿Qué?
+ï¿½Quï¿½?
 
 1901
 02:36:23,540 --> 02:36:26,709
-No se llama así por usted.
-Se llama así por su hija.
+No se llama asï¿½ por usted.
+Se llama asï¿½ por su hija.
 
 1902
 02:36:27,252 --> 02:36:30,421
@@ -8318,11 +8318,11 @@ lo importante que fue usted.
 
 1903
 02:36:30,589 --> 02:36:32,172
-¿Vive?
+ï¿½Vive?
 
 1904
 02:36:34,092 --> 02:36:36,093
-Llegará en un par de semanas.
+Llegarï¿½ en un par de semanas.
 
 1905
 02:36:37,053 --> 02:36:39,263
@@ -8330,7 +8330,7 @@ Es demasiado mayor para ser trasladada,
 
 1906
 02:36:39,431 --> 02:36:42,057
-pero al saber que le habían encontrado...
+pero al saber que le habï¿½an encontrado...
 
 1907
 02:36:43,268 --> 02:36:45,853
@@ -8338,15 +8338,15 @@ Estamos hablando de Murphy Cooper.
 
 1908
 02:36:46,855 --> 02:36:48,355
-Sí.
+Sï¿½.
 
 1909
 02:36:50,442 --> 02:36:52,944
-Le daremos el alta en un par de días.
+Le daremos el alta en un par de dï¿½as.
 
 1910
 02:36:55,615 --> 02:36:57,949
-Estará expectante.
+Estarï¿½ expectante.
 
 1911
 02:36:59,327 --> 02:37:03,163
@@ -8355,11 +8355,11 @@ en el instituto.
 
 1912
 02:37:03,456 --> 02:37:05,789
-Sé todo de su vida en la Tierra.
+Sï¿½ todo de su vida en la Tierra.
 
 1913
 02:37:07,500 --> 02:37:08,751
-Sí.
+Sï¿½.
 
 1914
 02:37:09,044 --> 02:37:10,044
@@ -8367,21 +8367,21 @@ Ya.
 
 1915
 02:37:13,173 --> 02:37:17,176
-Si me acompaña, le hemos preparado
+Si me acompaï¿½a, le hemos preparado
 algo que le va a gustar.
 
 1916
 02:37:21,222 --> 02:37:25,225
-Cuando se lo sugerí a la señora Cooper,
+Cuando se lo sugerï¿½ a la seï¿½ora Cooper,
 
 1917
 02:37:26,186 --> 02:37:28,687
-me alegré de que le pareciera perfecto.
+me alegrï¿½ de que le pareciera perfecto.
 
 1918
 02:37:28,855 --> 02:37:31,231
 <i>A LOS VALIENTES QUE DIERON LA VIDA
-PARA QUE EMPEZÁRAMOS DE NUEVO
+PARA QUE EMPEZï¿½RAMOS DE NUEVO
 
 1919
 02:37:32,359 --> 02:37:35,694
@@ -8390,16 +8390,16 @@ Esa incesante tormenta de...
 
 1920
 02:37:36,029 --> 02:37:38,781
-Bueno, no hablé con ella en persona.
+Bueno, no hablï¿½ con ella en persona.
 
 1921
 02:37:38,949 --> 02:37:40,532
-<i>Poníamos los platos bocabajo.
+<i>Ponï¿½amos los platos bocabajo.
 
 1922
 02:37:40,700 --> 02:37:43,869
 <i>Los vasos, las copas,
-todo lo poníamos bocabajo.
+todo lo ponï¿½amos bocabajo.
 
 1923
 02:37:44,037 --> 02:37:45,954
@@ -8411,25 +8411,25 @@ todo lo poníamos bocabajo.
 
 1925
 02:37:49,125 --> 02:37:51,460
-<i>No había suficiente comida.
+<i>No habï¿½a suficiente comida.
 
 1926
 02:37:51,711 --> 02:37:54,463
-<i>Llevábamos trozos...
+<i>Llevï¿½bamos trozos...
 
 1927
 02:37:54,714 --> 02:37:58,717
-<i>de sábanas para cubrirnos
+<i>de sï¿½banas para cubrirnos
 la nariz y la boca
 
 1928
 02:37:58,885 --> 02:38:00,719
-<i>y así no inhalarlo demasiado.
+<i>y asï¿½ no inhalarlo demasiado.
 
 1929
 02:38:00,887 --> 02:38:03,347
 <i>Fue muy emocionante
-porque infundía esperanza...
+porque infundï¿½a esperanza...
 
 1930
 02:38:03,598 --> 02:38:07,602
@@ -8438,12 +8438,12 @@ es imposible quedarse corto.
 
 1931
 02:38:07,979 --> 02:38:11,648
-Nos contó cuánto le gustaba
+Nos contï¿½ cuï¿½nto le gustaba
 a usted la granja.
 
 1932
 02:38:11,941 --> 02:38:13,692
-¿En serio?
+ï¿½En serio?
 
 1933
 02:38:15,569 --> 02:38:16,569
@@ -8455,22 +8455,22 @@ Todo en su sitio y fielmente...
 
 1935
 02:38:27,373 --> 02:38:28,915
-- ¿Es...?
-- Sí.
+- ï¿½Es...?
+- Sï¿½.
 
 1936
 02:38:29,125 --> 02:38:32,002
-La máquina que estaba cerca
+La mï¿½quina que estaba cerca
 de Saturno cuando le encontramos.
 
 1937
 02:38:32,503 --> 02:38:35,254
-Su fuente de alimentación está dañada,
+Su fuente de alimentaciï¿½n estï¿½ daï¿½ada,
 podemos buscar otra.
 
 1938
 02:38:35,422 --> 02:38:37,297
-Sí, por favor.
+Sï¿½, por favor.
 
 1939
 02:38:38,550 --> 02:38:39,883
@@ -8495,7 +8495,7 @@ Noventa y cinco por ciento.
 1944
 02:38:52,272 --> 02:38:54,773
 Confirmado.
-¿Otros ajustes personalizados?
+ï¿½Otros ajustes personalizados?
 
 1945
 02:38:55,692 --> 02:38:56,775
@@ -8511,7 +8511,7 @@ Confirmado.
 
 1948
 02:39:02,157 --> 02:39:05,242
-Autodestrucción en diez, nueve...
+Autodestrucciï¿½n en diez, nueve...
 
 1949
 02:39:05,493 --> 02:39:07,494
@@ -8523,16 +8523,16 @@ Sesenta por ciento confirmado.
 
 1951
 02:39:12,542 --> 02:39:15,627
-- Se abre el telón...
-- ¿Bajamos a 55 por ciento?
+- Se abre el telï¿½n...
+- ï¿½Bajamos a 55 por ciento?
 
 1952
 02:39:20,426 --> 02:39:22,510
-¿Es así como era?
+ï¿½Es asï¿½ como era?
 
 1953
 02:39:24,805 --> 02:39:26,306
-Nunca estuvo tan limpia, máquina.
+Nunca estuvo tan limpia, mï¿½quina.
 
 1954
 02:39:31,771 --> 02:39:35,398
@@ -8541,24 +8541,24 @@ que estamos otra vez donde empezamos.
 
 1955
 02:39:37,651 --> 02:39:39,819
-Quiero saber dónde estamos.
+Quiero saber dï¿½nde estamos.
 
 1956
 02:39:41,530 --> 02:39:43,031
-<i>Dónde vamos.
+<i>Dï¿½nde vamos.
 
 1957
 02:39:47,536 --> 02:39:50,538
-Sr. Cooper, la familia está ahí dentro.
+Sr. Cooper, la familia estï¿½ ahï¿½ dentro.
 
 1958
 02:39:50,873 --> 02:39:51,873
-¿La familia?
+ï¿½La familia?
 
 1959
 02:39:52,041 --> 02:39:55,877
 Han venido todos a verla.
-Llevaba en criosueño casi dos años.
+Llevaba en criosueï¿½o casi dos aï¿½os.
 
 1960
 02:40:28,952 --> 02:40:31,161
@@ -8574,12 +8574,12 @@ Yo era tu fantasma.
 
 1963
 02:40:44,135 --> 02:40:45,635
-Lo sé.
+Lo sï¿½.
 
 1964
 02:40:47,638 --> 02:40:51,641
-Nadie me creía.
-Pensaban que era yo quien lo hacía todo.
+Nadie me creï¿½a.
+Pensaban que era yo quien lo hacï¿½a todo.
 
 1965
 02:40:52,393 --> 02:40:53,393
@@ -8587,40 +8587,40 @@ Pero...
 
 1966
 02:40:56,272 --> 02:40:58,189
-yo sabía que eras tú.
+yo sabï¿½a que eras tï¿½.
 
 1967
 02:41:03,237 --> 02:41:05,154
-Nadie me creía.
+Nadie me creï¿½a.
 
 1968
 02:41:05,948 --> 02:41:07,991
-Pero yo sabía que volverías.
+Pero yo sabï¿½a que volverï¿½as.
 
 1969
 02:41:10,661 --> 02:41:11,911
-¿Por qué?
+ï¿½Por quï¿½?
 
 1970
 02:41:13,998 --> 02:41:17,375
-Porque mi padre me lo prometió.
+Porque mi padre me lo prometiï¿½.
 
 1971
 02:41:23,090 --> 02:41:25,091
-Ya estoy aquí, Murph.
+Ya estoy aquï¿½, Murph.
 
 1972
 02:41:26,343 --> 02:41:27,677
-Ya estoy aquí.
+Ya estoy aquï¿½.
 
 1973
 02:41:32,765 --> 02:41:36,685
-Ningún padre
-debería ver morir a un hijo.
+Ningï¿½n padre
+deberï¿½a ver morir a un hijo.
 
 1974
 02:41:39,647 --> 02:41:42,274
-Mis hijos están aquí conmigo.
+Mis hijos estï¿½n aquï¿½ conmigo.
 
 1975
 02:41:45,236 --> 02:41:46,445
@@ -8628,7 +8628,7 @@ Vete.
 
 1976
 02:41:49,825 --> 02:41:50,992
-¿Dónde?
+ï¿½Dï¿½nde?
 
 1977
 02:41:54,788 --> 02:41:56,122
@@ -8636,7 +8636,7 @@ Brand.
 
 1978
 02:42:06,091 --> 02:42:07,759
-<i>Ella está ahí.
+<i>Ella estï¿½ ahï¿½.
 
 1979
 02:42:13,349 --> 02:42:15,183
@@ -8652,7 +8652,7 @@ Brand.
 
 1982
 02:42:58,518 --> 02:43:01,603
-<i>Puede que ahora esté preparándose
+<i>Puede que ahora estï¿½ preparï¿½ndose
 
 1983
 02:43:01,771 --> 02:43:03,356

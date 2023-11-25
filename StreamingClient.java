@@ -94,7 +94,9 @@ public class StreamingClient {
 }
 
 
-   private static void displaySubtitles(String movie, BufferedReader reader) {
+   private static long lastEndTime = 0; // Tiempo de fin del último subtítulo mostrado
+
+private static void displaySubtitles(String movie, BufferedReader reader) {
     int subtitleNumber = 1; // Comienza desde el primer subtítulo
     boolean keepDisplaying = true;
 
@@ -107,9 +109,7 @@ public class StreamingClient {
             }
 
             // Separa las líneas del subtítulo
-            
             String[] lines = subtitleData.split("\n");
-            // La primera línea debe ser la numeración, la segunda la línea de tiempo y las siguientes el texto del subtítulo.
             if (lines.length >= 3) {
                 String timeLine = lines[1]; // Esto debe contener los tiempos de inicio y fin
                 long duration = calculateDuration(timeLine); // Calcula la duración basada en la línea de tiempo
@@ -122,16 +122,23 @@ public class StreamingClient {
 
                 // Muestra el texto del subtítulo
                 String subtitleText = subtitleTextBuilder.toString().trim();
-                saveLastViewedSubtitle(username, movie, subtitleNumber);
-                System.out.println(subtitleText);
 
-                // Espera la duración del subtítulo antes de mostrar el siguiente
-                if (duration > 0) {
-                    Thread.sleep(duration);
-                } else {
-                    System.out.println("Duración inválida para el subtítulo número: " + subtitleNumber);
-                    keepDisplaying = false;
+                // Calcular el intervalo desde el final del último subtítulo
+                String[] times = timeLine.split(" --> ");
+                long startTime = convertToMilliseconds(times[0]);
+                long endTime = convertToMilliseconds(times[1]);
+                long interval = startTime - lastEndTime;
+
+                // Evitar la espera del intervalo para el primer subtítulo
+                if (subtitleNumber > 1 && interval > 0) {
+                    Thread.sleep(interval); // Esperar el intervalo antes de mostrar el siguiente subtítulo
                 }
+
+                System.out.println(subtitleText);
+                System.out.println("Tiempo de espera para este subtítulo: " + duration + " ms");
+                Thread.sleep(duration); // Espera la duración del subtítulo antes de mostrar el siguiente
+
+                lastEndTime = endTime; // Actualizar el tiempo de fin del último subtítulo mostrado
             } else {
                 System.out.println("Formato de subtítulo incorrecto para el número: " + subtitleNumber);
                 keepDisplaying = false;
@@ -151,6 +158,7 @@ public class StreamingClient {
 
 
 
+
 // Función auxiliar para calcular la duración en milisegundos entre los tiempos de inicio y fin
 // Función auxiliar para calcular la duración en milisegundos entre los tiempos de inicio y fin
 private static long calculateDuration(String timeData) {
@@ -162,7 +170,8 @@ private static long calculateDuration(String timeData) {
         }
         String startTimeStr = times[0];
         String endTimeStr = times[1];
-
+// Imprimir los tiempos de inicio y fin para verificar el formato
+        //System.out.println("Tiempo de inicio: " + startTimeStr + ", Tiempo de fin: " + endTimeStr);
         // Convierte los tiempos a milisegundos
         long startTime = convertToMilliseconds(startTimeStr);
         long endTime = convertToMilliseconds(endTimeStr);
@@ -202,37 +211,9 @@ private static long convertToMilliseconds(String timeStr) {
 
 
 // Función para guardar el último subtítulo visto por un usuario
-private void saveLastViewedSubtitle(String username, String movie, int lastSubtitleNumber) {
-    Path userStatePath = Paths.get("path/to/user_states", username + ".txt");
-    String state = movie + ":" + lastSubtitleNumber;
-    
-    try {
-        Files.write(userStatePath, state.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.WRITE);
-    } catch (IOException e) {
-        e.printStackTrace(); // Manejo de excepción adecuado
-    }
-}
+
 
 // Función para cargar el último subtítulo visto por un usuario
-private int loadLastViewedSubtitle(String username, String movie) {
-    Path userStatePath = Paths.get("path/to/user_states", username + ".txt");
-    
-    if (Files.exists(userStatePath)) {
-        try {
-            List<String> stateLines = Files.readAllLines(userStatePath, StandardCharsets.UTF_8);
-            for (String stateLine : stateLines) {
-                String[] parts = stateLine.split(":");
-                if (parts[0].equals(movie)) {
-                    return Integer.parseInt(parts[1]);
-                }
-            }
-        } catch (IOException e) {
-            e.printStackTrace(); // Manejo de excepción adecuado
-        }
-    }
-    
-    return 1; // Si no hay estado guardado, comienza desde el primer subtítulo
-}
 
 
 
