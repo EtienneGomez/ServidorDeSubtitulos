@@ -1,0 +1,7832 @@
+1
+00:00:19,293 --> 00:00:22,989
+-=[ TheSubFactory ]=-
+Orgullosamente Presenta:
+
+2
+00:00:24,234 --> 00:00:27,274
+Subtitulos Ripeados Por:
+SHADOW84@TheSubFactory
+
+3
+00:01:52,274 --> 00:01:55,072
+<i>Capítulo uno</i>
+
+4
+00:01:55,244 --> 00:01:57,439
+<i>Había una vez...</i>
+
+5
+00:01:57,513 --> 00:02:02,513
+<i>...en la Francia ocupada por los nazis.</i>
+
+6
+00:02:44,427 --> 00:02:46,691
+<i>Vuelve adentro y cierra la puerta.</i>
+
+7
+00:02:48,698 --> 00:02:52,134
+<i>Julie, tráeme agua para que me lave...</i>
+
+8
+00:02:53,303 --> 00:02:54,827
+<i>...luego vuelve a entrar con tus
+hermanas.</i>
+
+9
+00:03:20,930 --> 00:03:22,022
+<i>Listo, papá.</i>
+
+10
+00:03:32,375 --> 00:03:33,399
+<i>Gracias, querida...</i>
+
+11
+00:03:34,077 --> 00:03:35,704
+<i>...ahora entra con tus hermanas.</i>
+
+12
+00:03:40,316 --> 00:03:41,340
+No corras.
+
+13
+00:04:03,973 --> 00:04:06,134
+<i>¿Esto pertenece a Perrier LaPadite?</i>
+
+14
+00:04:06,576 --> 00:04:07,600
+<i>Yo soy Perrier LaPadite.</i>
+
+15
+00:04:09,012 --> 00:04:12,106
+<i>Es un placer conocerlo, Sr. LaPadite...</i>
+
+16
+00:04:12,649 --> 00:04:14,674
+<i>...soy el coronel Hans Landa, de la SS.</i>
+
+17
+00:04:15,151 --> 00:04:16,175
+<i>¿En qué lo puedo ayudar?</i>
+
+18
+00:04:16,753 --> 00:04:19,586
+<i>Esperaba que me invitara
+a entrar a su casa...</i>
+
+19
+00:04:19,956 --> 00:04:22,117
+<i>...para poder conversar.</i>
+
+20
+00:04:23,626 --> 00:04:25,116
+<i>Por supuesto. Después de usted.</i>
+
+21
+00:04:34,203 --> 00:04:36,933
+<i>Coronel Landa, ésta es mi familia.</i>
+
+22
+00:04:47,050 --> 00:04:48,312
+<i>Coronel Landa, de la SS...</i>
+
+23
+00:04:48,718 --> 00:04:49,844
+<i>...señorita...</i>
+
+24
+00:04:49,919 --> 00:04:51,045
+<i>...a su servicio.</i>
+
+25
+00:04:52,021 --> 00:04:56,321
+<i>Los rumores que oí en el pueblo
+sobre su familia son ciertos.</i>
+
+26
+00:04:59,529 --> 00:05:02,191
+<i>Sus hijas son adorables.</i>
+
+27
+00:05:03,399 --> 00:05:04,423
+<i>Gracias.</i>
+
+28
+00:05:05,702 --> 00:05:06,726
+<i>Por favor...</i>
+
+29
+00:05:07,503 --> 00:05:08,503
+<i>...siéntese.</i>
+
+30
+00:05:14,310 --> 00:05:16,175
+<i>Suzanne, tráele vino al coronel.</i>
+
+31
+00:05:17,647 --> 00:05:18,647
+No.
+
+32
+00:05:18,915 --> 00:05:21,213
+<i>Muchas gracias, Sr. LaPadite,
+nada de vino.</i>
+
+33
+00:05:22,185 --> 00:05:27,020
+<i>Como es productor de lácteos,
+asumo que tendrá leche.</i>
+
+34
+00:05:27,090 --> 00:05:28,114
+<i>Sí.</i>
+
+35
+00:05:28,257 --> 00:05:29,690
+<i>Prefiero leche, entonces.</i>
+
+36
+00:05:30,026 --> 00:05:31,084
+<i>Muy bien.</i>
+
+37
+00:05:32,228 --> 00:05:33,889
+<i>Julie, ¿cerrarías la ventana?</i>
+
+38
+00:05:54,350 --> 00:05:55,374
+<i>Gracias.</i>
+
+39
+00:06:11,401 --> 00:06:15,269
+<i>Señor, lo felicito por su familia...</i>
+
+40
+00:06:16,606 --> 00:06:18,073
+<i>...y sus vacas.</i>
+
+41
+00:06:19,142 --> 00:06:20,166
+<i>Gracias.</i>
+
+42
+00:06:21,511 --> 00:06:24,241
+<i>Sentémonos a la mesa.</i>
+
+43
+00:06:25,114 --> 00:06:26,138
+<i>Muy bien.</i>
+
+44
+00:06:31,654 --> 00:06:32,712
+<i>Sr. LaPadite...</i>
+
+45
+00:06:33,523 --> 00:06:37,721
+<i>...nuestra charla debería ser privada.</i>
+
+46
+00:06:39,128 --> 00:06:41,528
+<i>Notará que dejé a mis hombres afuera.</i>
+
+47
+00:06:42,565 --> 00:06:47,502
+<i>Si no las ofende, ¿podría pedirle
+a sus hijas que salgan?</i>
+
+48
+00:06:49,338 --> 00:06:50,362
+<i>Tiene razón.</i>
+
+49
+00:06:51,307 --> 00:06:53,468
+<i>Charlotte, ¿llevarías a las niñas
+afuera?</i>
+
+50
+00:06:54,444 --> 00:06:55,934
+<i>El coronel y yo debemos conversar.</i>
+
+51
+00:07:07,990 --> 00:07:09,116
+<i>Sr. LaPadite...</i>
+
+52
+00:07:10,893 --> 00:07:15,660
+<i>...lamento informarle
+que he agotado mi francés.</i>
+
+53
+00:07:16,866 --> 00:07:20,666
+<i>Si sigo hablándolo tan mal,
+sólo me pondré en vergüenza.</i>
+
+54
+00:07:20,870 --> 00:07:24,772
+<i>Sin embargo, oí que habla inglés
+muy bien.</i>
+
+55
+00:07:26,042 --> 00:07:27,066
+<i>Sí.</i>
+
+56
+00:07:27,143 --> 00:07:31,307
+<i>Yo también. Como estamos en su casa...</i>
+
+57
+00:07:31,614 --> 00:07:34,048
+<i>...le pido permiso para continuar en
+inglés...</i>
+
+58
+00:07:34,250 --> 00:07:35,911
+<i>...nuestra conversación.</i>
+
+59
+00:07:37,186 --> 00:07:38,244
+<i>Por supuesto.</i>
+
+60
+00:07:38,458 --> 00:07:41,627
+Aunque yo los conozco
+a usted y a su familia...
+
+61
+00:07:41,790 --> 00:07:45,487
+...no sé si usted sabe quién soy yo.
+
+62
+00:07:46,299 --> 00:07:48,551
+¿Conocía mi existencia?
+
+63
+00:07:49,664 --> 00:07:51,825
+- Sí.
+- Eso es bueno.
+
+64
+00:07:52,400 --> 00:07:56,461
+¿Conoce el trabajo
+que me han ordenado hacer en Francia?
+
+65
+00:07:58,807 --> 00:07:59,865
+Sí.
+
+66
+00:08:00,542 --> 00:08:02,533
+Dígame qué ha oído, por favor.
+
+67
+00:08:03,478 --> 00:08:04,809
+Oí...
+
+68
+00:08:05,380 --> 00:08:09,680
+...que el Führer le encargó atrapar
+a los judíos que quedan en Francia...
+
+69
+00:08:09,751 --> 00:08:12,686
+...que se esconden
+o se hacen pasar por gentiles.
+
+70
+00:08:14,122 --> 00:08:17,023
+El Führer no lo podría haber dicho
+mejor.
+
+71
+00:08:18,960 --> 00:08:22,589
+Pero el significado de su visita...
+
+72
+00:08:23,064 --> 00:08:27,262
+...aunque es un placer recibirlo,
+sigue siendo un misterio.
+
+73
+00:08:28,937 --> 00:08:32,202
+Los alemanes buscaron judíos escondidos
+en mi casa hace nueve meses...
+
+74
+00:08:32,274 --> 00:08:33,935
+...y no hallaron nada.
+
+75
+00:08:35,710 --> 00:08:37,371
+Lo sé.
+
+76
+00:08:37,846 --> 00:08:40,337
+Leí los informes de la zona.
+
+77
+00:08:42,384 --> 00:08:45,581
+Pero como cualquier tarea,
+cuando hay un nuevo jefe...
+
+78
+00:08:45,654 --> 00:08:48,748
+...siempre hay una duplicación de
+esfuerzos.
+
+79
+00:08:49,991 --> 00:08:54,655
+La mayoría es una pérdida de tiempo,
+pero hay que hacerlo igual.
+
+80
+00:08:55,664 --> 00:08:58,724
+Sólo tengo algunas preguntas.
+
+81
+00:09:00,201 --> 00:09:02,499
+Si puede responderlas...
+
+82
+00:09:02,571 --> 00:09:05,665
+...mi departamento cerrará
+el expediente de su familia.
+
+83
+00:09:14,149 --> 00:09:15,309
+Ahora...
+
+84
+00:09:16,985 --> 00:09:21,251
+...antes de la ocupación, había cuatro
+familias judías en la zona...
+
+85
+00:09:21,823 --> 00:09:24,189
+...todas productoras de lácteos como
+usted.
+
+86
+00:09:25,994 --> 00:09:30,590
+Dolerac, Rollin, los Loveitt...
+
+87
+00:09:32,400 --> 00:09:34,061
+...y los Dreyfus.
+
+88
+00:09:34,235 --> 00:09:35,793
+¿Es correcto?
+
+89
+00:09:35,870 --> 00:09:36,894
+Hasta donde yo sé...
+
+90
+00:09:36,972 --> 00:09:40,430
+...ésas eran las familias judías
+entre los productores de lácteos.
+
+91
+00:09:40,609 --> 00:09:44,443
+¿Le molesta si fumo mi pipa?
+
+92
+00:09:44,512 --> 00:09:45,979
+Por favor...
+
+93
+00:09:46,047 --> 00:09:49,039
+...es su casa, póngase cómodo.
+
+94
+00:09:49,384 --> 00:09:52,353
+Según estos papeles...
+
+95
+00:09:53,254 --> 00:09:56,712
+...se conoce el paradero de todas las
+familias judías...
+
+96
+00:09:56,791 --> 00:09:59,624
+...excepto el de los Dreyfus.
+
+97
+00:10:01,062 --> 00:10:04,498
+Parece que se desvanecieron
+en algún momento del año pasado.
+
+98
+00:10:04,566 --> 00:10:07,899
+Por lo que concluyo que lograron
+escapar...
+
+99
+00:10:07,969 --> 00:10:10,870
+...o alguien los esconde con mucho
+éxito.
+
+100
+00:10:12,073 --> 00:10:15,702
+¿Qué ha oído de los Dreyfus?
+
+101
+00:10:15,777 --> 00:10:18,109
+- Sólo rumores.
+- ¡Adoro los rumores!
+
+102
+00:10:19,714 --> 00:10:21,079
+Los hechos pueden ser engañosos...
+
+103
+00:10:21,149 --> 00:10:24,516
+...pero los rumores, verdaderos o
+falsos, suelen ser reveladores.
+
+104
+00:10:24,719 --> 00:10:26,186
+Sr. LaPadite...
+
+105
+00:10:26,254 --> 00:10:29,519
+...¿qué rumores ha oído sobre los
+Dreyfus?
+
+106
+00:10:32,293 --> 00:10:35,490
+Es sólo un rumor...
+
+107
+00:10:35,563 --> 00:10:38,714
+...pero oí que...
+
+108
+00:10:38,715 --> 00:10:41,866
+...lograron llegar a España.
+
+109
+00:10:49,744 --> 00:10:52,611
+¿Oyó rumores de que escaparon?
+
+110
+00:10:54,182 --> 00:10:55,240
+Sí.
+
+111
+00:10:58,820 --> 00:11:02,620
+Ya que nunca conocí
+a los Dreyfus, ¿confirmaría...
+
+112
+00:11:02,691 --> 00:11:05,956
+...los miembros de la familia y sus
+nombres?
+
+113
+00:11:11,399 --> 00:11:13,367
+Eran cinco.
+
+114
+00:11:15,570 --> 00:11:18,232
+Jacob, el padre.
+
+115
+00:11:20,108 --> 00:11:22,599
+Miram, su esposa.
+
+116
+00:11:24,646 --> 00:11:28,241
+El hermano de ella, Bob.
+
+117
+00:11:35,490 --> 00:11:37,151
+¿Cuántos años tiene Bob?
+
+118
+00:11:38,660 --> 00:11:40,252
+Treinta, treinta y uno.
+
+119
+00:11:44,265 --> 00:11:45,493
+Continúe.
+
+120
+00:11:45,867 --> 00:11:47,494
+Y sus hijos:
+
+121
+00:11:49,237 --> 00:11:50,329
+Amos...
+
+122
+00:11:52,440 --> 00:11:53,907
+...y Shosanna.
+
+123
+00:11:56,077 --> 00:11:57,874
+¿Sus edades?
+
+124
+00:12:04,986 --> 00:12:08,547
+Amos tenía nueve o diez.
+
+125
+00:12:11,426 --> 00:12:14,918
+- ¿Y Shosanna?
+- Shosanna tenía...
+
+126
+00:12:16,564 --> 00:12:20,364
+...18 ó 19. No estoy seguro.
+
+127
+00:12:31,212 --> 00:12:33,544
+Creo que eso es todo.
+
+128
+00:12:39,954 --> 00:12:44,357
+Antes de irme, ¿me daría otro vaso de su
+deliciosa leche?
+
+129
+00:12:47,395 --> 00:12:48,885
+Por supuesto.
+
+130
+00:12:55,670 --> 00:12:57,695
+Sr. LaPadite...
+
+131
+00:12:57,772 --> 00:13:01,765
+...¿conoce el apodo
+que me han puesto los franceses?
+
+132
+00:13:05,413 --> 00:13:07,847
+No me interesan esas cosas.
+
+133
+00:13:08,883 --> 00:13:11,579
+Pero sabe cómo me llaman.
+
+134
+00:13:14,155 --> 00:13:15,486
+Lo sé.
+
+135
+00:13:17,225 --> 00:13:19,090
+¿Qué sabe?
+
+136
+00:13:29,003 --> 00:13:32,166
+- Lo llaman "el Cazador de judíos".
+- Exacto.
+
+137
+00:13:34,475 --> 00:13:37,137
+Comprendo su temor de repetirlo.
+
+138
+00:13:37,212 --> 00:13:39,510
+Heydrich parece odiar el apodo...
+
+139
+00:13:39,581 --> 00:13:42,243
+...que la buena gente de Praga
+le ha otorgado.
+
+140
+00:13:42,317 --> 00:13:45,582
+No comprendo
+por qué odia el mote de Verdugo.
+
+141
+00:13:45,653 --> 00:13:49,020
+Ha hecho todo lo posible por ganárselo.
+
+142
+00:13:49,090 --> 00:13:52,355
+Yo, por otro lado, adoro mi título no
+oficial...
+
+143
+00:13:52,427 --> 00:13:54,827
+...precisamente porque me lo he ganado.
+
+144
+00:13:56,264 --> 00:14:00,325
+Lo que me hace
+tan eficiente como cazador de judíos...
+
+145
+00:14:00,401 --> 00:14:03,097
+...a diferencia de la mayoría
+de los soldados alemanes...
+
+146
+00:14:03,171 --> 00:14:05,401
+...es que yo puedo pensar como un
+judío...
+
+147
+00:14:05,840 --> 00:14:08,707
+...mientras que ellos sólo pueden pensar
+como alemanes.
+
+148
+00:14:09,277 --> 00:14:11,711
+Más precisamente, como soldados
+alemanes.
+
+149
+00:14:18,052 --> 00:14:22,989
+Si pudiéramos determinar qué atributo
+comparten los alemanes y una bestia...
+
+150
+00:14:23,524 --> 00:14:27,085
+...sería el instinto astuto y depredador
+del halcón.
+
+151
+00:14:27,528 --> 00:14:29,462
+Pero si pudiéramos
+determinar qué atributo...
+
+152
+00:14:29,463 --> 00:14:31,396
+...comparten los judíos y una bestia...
+
+153
+00:14:31,466 --> 00:14:33,593
+...sería el instinto de la rata.
+
+154
+00:14:36,371 --> 00:14:40,239
+El Führer y la propaganda de Goebbels
+han dicho lo mismo.
+
+155
+00:14:40,308 --> 00:14:43,334
+Nuestras conclusiones difieren...
+
+156
+00:14:43,411 --> 00:14:46,539
+...en que yo no considero
+que la comparación sea un insulto.
+
+157
+00:14:48,917 --> 00:14:52,751
+Piense cómo es el mundo de una rata.
+
+158
+00:14:53,655 --> 00:14:55,850
+Es un mundo hostil.
+
+159
+00:14:56,691 --> 00:15:00,092
+Si una rata correteara frente a su
+puerta...
+
+160
+00:15:00,161 --> 00:15:02,595
+...¿la recibiría con hostilidad?
+
+161
+00:15:03,564 --> 00:15:05,429
+Creo que sí.
+
+162
+00:15:05,500 --> 00:15:10,437
+¿Alguna rata le ha hecho algo
+para crear esta animosidad?
+
+163
+00:15:11,339 --> 00:15:14,331
+Las ratas transmiten enfermedades.
+Muerden a la gente.
+
+164
+00:15:14,509 --> 00:15:18,309
+Las ratas causaron la peste bubónica,
+pero eso fue hace tiempo.
+
+165
+00:15:18,379 --> 00:15:21,007
+Cualquier enfermedad
+que pueda transmitir una rata...
+
+166
+00:15:21,082 --> 00:15:23,550
+...puede ser transmitida por una
+ardilla.
+
+167
+00:15:23,651 --> 00:15:25,243
+¿Estaría de acuerdo?
+
+168
+00:15:27,088 --> 00:15:29,682
+Creo que no tiene la misma animosidad
+hacia las ardillas...
+
+169
+00:15:29,757 --> 00:15:32,521
+- ...que tiene hacia las ratas.
+- No.
+
+170
+00:15:32,961 --> 00:15:35,452
+Ambos son roedores, ¿no?
+
+171
+00:15:35,530 --> 00:15:39,523
+Salvo por la cola, hasta se parecen.
+
+172
+00:15:39,934 --> 00:15:42,767
+Es un pensamiento interesante.
+
+173
+00:15:43,504 --> 00:15:45,529
+Aunque sea un pensamiento interesante...
+
+174
+00:15:45,606 --> 00:15:48,871
+...no hace ninguna diferencia
+en cómo se siente usted.
+
+175
+00:15:51,212 --> 00:15:55,273
+Si entrara una rata en este momento...
+
+176
+00:15:56,417 --> 00:16:00,285
+...¿le daría un plato de su deliciosa
+leche?
+
+177
+00:16:00,355 --> 00:16:01,822
+Probablemente no.
+
+178
+00:16:02,523 --> 00:16:04,184
+Eso pensé.
+
+179
+00:16:04,792 --> 00:16:06,350
+No le gustan.
+
+180
+00:16:06,427 --> 00:16:08,327
+No sabe por qué no le gustan.
+
+181
+00:16:08,396 --> 00:16:11,126
+Sólo sabe que le repugnan.
+
+182
+00:16:13,368 --> 00:16:16,428
+En consecuencia, un soldado alemán
+revisa...
+
+183
+00:16:16,504 --> 00:16:19,439
+...una casa donde se sospecha
+que hay judíos escondidos.
+
+184
+00:16:19,941 --> 00:16:21,533
+¿Dónde busca?
+
+185
+00:16:21,609 --> 00:16:24,806
+Busca en el granero,
+en el ático, en el sótano...
+
+186
+00:16:24,879 --> 00:16:27,404
+...en todos los lugares donde él se
+escondería.
+
+187
+00:16:28,282 --> 00:16:32,446
+Pero hay muchos lugares
+donde no se le ocurriría buscar.
+
+188
+00:16:34,722 --> 00:16:38,385
+El Führer me sacó de mis Alpes en
+Austria...
+
+189
+00:16:38,459 --> 00:16:42,896
+...y me trajo al campo lácteo francés
+porque a mí sí se me ocurre.
+
+190
+00:16:44,132 --> 00:16:47,499
+Estoy al tanto de las tremendas hazañas
+de que son capaces los hombres...
+
+191
+00:16:47,568 --> 00:16:49,593
+...cuando pierden su dignidad.
+
+192
+00:16:51,372 --> 00:16:53,499
+¿Puedo fumar mi pipa yo también?
+
+193
+00:16:55,843 --> 00:16:58,744
+Siéntase en su casa.
+
+194
+00:17:11,492 --> 00:17:16,492
+Mi trabajo indica...
+
+195
+00:17:21,903 --> 00:17:24,599
+...que mis hombres entren en su casa...
+
+196
+00:17:28,509 --> 00:17:30,409
+...y la revisen exhaustivamente...
+
+197
+00:17:30,478 --> 00:17:34,278
+...antes de poder tachar su nombre
+de mi lista.
+
+198
+00:17:35,016 --> 00:17:38,918
+Si hay irregularidades,
+le aseguro que las encontraremos.
+
+199
+00:17:38,986 --> 00:17:41,216
+A menos que tenga algo que decirme...
+
+200
+00:17:41,289 --> 00:17:44,315
+...que haga que el registro sea
+innecesario.
+
+201
+00:17:44,392 --> 00:17:46,656
+Además, cualquier información...
+
+202
+00:17:46,727 --> 00:17:51,391
+...que facilite mi tarea no será
+castigada.
+
+203
+00:17:52,233 --> 00:17:55,794
+Por el contrario, será recompensada.
+
+204
+00:17:56,304 --> 00:17:57,601
+La recompensa será...
+
+205
+00:17:57,672 --> 00:18:00,470
+...que su familia ya no será acosada...
+
+206
+00:18:00,541 --> 00:18:04,978
+...por el ejército alemán
+durante la ocupación de su país.
+
+207
+00:18:15,656 --> 00:18:18,955
+Esconde enemigos del estado, ¿verdad?
+
+208
+00:18:24,365 --> 00:18:25,423
+Sí.
+
+209
+00:18:28,369 --> 00:18:32,271
+Los esconde
+bajo las tablas del suelo, ¿verdad?
+
+210
+00:18:34,809 --> 00:18:35,867
+Sí.
+
+211
+00:18:38,679 --> 00:18:41,739
+Señale las zonas donde se esconden.
+
+212
+00:19:02,770 --> 00:19:04,135
+Como no oí disturbios...
+
+213
+00:19:04,205 --> 00:19:07,936
+...asumo que, aunque están escuchando,
+no hablan inglés.
+
+214
+00:19:09,844 --> 00:19:10,902
+Sí.
+
+215
+00:19:12,980 --> 00:19:15,813
+Volveré a hablar en francés,
+quiero que me siga la corriente.
+
+216
+00:19:15,883 --> 00:19:17,373
+¿Está claro?
+
+217
+00:19:19,320 --> 00:19:20,378
+Sí.
+
+218
+00:19:22,290 --> 00:19:23,348
+Señor LaPadite...
+
+219
+00:19:25,726 --> 00:19:28,490
+...le agradezco la leche...
+
+220
+00:19:30,431 --> 00:19:31,489
+...y su hospitalidad.
+
+221
+00:19:34,235 --> 00:19:36,203
+Creo que hemos terminado.
+
+222
+00:19:41,275 --> 00:19:42,401
+Damas.
+
+223
+00:19:45,646 --> 00:19:48,740
+Les agradezco su tiempo.
+
+224
+00:19:51,219 --> 00:19:52,914
+No seguiremos molestando a su familia.
+
+225
+00:19:53,988 --> 00:19:55,012
+Señor...
+
+226
+00:19:56,057 --> 00:19:57,115
+...señorita.
+
+227
+00:19:57,658 --> 00:20:00,422
+Me despido y les digo...
+
+228
+00:20:00,995 --> 00:20:02,053
+...adiós.
+
+229
+00:20:22,350 --> 00:20:23,442
+Es la chica.
+
+230
+00:21:09,730 --> 00:21:12,255
+¡Adiós, Shosanna!
+
+231
+00:21:21,575 --> 00:21:24,043
+<i>Capítulo dos</i>
+
+232
+00:21:24,111 --> 00:21:27,603
+<i>INGLOURIOUS BASTERDS</i>
+
+233
+00:21:27,682 --> 00:21:29,081
+¡Atención!
+
+234
+00:21:35,956 --> 00:21:37,856
+Soy el teniente Aldo Raine.
+
+235
+00:21:37,925 --> 00:21:41,884
+Estoy armando un grupo especial
+y necesito ocho soldados.
+
+236
+00:21:41,962 --> 00:21:45,090
+Ocho soldados estadounidenses judíos.
+
+237
+00:21:45,833 --> 00:21:49,633
+Tal vez hayan oído rumores
+sobre la armada que zarpará pronto.
+
+238
+00:21:49,704 --> 00:21:52,434
+Nosotros saldremos un poco antes.
+
+239
+00:21:53,641 --> 00:21:56,940
+Nos dejarán en Francia en ropa de civil.
+
+240
+00:21:57,545 --> 00:21:59,843
+Cuando estemos en terreno enemigo...
+
+241
+00:22:00,481 --> 00:22:02,449
+...como un ejército de guerrilla de
+emboscada...
+
+242
+00:22:02,516 --> 00:22:05,883
+...tendremos una única misión.
+
+243
+00:22:06,454 --> 00:22:07,887
+Matar nazis.
+
+244
+00:22:09,924 --> 00:22:11,482
+No sé ustedes...
+
+245
+00:22:11,559 --> 00:22:14,494
+...pero yo no bajé
+de las Grandes Montañas Humeantes...
+
+246
+00:22:14,562 --> 00:22:18,521
+...atravesé 8.000 kilómetros de agua,
+luché a través de media Sicilia...
+
+247
+00:22:18,599 --> 00:22:23,002
+...y salté de un avión
+para enseñarle humanidad a los nazis.
+
+248
+00:22:23,070 --> 00:22:25,163
+Los nazis no tienen humanidad.
+
+249
+00:22:25,906 --> 00:22:29,433
+Son los soldados de un maniático
+asesino en masa que odia a los judíos...
+
+250
+00:22:29,510 --> 00:22:31,740
+...y deben ser destruidos.
+
+251
+00:22:32,146 --> 00:22:36,480
+Por eso, cada desgraciado
+que hallemos con uniforme de nazi...
+
+252
+00:22:36,951 --> 00:22:38,748
+...morirá.
+
+253
+00:22:41,722 --> 00:22:45,158
+Soy descendiente directo
+de un montañés Jim Bridger.
+
+254
+00:22:45,226 --> 00:22:47,387
+Eso implica que tengo sangre india.
+
+255
+00:22:47,461 --> 00:22:51,693
+Nuestro plan de batalla es
+una resistencia apache.
+
+256
+00:22:52,800 --> 00:22:55,098
+Seremos crueles con los alemanes.
+
+257
+00:22:55,503 --> 00:22:58,768
+Nos conocerán por nuestra crueldad.
+
+258
+00:22:58,973 --> 00:23:01,203
+Verán la prueba de nuestra crueldad...
+
+259
+00:23:01,275 --> 00:23:03,209
+...en los cadáveres
+destripados, desmembrados...
+
+260
+00:23:03,277 --> 00:23:06,974
+...y desfigurados que dejemos atrás.
+
+261
+00:23:07,114 --> 00:23:09,582
+Los alemanes no podrán evitar...
+
+262
+00:23:09,650 --> 00:23:13,381
+...imaginar la crueldad que sus hermanos
+sufrieron en nuestras manos...
+
+263
+00:23:14,054 --> 00:23:17,490
+...con los tacones de las botas
+y los filos de nuestros cuchillos.
+
+264
+00:23:18,859 --> 00:23:21,225
+Le daremos asco a los alemanes.
+
+265
+00:23:21,295 --> 00:23:23,525
+Hablarán de nosotros.
+
+266
+00:23:23,597 --> 00:23:25,792
+Nos temerán.
+
+267
+00:23:26,300 --> 00:23:28,825
+Cuando los alemanes cierren
+los ojos en la noche...
+
+268
+00:23:28,903 --> 00:23:32,202
+...y sus subconscientes los torturen
+por sus maldades...
+
+269
+00:23:32,273 --> 00:23:35,970
+...lo que los torturará será pensar en
+nosotros.
+
+270
+00:23:37,545 --> 00:23:38,705
+¿Suena bien?
+
+271
+00:23:38,779 --> 00:23:40,440
+- ¡Sí, señor!
+- ¡Sí, señor!
+
+272
+00:23:41,749 --> 00:23:43,546
+Eso quiero oír.
+
+273
+00:23:43,751 --> 00:23:47,585
+Pero tengo una advertencia.
+
+274
+00:23:47,655 --> 00:23:50,556
+Cuando se unan a mi mando,
+tendrán una deuda.
+
+275
+00:23:50,958 --> 00:23:53,552
+Una deuda personal conmigo.
+
+276
+00:23:55,563 --> 00:24:00,125
+Cada uno me debe 100 cabelleras nazis.
+
+277
+00:24:00,868 --> 00:24:02,665
+Y quiero mis cabelleras.
+
+278
+00:24:03,571 --> 00:24:08,571
+Todos me darán 100 cabelleras
+que arrancarán de 100 nazis muertos.
+
+279
+00:24:10,377 --> 00:24:12,277
+¡O morirán en el intento!
+
+280
+00:24:15,082 --> 00:24:18,643
+¿Cuánto más debo soportar
+de estos cerdos judíos?
+
+281
+00:24:20,187 --> 00:24:22,178
+¡Asesinan a mis hombres
+como si fueran moscas!
+
+282
+00:24:23,390 --> 00:24:25,984
+¿Conocen el último rumor
+que han imaginado...
+
+283
+00:24:26,060 --> 00:24:29,393
+...en su delirio inducido por el temor?
+
+284
+00:24:29,763 --> 00:24:30,821
+¡El que...
+
+285
+00:24:30,965 --> 00:24:33,991
+...golpea a mis muchachos con un bate!
+
+286
+00:24:34,268 --> 00:24:37,169
+El llamado "Oso judío"...
+
+287
+00:24:37,538 --> 00:24:38,869
+...¡es un golem!
+
+288
+00:24:38,939 --> 00:24:40,736
+Führer, sólo son rumores de soldados.
+
+289
+00:24:41,976 --> 00:24:46,413
+Nadie cree que el "Oso judío" sea un
+golem.
+
+290
+00:24:46,714 --> 00:24:47,772
+¿Por qué no?
+
+291
+00:24:47,948 --> 00:24:51,008
+Parecen evitar la captura como un
+fantasma.
+
+292
+00:24:52,887 --> 00:24:55,583
+Aparecen y desaparecen a voluntad.
+
+293
+00:24:56,891 --> 00:25:00,019
+¿Quieren probar que son de carne
+y hueso?
+
+294
+00:25:00,327 --> 00:25:02,591
+¡Tráiganmelos!
+
+295
+00:25:04,331 --> 00:25:08,392
+¡Los colgaré desnudos
+de los talones en la Torre Eiffel!
+
+296
+00:25:09,236 --> 00:25:12,569
+Y luego arrojaré
+sus cadáveres a las cloacas...
+
+297
+00:25:12,873 --> 00:25:16,138
+...¡para que los devoren las ratas de
+París!
+
+298
+00:25:22,082 --> 00:25:23,344
+¡Sí, mi Führer!
+
+299
+00:25:23,684 --> 00:25:28,678
+Tengo una orden para todos los soldados
+alemanes destacados en Francia.
+
+300
+00:25:29,757 --> 00:25:33,090
+El degenerado judío
+conocido como "Oso judío"...
+
+301
+00:25:33,160 --> 00:25:36,596
+...no debe volver a ser llamado así.
+
+302
+00:25:36,964 --> 00:25:38,226
+¡Sí, mi Führer!
+
+303
+00:25:38,299 --> 00:25:40,597
+¿Aún quiere ver al soldado Butz?
+
+304
+00:25:40,834 --> 00:25:42,825
+¿Quién y qué es un soldado Butz?
+
+305
+00:25:42,970 --> 00:25:45,404
+Es el soldado que quería ver en persona.
+
+306
+00:25:45,739 --> 00:25:49,300
+Su batallón fue emboscado
+por los judíos del teniente Raine.
+
+307
+00:25:49,577 --> 00:25:51,340
+Fue el único sobreviviente.
+
+308
+00:25:51,579 --> 00:25:54,878
+Sí, quiero verlo.
+Gracias por recordármelo.
+
+309
+00:25:55,049 --> 00:25:56,107
+Que entre.
+
+310
+00:26:07,094 --> 00:26:09,289
+El sargento Rachtmann, Ludwig y yo...
+
+311
+00:26:09,363 --> 00:26:12,298
+...fuimos los únicos sobrevivientes
+de la emboscada.
+
+312
+00:26:13,834 --> 00:26:17,770
+Mientras uno nos vigilaba,
+los demás arrancaban las cabelleras.
+
+313
+00:26:54,408 --> 00:26:56,069
+Hirschberg.
+
+314
+00:26:56,810 --> 00:26:58,539
+Que entre el sargento Kraut.
+
+315
+00:26:58,612 --> 00:27:00,102
+Tú. Entra.
+
+316
+00:27:33,881 --> 00:27:35,906
+Sargento Werner Rachtman.
+
+317
+00:27:36,884 --> 00:27:39,409
+Teniente Aldo Raine. Un placer
+conocerlo.
+
+318
+00:27:39,987 --> 00:27:42,012
+¿Sabe qué significa "siéntese"?
+
+319
+00:27:42,089 --> 00:27:43,886
+- Sí.
+- Entonces siéntese.
+
+320
+00:27:47,561 --> 00:27:48,653
+¿Cómo es su inglés?
+
+321
+00:27:48,729 --> 00:27:51,698
+Si es necesario,
+tenemos gente que puede traducir.
+
+322
+00:27:51,765 --> 00:27:52,891
+Wicki...
+
+323
+00:27:52,966 --> 00:27:56,231
+...un judío austríaco,
+escapó de Munich cuando aún se podía.
+
+324
+00:27:56,303 --> 00:28:00,205
+Se hizo estadounidense, lo alistaron,
+y regresó a darles su merecido.
+
+325
+00:28:00,741 --> 00:28:03,403
+Otro que tal vez conozca.
+
+326
+00:28:03,477 --> 00:28:05,377
+El sargento Hugo Stiglitz.
+
+327
+00:28:07,481 --> 00:28:08,948
+¿Oyó hablar de él?
+
+328
+00:28:09,316 --> 00:28:12,979
+Todo el ejército alemán oyó
+hablar de Hugo Stiglitz.
+
+329
+00:28:23,664 --> 00:28:27,828
+<i>Hugo Stiglitz es famoso entre los
+soldados alemanes por una razón.</i>
+
+330
+00:28:27,901 --> 00:28:30,734
+<i>Como soldado alemán, mató a...</i>
+
+331
+00:28:30,735 --> 00:28:33,567
+<i>...13 oficiales de la Gestapo.</i>
+
+332
+00:28:47,855 --> 00:28:50,847
+<i>En lugar de fusilarlo...</i>
+
+333
+00:28:50,924 --> 00:28:53,791
+<i>...los altos mandos decidieron enviarlo
+de vuelta a Berlín...</i>
+
+334
+00:28:53,861 --> 00:28:55,726
+<i>...para que sirviera de ejemplo.</i>
+
+335
+00:28:56,897 --> 00:29:00,628
+<i>No es necesario mencionar
+que cuando los Bastardos oyeron de él...</i>
+
+336
+00:29:00,968 --> 00:29:02,663
+<i>...jamás llegó a su destino.</i>
+
+337
+00:29:39,573 --> 00:29:41,438
+¿Sargento Hugo Stiglitz?
+
+338
+00:29:44,111 --> 00:29:46,841
+Teniente Aldo Raine.
+Ellos son los Bastardos.
+
+339
+00:29:46,914 --> 00:29:48,575
+¿Ha oído de nosotros?
+
+340
+00:29:50,551 --> 00:29:53,145
+Sólo queremos decir
+que admiramos su trabajo.
+
+341
+00:29:53,220 --> 00:29:55,381
+A la hora de matar nazis...
+
+342
+00:29:57,624 --> 00:29:59,888
+...creo que tiene un gran talento.
+
+343
+00:29:59,960 --> 00:30:03,760
+Y me enorgullezco
+de saber reconocer ese tipo de talento.
+
+344
+00:30:07,234 --> 00:30:10,431
+Pero, como asesino de nazis,
+sigue siendo un aficionado.
+
+345
+00:30:11,505 --> 00:30:14,633
+Todos vinimos a ver
+si quiere convertirse en profesional.
+
+346
+00:30:21,348 --> 00:30:23,646
+¿Puedo asumir que sabe quiénes somos?
+
+347
+00:30:23,717 --> 00:30:25,617
+Es Aldo, el Apache.
+
+348
+00:30:27,487 --> 00:30:28,920
+Werner, si ha oído de nosotros...
+
+349
+00:30:28,989 --> 00:30:31,651
+...debe haber oído que no nos dedicamos
+a tomar prisioneros.
+
+350
+00:30:31,725 --> 00:30:35,661
+Nos dedicamos a asesinar nazis,
+y el negocio está en ascenso.
+
+351
+00:30:35,729 --> 00:30:37,026
+Sí.
+
+352
+00:30:37,631 --> 00:30:40,156
+Eso nos deja dos alternativas.
+
+353
+00:30:40,234 --> 00:30:42,464
+Matarlo o dejarlo ir.
+
+354
+00:30:43,003 --> 00:30:45,096
+Que salga de esta zanja con vida...
+
+355
+00:30:45,172 --> 00:30:47,140
+...depende sólo de usted.
+
+356
+00:30:51,478 --> 00:30:54,208
+Más adelante hay un huerto.
+
+357
+00:30:54,648 --> 00:30:59,051
+Además de ustedes, sabemos
+que hay otra patrulla alemana por aquí.
+
+358
+00:30:59,920 --> 00:31:02,047
+Si hubiera un francotirador en esa
+patrulla...
+
+359
+00:31:02,122 --> 00:31:05,091
+...ese huerto sería una maravilla
+para él.
+
+360
+00:31:06,326 --> 00:31:09,625
+Si quiere volver a comer
+un emparedado de chucrut...
+
+361
+00:31:11,064 --> 00:31:14,556
+...debe mostrarme en este mapa dónde
+están.
+
+362
+00:31:15,435 --> 00:31:18,802
+Debe decirme cuántos hay...
+
+363
+00:31:18,872 --> 00:31:21,340
+...y qué clase de artillería llevan.
+
+364
+00:31:22,843 --> 00:31:24,942
+No puede esperar que divulgue
+información...
+
+365
+00:31:24,943 --> 00:31:27,041
+...que ponga a alemanes en peligro.
+
+366
+00:31:28,081 --> 00:31:32,074
+En eso se equivoca.
+Es exactamente lo que espero.
+
+367
+00:31:32,819 --> 00:31:35,049
+Quiero saber de los alemanes escondidos
+en árboles.
+
+368
+00:31:35,122 --> 00:31:38,285
+Y debe decírmelo ahora mismo.
+
+369
+00:31:39,526 --> 00:31:41,016
+Use uno de sus dedos...
+
+370
+00:31:41,094 --> 00:31:44,427
+...y señale en el mapa dónde es esa
+fiesta...
+
+371
+00:31:44,498 --> 00:31:47,899
+...cuántos invitados hay
+y qué instrumentos trajo la orquesta.
+
+372
+00:31:55,042 --> 00:31:57,306
+Me rehúso respetuosamente.
+
+373
+00:31:59,646 --> 00:32:00,977
+¿Oyó eso?
+
+374
+00:32:02,282 --> 00:32:03,340
+Sí.
+
+375
+00:32:06,486 --> 00:32:08,784
+Es el sargento Donny Donowitz.
+
+376
+00:32:09,089 --> 00:32:11,785
+Tal vez lo conozca mejor por su apodo.
+
+377
+00:32:11,858 --> 00:32:13,621
+El Oso judío.
+
+378
+00:32:14,695 --> 00:32:18,722
+Si ha oído de Aldo el Apache,
+debe haber oído del Oso judío.
+
+379
+00:32:18,799 --> 00:32:21,734
+- Oí de él.
+- ¿Qué ha oído?
+
+380
+00:32:22,836 --> 00:32:25,634
+Golpea a los soldados alemanes
+con un palo de golf.
+
+381
+00:32:25,706 --> 00:32:29,437
+Golpea sus cerebros con un bate de
+béisbol.
+
+382
+00:32:29,776 --> 00:32:31,869
+Se lo pediré una última vez.
+
+383
+00:32:31,945 --> 00:32:35,938
+Si sigue rehusándose respetuosamente,
+llamaré al Oso judío.
+
+384
+00:32:36,016 --> 00:32:37,950
+Él tomará su bate...
+
+385
+00:32:38,018 --> 00:32:41,181
+...y lo matará a golpes.
+
+386
+00:32:44,491 --> 00:32:46,322
+Ahora, use el dedo...
+
+387
+00:32:46,393 --> 00:32:49,385
+...para señalar en este mapa
+lo que quiero saber.
+
+388
+00:32:57,504 --> 00:32:58,835
+Váyase al diablo.
+
+389
+00:32:59,239 --> 00:33:00,934
+Usted y sus perros judíos.
+
+390
+00:33:04,845 --> 00:33:06,813
+Nos complace oírle decir eso.
+
+391
+00:33:06,880 --> 00:33:08,780
+Sinceramente, ver
+a Donny matar nazis a golpes...
+
+392
+00:33:08,849 --> 00:33:11,750
+...es lo más cercano a ir al cine.
+¡Donny!
+
+393
+00:33:11,818 --> 00:33:12,944
+¿Sí?
+
+394
+00:33:13,020 --> 00:33:15,545
+Tenemos un alemán
+que quiere morir por su país.
+
+395
+00:33:15,622 --> 00:33:16,987
+Dale el gusto.
+
+396
+00:34:23,557 --> 00:34:26,025
+¿Obtuviste eso por matar judíos?
+
+397
+00:34:26,226 --> 00:34:27,488
+Por valor.
+
+398
+00:34:44,077 --> 00:34:45,169
+¡Sí!
+
+399
+00:34:47,814 --> 00:34:48,872
+¡No!
+
+400
+00:34:48,972 --> 00:34:50,177
+¡No!
+
+401
+00:34:50,250 --> 00:34:51,410
+¡Donny!
+
+402
+00:34:51,985 --> 00:34:53,145
+¡Sí, Donny!
+
+403
+00:34:53,386 --> 00:34:56,184
+En tu lugar, me cagaría encima.
+
+404
+00:34:57,657 --> 00:35:00,319
+¡Teddy Williams la saca del parque!
+
+405
+00:35:00,393 --> 00:35:04,022
+¡El parque Fenway aplaude de pie a
+Teddy!
+
+406
+00:35:04,097 --> 00:35:08,033
+¡Envió esta pelota hasta la calle!
+
+407
+00:35:08,101 --> 00:35:09,159
+¡Tú!
+
+408
+00:35:12,339 --> 00:35:14,102
+¡Maldición, Hirschberg!
+
+409
+00:35:14,174 --> 00:35:17,109
+Donny, trae al otro. ¡Vivo!
+
+410
+00:35:17,377 --> 00:35:20,312
+¡Levántate! ¡Tu turno!
+
+411
+00:35:20,580 --> 00:35:23,310
+Dos golpes.
+Yo te golpeo, y tú golpeas el piso.
+
+412
+00:35:24,351 --> 00:35:25,511
+¿Inglés?
+
+413
+00:35:26,620 --> 00:35:27,780
+Wicki.
+
+414
+00:35:31,424 --> 00:35:33,392
+Pregúntale si quiere vivir.
+
+415
+00:35:35,695 --> 00:35:38,459
+Dile que señale
+en este mapa la posición alemana.
+
+416
+00:35:42,869 --> 00:35:44,666
+Pregúntale cuántos alemanes.
+
+417
+00:35:46,973 --> 00:35:48,565
+Cerca de 12.
+
+418
+00:35:48,742 --> 00:35:50,403
+¿Qué tipo de artillería?
+
+419
+00:35:55,949 --> 00:35:58,440
+¿Cómo sobrevivió esta terrible
+experiencia?
+
+420
+00:35:59,953 --> 00:36:01,181
+Me dejaron ir.
+
+421
+00:36:01,888 --> 00:36:03,480
+Cuando informe lo que sucedió aquí...
+
+422
+00:36:03,557 --> 00:36:07,254
+...no puede decirles que nos dijo lo que
+nos dijo. Lo matarán.
+
+423
+00:36:07,327 --> 00:36:11,229
+Querrán saber por qué es tan especial,
+por qué lo dejamos vivir.
+
+424
+00:36:11,298 --> 00:36:14,995
+Dígales que lo dejamos ir
+para que contara a los soldados...
+
+425
+00:36:15,068 --> 00:36:17,559
+...lo que le pasa a cada nazi que
+encontramos.
+
+426
+00:36:18,104 --> 00:36:22,302
+No le dirá nada a nadie.
+¡Ni un detalle!
+
+427
+00:36:23,910 --> 00:36:26,140
+¡Su batallón fue emboscado y huyó!
+
+428
+00:36:26,646 --> 00:36:28,113
+¡Ni una palabra más!
+
+429
+00:36:29,416 --> 00:36:30,644
+Sí, mi Führer.
+
+430
+00:36:33,587 --> 00:36:36,385
+¿Lo marcaron
+como a los otros sobrevivientes?
+
+431
+00:36:37,791 --> 00:36:39,019
+Sí, mi Führer.
+
+432
+00:36:40,093 --> 00:36:43,620
+Ahora que ha sobrevivido a la guerra,
+¿qué hará al volver a casa?
+
+433
+00:36:46,533 --> 00:36:49,001
+Abrazaré a mi madre
+como nunca lo he hecho.
+
+434
+00:36:49,469 --> 00:36:51,664
+Abrazará a su madre.
+
+435
+00:36:53,840 --> 00:36:55,569
+¿No es lindo?
+
+436
+00:36:55,809 --> 00:36:58,039
+Pregúntale si se quitará el uniforme.
+
+437
+00:36:59,913 --> 00:37:02,074
+No sólo me lo quitaré, lo quemaré.
+
+438
+00:37:02,616 --> 00:37:04,481
+Lo quemará.
+
+439
+00:37:04,784 --> 00:37:07,480
+Eso pensamos. No nos gusta.
+
+440
+00:37:08,555 --> 00:37:12,491
+Nos gusta que los nazis usen su
+uniforme. Así se los distingue.
+
+441
+00:37:12,559 --> 00:37:14,083
+De inmediato.
+
+442
+00:37:18,732 --> 00:37:22,964
+Si se lo saca, nadie sabrá que es nazi.
+
+443
+00:37:23,036 --> 00:37:25,231
+Eso no es aceptable.
+
+444
+00:37:30,410 --> 00:37:33,902
+Le daré algo que no pueda quitarse.
+
+445
+00:37:46,126 --> 00:37:49,755
+Teniente, estás mejorando.
+
+446
+00:37:50,230 --> 00:37:53,393
+Sabes cómo se llega al Carnegie Hall,
+¿no?
+
+447
+00:37:54,367 --> 00:37:55,629
+Con práctica.
+
+448
+00:37:57,570 --> 00:37:59,629
+<i>Capítulo tres</i>
+
+449
+00:37:59,706 --> 00:38:03,506
+<i>NOCHE ALEMANA EN PARÍS</i>
+
+450
+00:38:07,447 --> 00:38:09,745
+<i>JUNIO</i>
+
+451
+00:38:11,551 --> 00:38:13,883
+<i>CINE</i>
+
+452
+00:38:53,493 --> 00:38:57,054
+<i>SHOSANNA DREYFUS
+4 años después de la masacre de su familia</i>
+
+453
+00:39:03,837 --> 00:39:05,304
+¿Qué empieza mañana?
+
+454
+00:39:07,841 --> 00:39:09,536
+Un festival de Max Linder.
+
+455
+00:39:11,444 --> 00:39:13,810
+Siempre me gustó más Linder que Chaplin.
+
+456
+00:39:14,647 --> 00:39:17,980
+Pero Linder nunca hizo
+una película tan buena como "El chico".
+
+457
+00:39:18,051 --> 00:39:20,485
+El clímax con la persecución es
+soberbio.
+
+458
+00:39:27,360 --> 00:39:28,725
+Adoro su cine.
+
+459
+00:39:30,096 --> 00:39:31,096
+Gracias.
+
+460
+00:39:32,031 --> 00:39:33,055
+¿Es suyo?
+
+461
+00:39:34,801 --> 00:39:35,825
+¿Si es de mi propiedad?
+
+462
+00:39:35,902 --> 00:39:36,902
+Sí.
+
+463
+00:39:37,570 --> 00:39:38,570
+Sí.
+
+464
+00:39:41,007 --> 00:39:44,135
+¿Cómo hace una chica tan joven
+para ser dueña de un cine?
+
+465
+00:39:44,244 --> 00:39:45,711
+Lo heredé de mi tía.
+
+466
+00:39:46,880 --> 00:39:49,144
+Gracias por ofrecer una noche alemana.
+
+467
+00:39:50,150 --> 00:39:51,742
+No tengo alternativa...
+
+468
+00:39:51,885 --> 00:39:53,216
+...pero de nada.
+
+469
+00:39:53,820 --> 00:39:56,152
+Adoro las películas de montañas
+de Riefenstahl...
+
+470
+00:39:56,222 --> 00:39:57,917
+<i>...en especial, Piz Palü.</i>
+
+471
+00:39:58,591 --> 00:40:01,424
+Es bueno ver
+una francesa que admire a Riefenstahl.
+
+472
+00:40:01,494 --> 00:40:03,553
+No usaría la palabra "admirar"...
+
+473
+00:40:03,663 --> 00:40:07,030
+<i>...para describir mis sentimientos
+hacia Fräulein Riefenstahl.</i>
+
+474
+00:40:08,568 --> 00:40:10,900
+Pero admira al director Pabst, ¿verdad?
+
+475
+00:40:12,505 --> 00:40:14,973
+Por eso puso su nombre en la
+marquesina...
+
+476
+00:40:15,175 --> 00:40:16,938
+...cuando no era necesario.
+
+477
+00:40:24,150 --> 00:40:28,484
+Soy francesa. En nuestro país,
+respetamos a los directores.
+
+478
+00:40:29,322 --> 00:40:30,653
+Incluso a los alemanes.
+
+479
+00:40:30,723 --> 00:40:32,486
+Incluso a los alemanes, sí.
+
+480
+00:40:33,293 --> 00:40:35,523
+Gracias por su ayuda, soldado. Adiós.
+
+481
+00:40:37,130 --> 00:40:38,461
+No ha terminado.
+
+482
+00:40:38,731 --> 00:40:40,130
+Terminaré en la mañana.
+
+483
+00:40:40,200 --> 00:40:42,065
+¿Puedo preguntarle su nombre?
+
+484
+00:40:44,270 --> 00:40:45,931
+¿Quiere ver mis papeles?
+
+485
+00:41:02,989 --> 00:41:04,650
+Es un nombre muy bonito.
+
+486
+00:41:05,425 --> 00:41:06,425
+Gracias.
+
+487
+00:41:06,626 --> 00:41:08,321
+¿Terminó con mis papeles?
+
+488
+00:41:12,098 --> 00:41:14,157
+Señorita, quisiera presentarme...
+
+489
+00:41:14,767 --> 00:41:16,359
+...soy Fredrick Zoller.
+
+490
+00:41:23,543 --> 00:41:24,543
+Bien...
+
+491
+00:41:25,912 --> 00:41:29,814
+...ha sido un placer charlar con una
+cinéfila.
+
+492
+00:41:31,217 --> 00:41:32,548
+Que duerma bien.
+
+493
+00:41:33,086 --> 00:41:34,110
+Adiós.
+
+494
+00:42:15,194 --> 00:42:16,456
+Hola, señorita.
+
+495
+00:42:17,297 --> 00:42:18,730
+¿Puedo acompañarla?
+
+496
+00:42:19,632 --> 00:42:20,963
+Mire, Fredrick...
+
+497
+00:42:22,168 --> 00:42:23,465
+¿Recuerda mi nombre?
+
+498
+00:42:23,536 --> 00:42:24,536
+Sí.
+
+499
+00:42:25,672 --> 00:42:28,368
+Parece un sujeto agradable...
+
+500
+00:42:28,474 --> 00:42:29,474
+Gracias.
+
+501
+00:42:29,776 --> 00:42:30,800
+De nada.
+
+502
+00:42:31,377 --> 00:42:33,845
+Sin embargo,
+quiero que deje de molestarme.
+
+503
+00:42:36,482 --> 00:42:38,245
+Me disculpo...
+
+504
+00:42:38,885 --> 00:42:40,648
+...no intentaba molestarla.
+
+505
+00:42:41,187 --> 00:42:42,984
+Sólo intentaba ser amigable.
+
+506
+00:42:43,823 --> 00:42:45,381
+No deseo ser su amiga.
+
+507
+00:42:46,492 --> 00:42:47,618
+¿Por qué no?
+
+508
+00:42:49,629 --> 00:42:51,790
+No actúe como un niño. Sabe por qué.
+
+509
+00:42:53,700 --> 00:42:55,361
+No soy sólo un uniforme.
+
+510
+00:42:55,668 --> 00:42:56,760
+No para mí.
+
+511
+00:42:57,437 --> 00:43:00,201
+Si está tan desesperado
+por una novia francesa...
+
+512
+00:43:00,306 --> 00:43:02,433
+...le sugiero que intente en Vichy.
+
+513
+00:43:33,873 --> 00:43:34,931
+¿Quién es?
+
+514
+00:43:36,009 --> 00:43:37,909
+Creí que era sólo un uniforme.
+
+515
+00:43:38,011 --> 00:43:39,876
+No es sólo un soldado alemán.
+
+516
+00:43:41,080 --> 00:43:42,672
+¿Es el hijo de alguien?
+
+517
+00:43:43,016 --> 00:43:46,144
+La mayoría de los soldados alemanes son
+hijos de alguien.
+
+518
+00:44:17,250 --> 00:44:20,742
+Es afortunada,
+atrapó a un valiente héroe de guerra.
+
+519
+00:44:20,920 --> 00:44:23,684
+No, la señorita no es mi novia.
+
+520
+00:44:24,857 --> 00:44:27,348
+¿Puede escribir "Amour Babette"?
+
+521
+00:44:48,414 --> 00:44:50,314
+Así que es un héroe de guerra.
+
+522
+00:44:51,751 --> 00:44:52,809
+¿Qué hizo?
+
+523
+00:44:56,856 --> 00:44:59,757
+Estuve solo en un campanario
+en una ciudad sitiada.
+
+524
+00:45:00,626 --> 00:45:03,220
+Estaba solo con mil balas en un nido...
+
+525
+00:45:04,497 --> 00:45:06,488
+...contra 300 soldados enemigos.
+
+526
+00:45:07,934 --> 00:45:09,265
+¿Qué es un nido?
+
+527
+00:45:11,838 --> 00:45:14,932
+Es como un francotirador llamaría
+a un campanario.
+
+528
+00:45:15,374 --> 00:45:18,343
+Una estructura alta
+que ofrece 360 grados de visión.
+
+529
+00:45:19,312 --> 00:45:21,303
+Muy ventajoso para un tirador.
+
+530
+00:45:23,483 --> 00:45:24,814
+¿A cuántos mató?
+
+531
+00:45:26,452 --> 00:45:27,783
+A sesenta y ocho.
+
+532
+00:45:29,789 --> 00:45:31,017
+El primer día.
+
+533
+00:45:33,192 --> 00:45:34,682
+A ciento cincuenta...
+
+534
+00:45:36,395 --> 00:45:37,760
+...el segundo día.
+
+535
+00:45:40,233 --> 00:45:42,133
+A treinta y dos el tercer día.
+
+536
+00:45:44,337 --> 00:45:46,498
+El cuarto día abandonaron la ciudad.
+
+537
+00:45:48,474 --> 00:45:51,841
+Mi historia de guerra recibió
+mucha atención en Alemania...
+
+538
+00:45:52,211 --> 00:45:54,111
+...por eso todos me reconocen.
+
+539
+00:45:55,148 --> 00:45:57,480
+Me llaman el sargento York alemán.
+
+540
+00:45:58,751 --> 00:46:01,276
+Tal vez hagan una película sobre sus
+logros.
+
+541
+00:46:02,889 --> 00:46:05,483
+Eso pensó Joseph Goebbels.
+
+542
+00:46:06,325 --> 00:46:08,793
+<i>La hizo y la llamó "Nation's Pride".</i>
+
+543
+00:46:10,163 --> 00:46:14,532
+Querían que me interpretara a mí
+mismo...
+
+544
+00:46:15,868 --> 00:46:17,062
+...y lo hice.
+
+545
+00:46:17,503 --> 00:46:20,301
+Joseph cree que la película será
+una obra maestra.
+
+546
+00:46:20,573 --> 00:46:22,564
+Y yo seré el Van Johnson alemán.
+
+547
+00:46:23,142 --> 00:46:25,269
+<i>¿"Nation's Pride" es sobre usted?</i>
+
+548
+00:46:26,746 --> 00:46:28,941
+<i>¿Usted protagoniza "Nation's Pride"?</i>
+
+549
+00:46:29,015 --> 00:46:30,015
+Lo sé.
+
+550
+00:46:30,316 --> 00:46:31,510
+¿Es gracioso?
+
+551
+00:46:32,185 --> 00:46:34,500
+Buena suerte con su película, soldado.
+Ojalá que todo...
+
+552
+00:46:34,501 --> 00:46:36,815
+...le salga bien a Joseph y a usted.
+
+553
+00:46:46,098 --> 00:46:47,122
+¡Adiós!
+
+554
+00:46:49,435 --> 00:46:51,460
+- ¿Necesitas ayuda?
+- No, está bien.
+
+555
+00:46:51,537 --> 00:46:52,697
+Si me necesitas, estaré en el depósito.
+
+556
+00:46:52,772 --> 00:46:54,205
+Está bien, mi amor.
+
+557
+00:47:27,173 --> 00:47:28,538
+¿Señorita Mimieux?
+
+558
+00:47:31,077 --> 00:47:32,077
+¿Sí?
+
+559
+00:47:36,349 --> 00:47:37,475
+¿Es su cine?
+
+560
+00:47:38,251 --> 00:47:39,275
+Sí.
+
+561
+00:47:43,055 --> 00:47:44,079
+¡Baje!
+
+562
+00:47:47,326 --> 00:47:48,384
+Por favor.
+
+563
+00:48:05,311 --> 00:48:06,801
+No comprendo. ¿Qué he hecho?
+
+564
+00:48:06,879 --> 00:48:08,210
+Quiere saber qué ha hecho.
+
+565
+00:48:08,281 --> 00:48:09,976
+Suba al auto.
+
+566
+00:48:29,268 --> 00:48:32,203
+Los hijos de los esclavos permiten
+que...
+
+567
+00:48:32,204 --> 00:48:35,138
+...EE.UU. sea competitivo en atletismo.
+
+568
+00:48:36,108 --> 00:48:38,292
+Las medallas olímpicas de oro
+estadounidenses...
+
+569
+00:48:38,293 --> 00:48:40,477
+...se miden con sudor negro.
+
+570
+00:48:41,614 --> 00:48:45,448
+Dr. Joseph Goebbels - El segundo hombre
+más importante del Tercer Reich
+
+571
+00:48:55,328 --> 00:48:56,625
+Bien, vino.
+
+572
+00:48:57,229 --> 00:48:59,891
+No estaba seguro
+de si aceptaría mi invitación.
+
+573
+00:49:00,366 --> 00:49:01,366
+¿Invitación?
+
+574
+00:49:01,434 --> 00:49:02,924
+¿Ésa es la joven en cuestión, Fredrick?
+
+575
+00:49:03,002 --> 00:49:04,333
+Sí, Dr. Goebbels.
+
+576
+00:49:04,704 --> 00:49:07,138
+Emmanuelle, quiero que conozca a
+alguien.
+
+577
+00:49:09,842 --> 00:49:13,972
+Emmanuelle Mimieux, quiero presentarle
+al ministro de propaganda...
+
+578
+00:49:14,647 --> 00:49:17,707
+...el líder de toda la industria
+cinematográfica alemana...
+
+579
+00:49:17,783 --> 00:49:21,617
+...y, ahora que soy actor, mi jefe,
+el Dr. Joseph Goebbels.
+
+580
+00:49:22,521 --> 00:49:24,989
+<i>Su reputación la precede,
+Fräulein Mimieux.</i>
+
+581
+00:49:31,063 --> 00:49:34,555
+<i>En general, ella es la intérprete al
+francés de Herr Goebbels...</i>
+
+582
+00:49:34,734 --> 00:49:36,224
+...la Srta. Francesca Mondino.
+
+583
+00:49:36,302 --> 00:49:37,302
+Hola.
+
+584
+00:49:42,541 --> 00:49:43,541
+Hola.
+
+585
+00:49:46,045 --> 00:49:47,945
+Ya conoce al Mayor.
+
+586
+00:49:48,481 --> 00:49:52,281
+De hecho, no me he presentado. Soy el
+mayor Dieter Hellstrom de la Gestapo.
+
+587
+00:49:52,351 --> 00:49:53,579
+A su servicio.
+
+588
+00:49:54,553 --> 00:49:56,145
+Por favor, permítame...
+
+589
+00:49:56,889 --> 00:49:58,481
+...siéntese, por favor.
+
+590
+00:50:04,430 --> 00:50:07,024
+Pruebe el champán, es muy bueno.
+
+591
+00:50:15,441 --> 00:50:19,377
+Debo decir
+que debería estar enojado con usted.
+
+592
+00:50:20,746 --> 00:50:22,179
+Llegué a Francia...
+
+593
+00:50:22,248 --> 00:50:25,547
+...y deseaba almorzar con mi estrella.
+
+594
+00:50:26,352 --> 00:50:27,352
+Ni me imaginaba...
+
+595
+00:50:28,054 --> 00:50:30,352
+...que ya era famoso en París.
+
+596
+00:50:30,656 --> 00:50:35,025
+Y ahora él debe hacerse tiempo para mí.
+
+597
+00:50:37,463 --> 00:50:42,025
+La gente espera horas, días para verme.
+
+598
+00:50:43,069 --> 00:50:45,196
+Yo espero por el Führer...
+
+599
+00:50:46,338 --> 00:50:48,568
+...y el soldado Zoller.
+
+600
+00:50:49,742 --> 00:50:54,543
+Finalmente, conseguí
+una cita con el joven soldado.
+
+601
+00:50:56,649 --> 00:51:00,085
+Y él habló de usted y su cine
+todo el almuerzo.
+
+602
+00:51:00,886 --> 00:51:02,353
+Srta. Mimieux, vayamos al grano.
+
+603
+00:51:02,421 --> 00:51:03,615
+Ministro doctor Goebbels...
+
+604
+00:51:03,722 --> 00:51:05,053
+Aún no se lo he informado.
+
+605
+00:51:05,591 --> 00:51:08,116
+Salvo que sea retardada,
+ya debe haberse dado cuenta.
+
+606
+00:51:08,394 --> 00:51:09,918
+Después de todo, dirige un cine.
+
+607
+00:51:11,397 --> 00:51:12,421
+Dile, Francesca.
+
+608
+00:51:12,898 --> 00:51:15,526
+Intentamos decirle que el soldado
+Zoller...
+
+609
+00:51:15,601 --> 00:51:18,161
+...pasó una hora del almuerzo intentando
+convencer al Sr. Goebbels de...
+
+610
+00:51:18,237 --> 00:51:21,172
+...abandonar sus planes para el estreno
+de la película del soldado Zoller...
+
+611
+00:51:21,240 --> 00:51:23,902
+...y de estrenarla en su cine.
+
+612
+00:51:25,044 --> 00:51:26,102
+¿Qué?
+
+613
+00:51:26,278 --> 00:51:27,836
+Yo quería informarle.
+
+614
+00:51:28,214 --> 00:51:31,183
+¡Diablos! Mis disculpas,
+soldado, claro que sí.
+
+615
+00:51:31,250 --> 00:51:32,444
+¿Qué pasa?
+
+616
+00:51:33,319 --> 00:51:36,083
+El soldado quería informar
+a la señorita personalmente.
+
+617
+00:51:36,522 --> 00:51:37,580
+¡Tonterías!
+
+618
+00:51:38,624 --> 00:51:40,922
+No tiene nada que informar
+hasta que haya hecho mis preguntas.
+
+619
+00:51:41,727 --> 00:51:45,060
+Que quede asentado que no he accedido
+a cambiar de cine para mi estreno.
+
+620
+00:51:45,898 --> 00:51:47,058
+Debidamente asentado.
+
+621
+00:51:52,071 --> 00:51:53,902
+¿Tiene palcos?
+
+622
+00:51:55,241 --> 00:51:56,265
+Sí.
+
+623
+00:51:57,309 --> 00:51:58,367
+¿Cuántos?
+
+624
+00:52:00,146 --> 00:52:01,238
+Dos.
+
+625
+00:52:02,748 --> 00:52:04,375
+Sería mejor si hubiera más.
+
+626
+00:52:04,917 --> 00:52:07,249
+¿Cuántas butacas tiene?
+
+627
+00:52:07,887 --> 00:52:08,945
+Trescientas cincuenta.
+
+628
+00:52:12,691 --> 00:52:15,990
+Son casi cuatrocientas menos que el
+Ritz.
+
+629
+00:52:16,262 --> 00:52:17,627
+Pero Dr. Goebbels...
+
+630
+00:52:18,164 --> 00:52:19,256
+...no es algo tan terrible.
+
+631
+00:52:20,032 --> 00:52:22,899
+Usted mismo dijo que no quería consentir
+a cada burgués francés hipócrita...
+
+632
+00:52:22,968 --> 00:52:23,992
+...que ocupe lugar,
+congraciándose con nosotros.
+
+633
+00:52:24,637 --> 00:52:27,231
+Con menos asientos,
+el acontecimiento es más exclusivo.
+
+634
+00:52:28,107 --> 00:52:31,099
+No intente llenar la sala,
+ellos luchan por los asientos.
+
+635
+00:52:32,011 --> 00:52:33,444
+Además, al diablo con los franceses.
+
+636
+00:52:33,913 --> 00:52:37,349
+Es una noche,
+un acontecimiento y una fiesta alemanes.
+
+637
+00:52:38,284 --> 00:52:40,411
+Esta noche es para usted, para mí...
+
+638
+00:52:40,986 --> 00:52:42,920
+...para el ejército alemán
+y los altos mandos...
+
+639
+00:52:42,988 --> 00:52:44,046
+...su familia y amigos.
+
+640
+00:52:44,690 --> 00:52:46,419
+Los únicos que deben poder estar ahí...
+
+641
+00:52:46,492 --> 00:52:48,960
+...son los que se conmuevan
+por lo que suceda en la pantalla.
+
+642
+00:52:58,370 --> 00:53:00,395
+Veo que su oratoria ha mejorado.
+
+643
+00:53:01,807 --> 00:53:03,900
+Parece que he creado un monstruo.
+
+644
+00:53:07,079 --> 00:53:09,377
+Un monstruo extrañamente persuasivo.
+
+645
+00:53:15,521 --> 00:53:18,285
+Cuando termine la guerra, la política
+espera.
+
+646
+00:53:26,699 --> 00:53:28,098
+Bien, soldado...
+
+647
+00:53:31,537 --> 00:53:33,971
+...aunque sea cierto,
+tiendo a consentirlo en todo...
+
+648
+00:53:34,940 --> 00:53:38,808
+Debo ver una película
+en el cine de la joven antes de decidir.
+
+649
+00:53:40,813 --> 00:53:43,594
+Joven, cerrará su cine para una...
+
+650
+00:53:43,595 --> 00:53:46,376
+...proyección privada esta noche.
+
+651
+00:53:50,256 --> 00:53:53,123
+¿Qué películas alemanas tiene?
+
+652
+00:53:53,859 --> 00:53:55,121
+Aquí está, Landa.
+
+653
+00:53:58,764 --> 00:54:00,994
+Emmanuelle, él es el coronel Hans Landa,
+de la SS.
+
+654
+00:54:01,066 --> 00:54:03,557
+Se encargará de la seguridad del
+estreno.
+
+655
+00:54:09,308 --> 00:54:10,707
+Encantado.
+
+656
+00:54:18,183 --> 00:54:20,515
+¡Adiós, Shosanna!
+
+657
+00:54:21,020 --> 00:54:25,184
+Debo llevar al Ministro del Reich
+a su próxima cita.
+
+658
+00:54:26,325 --> 00:54:27,792
+Chofer esclavo.
+
+659
+00:54:28,661 --> 00:54:31,824
+Chofer esclavo francés.
+
+660
+00:54:34,400 --> 00:54:37,062
+De hecho, en mi calidad de jefe de
+seguridad de este alegre...
+
+661
+00:54:37,136 --> 00:54:39,127
+...acontecimiento alemán, temo que
+debo...
+
+662
+00:54:39,405 --> 00:54:41,737
+...hablar con la Srta. Mimieux.
+
+663
+00:54:43,142 --> 00:54:44,200
+¿Qué clase de conversación?
+
+664
+00:54:46,278 --> 00:54:49,145
+¿Un soldado cuestionó...
+
+665
+00:54:49,146 --> 00:54:52,012
+...la orden de un coronel...
+
+666
+00:54:52,318 --> 00:54:53,751
+...o estoy muy susceptible?
+
+667
+00:54:54,286 --> 00:54:55,913
+Nada podría alejarse más de la verdad.
+
+668
+00:54:56,188 --> 00:54:57,450
+No hay dudas con respecto a su
+autoridad.
+
+669
+00:54:58,824 --> 00:55:00,189
+Pero su reputación lo precede.
+
+670
+00:55:00,559 --> 00:55:02,618
+¿La Srta. Mimieux o yo
+deberíamos preocuparnos?
+
+671
+00:55:03,028 --> 00:55:05,019
+Hans, no tiene malas intenciones...
+
+672
+00:55:05,698 --> 00:55:07,188
+...sólo está enamorado.
+
+673
+00:55:08,067 --> 00:55:10,467
+Y tiene razón. Su reputación lo precede.
+
+674
+00:55:10,869 --> 00:55:14,635
+No deben preocuparse. Como jefe
+de seguridad, sólo necesito hablar...
+
+675
+00:55:14,773 --> 00:55:17,970
+...con la dueña del posible nuevo lugar.
+
+676
+00:55:30,155 --> 00:55:32,020
+¿Ha probado el strudel?
+
+677
+00:55:36,228 --> 00:55:37,286
+No es malo.
+
+678
+00:55:39,231 --> 00:55:43,759
+¿Cómo conoció al joven soldado?
+
+679
+00:55:46,905 --> 00:55:49,840
+Dos strudels.
+Uno para mí y uno para la señorita.
+
+680
+00:55:50,909 --> 00:55:55,005
+Una taza de café para mí
+y para la señorita...
+
+681
+00:55:55,347 --> 00:55:56,541
+...un vaso de leche.
+
+682
+00:55:59,885 --> 00:56:02,683
+Iba a explicar...
+
+683
+00:56:05,557 --> 00:56:09,357
+Hasta hace un par de días,
+no conocía al soldado Zoller...
+
+684
+00:56:10,028 --> 00:56:11,086
+...ni sus logros.
+
+685
+00:56:12,164 --> 00:56:13,222
+Para mí...
+
+686
+00:56:14,032 --> 00:56:17,695
+...el soldado era sólo un cliente del
+cine. Hablamos algunas veces, pero...
+
+687
+00:56:18,404 --> 00:56:20,895
+Permítame interrumpirla.
+
+688
+00:56:21,740 --> 00:56:24,470
+Es sólo un formalismo.
+
+689
+00:56:24,710 --> 00:56:27,235
+No debe ponerse nerviosa.
+
+690
+00:56:31,216 --> 00:56:34,913
+Disculpe. Olvidé ordenar la crema.
+
+691
+00:56:35,454 --> 00:56:36,546
+Un momento.
+
+692
+00:56:43,395 --> 00:56:45,158
+Espere la crema.
+
+693
+00:56:57,509 --> 00:57:00,945
+Emmanuelle. ¿Puedo llamarla así?
+
+694
+00:57:02,047 --> 00:57:03,071
+Sí.
+
+695
+00:57:06,218 --> 00:57:07,480
+Emmanuelle...
+
+696
+00:57:08,754 --> 00:57:09,846
+...explíqueme...
+
+697
+00:57:10,456 --> 00:57:13,914
+...cómo llegó a tener un cine tan joven.
+
+698
+00:57:26,438 --> 00:57:27,496
+Después de usted.
+
+699
+00:57:43,856 --> 00:57:44,948
+¿Veredicto?
+
+700
+00:57:46,124 --> 00:57:48,024
+Como dije, no es terrible.
+
+701
+00:57:56,134 --> 00:57:59,001
+Iba a explicar
+cómo llegó a ser dueña del cine.
+
+702
+00:58:00,038 --> 00:58:04,168
+El cine era de mis tíos.
+
+703
+00:58:06,044 --> 00:58:07,341
+¿Cuáles son sus nombres?
+
+704
+00:58:07,746 --> 00:58:08,974
+Jean-Pierre y Ada Mimieux.
+
+705
+00:58:10,015 --> 00:58:11,277
+¿Dónde están ahora?
+
+706
+00:58:12,117 --> 00:58:14,017
+Mi tío murió en Blitzkrieg.
+
+707
+00:58:14,820 --> 00:58:15,878
+Qué pena.
+
+708
+00:58:16,889 --> 00:58:17,947
+Continúe.
+
+709
+00:58:18,390 --> 00:58:21,723
+La tía Ada murió de fiebre
+la primavera pasada.
+
+710
+00:58:22,227 --> 00:58:23,285
+Qué lamentable.
+
+711
+00:58:24,530 --> 00:58:27,761
+Me hicieron notar que tiene
+un empleado negro. ¿Es cierto?
+
+712
+00:58:29,801 --> 00:58:30,825
+Sí.
+
+713
+00:58:32,738 --> 00:58:33,796
+Es francés.
+
+714
+00:58:35,240 --> 00:58:36,332
+Se llama Marcel.
+
+715
+00:58:38,076 --> 00:58:41,671
+Trabajó con mis tíos
+desde que abrieron el cine.
+
+716
+00:58:42,915 --> 00:58:44,906
+Es el único que trabaja conmigo.
+
+717
+00:58:45,150 --> 00:58:46,208
+¿Qué hace?
+
+718
+00:58:46,451 --> 00:58:47,509
+Es el proyeccionista.
+
+719
+00:58:48,253 --> 00:58:49,311
+¿Es bueno?
+
+720
+00:58:49,555 --> 00:58:50,613
+El mejor.
+
+721
+00:58:52,190 --> 00:58:55,853
+De hecho, se entiende
+que sea un buen empleo para él.
+
+722
+00:59:02,568 --> 00:59:05,002
+¿Usted sabe manejar el proyector?
+
+723
+00:59:05,604 --> 00:59:06,696
+Claro que sí.
+
+724
+00:59:10,042 --> 00:59:12,067
+Conociendo al Ministro del Reich
+como lo conozco...
+
+725
+00:59:13,178 --> 00:59:14,805
+Estoy casi seguro...
+
+726
+00:59:15,747 --> 00:59:19,342
+...de que no querrá que el éxito o el
+fracaso de su noche ilustre...
+
+727
+00:59:21,887 --> 00:59:23,548
+...dependa de la destreza de un negro.
+
+728
+00:59:25,190 --> 00:59:26,248
+Entonces...
+
+729
+00:59:26,592 --> 00:59:27,854
+...si llega a suceder...
+
+730
+00:59:28,560 --> 00:59:31,586
+...que se haga en su cine...
+
+731
+00:59:32,764 --> 00:59:35,631
+...aunque su negro sea talentoso...
+
+732
+00:59:37,035 --> 00:59:38,093
+...usted...
+
+733
+00:59:39,171 --> 00:59:40,604
+...manejará el proyector.
+
+734
+00:59:45,611 --> 00:59:46,805
+¿Es aceptable?
+
+735
+00:59:47,446 --> 00:59:48,504
+Sí.
+
+736
+00:59:50,048 --> 00:59:51,072
+¿Un cigarrillo?
+
+737
+00:59:54,252 --> 00:59:55,412
+No son franceses.
+
+738
+00:59:56,221 --> 00:59:57,313
+Son alemanes.
+
+739
+01:00:15,707 --> 01:00:17,504
+Quería preguntarle algo más.
+
+740
+01:00:29,588 --> 01:00:32,614
+Pero no puedo recordar qué era.
+
+741
+01:00:33,492 --> 01:00:35,960
+No debía ser importante.
+
+742
+01:00:40,132 --> 01:00:41,190
+Hasta esta noche.
+
+743
+01:00:51,777 --> 01:00:54,109
+Aprecio la modestia de su cine.
+
+744
+01:00:54,680 --> 01:00:57,877
+Su cine inspira respeto real,
+casi como una iglesia.
+
+745
+01:00:58,684 --> 01:01:01,676
+Ni decir que no pudimos arreglarlo.
+
+746
+01:01:02,087 --> 01:01:04,419
+Tal vez vaya al Louvre a buscar
+unos desnudos griegos...
+
+747
+01:01:04,489 --> 01:01:06,150
+...y los reparta por el vestíbulo.
+
+748
+01:01:07,592 --> 01:01:10,322
+¿Le gustó "Lucky Kids"?
+
+749
+01:01:11,863 --> 01:01:12,921
+Me gusta Lilian Harvey.
+
+750
+01:01:16,301 --> 01:01:18,565
+¡No vuelva a mencionar
+ese nombre en mi presencia!
+
+751
+01:01:41,927 --> 01:01:42,985
+Oye...
+
+752
+01:01:43,228 --> 01:01:45,025
+...¿qué diablos debemos hacer?
+
+753
+01:01:47,299 --> 01:01:49,494
+Parece que tendremos un estreno nazi.
+
+754
+01:01:49,701 --> 01:01:53,228
+Como dije, ¿qué diablos debemos hacer?
+
+755
+01:01:56,007 --> 01:01:58,805
+Debo hablarte sobre eso.
+
+756
+01:02:00,712 --> 01:02:02,873
+Estoy confundido, ¿qué pasa?
+
+757
+01:02:03,615 --> 01:02:07,210
+Llenamos el cine de nazis y lo
+incendiamos.
+
+758
+01:02:07,452 --> 01:02:08,612
+No hablo de eso.
+
+759
+01:02:08,887 --> 01:02:10,081
+Tú lo haces.
+
+760
+01:02:10,322 --> 01:02:12,187
+No, hablaremos de eso ahora.
+
+761
+01:02:13,458 --> 01:02:16,757
+Si nosotros mismos podemos evitar
+que se incendie...
+
+762
+01:02:17,262 --> 01:02:19,025
+...¿podemos incendiarlo nosotros mismos?
+
+763
+01:02:21,666 --> 01:02:23,293
+Sí, Shosanna, podemos hacerlo.
+
+764
+01:02:23,535 --> 01:02:26,299
+Y con la colección
+de 350 películas de nitrato...
+
+765
+01:02:28,306 --> 01:02:29,603
+...no necesitaríamos explosivos...
+
+766
+01:02:30,609 --> 01:02:31,667
+...¿verdad?
+
+767
+01:02:32,611 --> 01:02:34,772
+¿Quieres decir
+que no necesitaríamos más explosivos?
+
+768
+01:02:35,046 --> 01:02:39,449
+<i>En ese momento, la película de nitrato
+de 35 mm era tan inflamable</i>
+
+769
+01:02:39,518 --> 01:02:42,544
+<i>que no se podía llevar un rollo en un
+tranvía.</i>
+
+770
+01:02:42,754 --> 01:02:44,483
+No se pueden llevar en un vehículo
+público.
+
+771
+01:02:44,556 --> 01:02:45,989
+- Son películas, ¿verdad?
+- Sí.
+
+772
+01:02:46,057 --> 01:02:47,718
+Son inflamables. Baje.
+
+773
+01:02:47,893 --> 01:02:51,727
+<i>La película de nitrato se quema
+tres veces más rápido que el papel.</i>
+
+774
+01:02:55,333 --> 01:02:57,392
+<i>Shosanna tiene una colección...</i>
+
+775
+01:02:57,469 --> 01:03:02,469
+<i>...de más de 350 películas de nitrato.</i>
+
+776
+01:03:04,242 --> 01:03:06,608
+Incendiaré el cine durante la noche
+nazi.
+
+777
+01:03:12,584 --> 01:03:13,710
+Y si voy a incendiarlo...
+
+778
+01:03:14,119 --> 01:03:15,177
+...y lo haré...
+
+779
+01:03:17,155 --> 01:03:19,487
+...ambos sabemos
+que no me dejarás hacerlo sola.
+
+780
+01:03:23,662 --> 01:03:25,653
+Porque me amas. Y yo te amo.
+
+781
+01:03:25,730 --> 01:03:28,164
+Y eres la única persona en quien confío.
+
+782
+01:03:31,403 --> 01:03:32,768
+Pero no es lo único que haremos.
+
+783
+01:03:35,273 --> 01:03:37,298
+¿Aún funciona el
+equipo de filmación del ático?
+
+784
+01:03:37,475 --> 01:03:40,239
+La cámara, sí. ¿El grabador de sonido?
+
+785
+01:03:40,378 --> 01:03:41,640
+Bastante bien.
+
+786
+01:03:42,681 --> 01:03:46,344
+Grabé a un guitarrista nuevo que conocí
+la semana pasada. Funciona perfecto.
+
+787
+01:03:48,386 --> 01:03:50,479
+¿Por qué necesitamos equipo de
+filmación?
+
+788
+01:03:57,062 --> 01:03:58,393
+Porque, Marcel, mi dulce...
+
+789
+01:03:59,231 --> 01:04:00,289
+...haremos una película.
+
+790
+01:04:02,500 --> 01:04:04,092
+Sólo para los nazis.
+
+791
+01:04:05,770 --> 01:04:07,635
+<i>Capítulo cuatro</i>
+
+792
+01:04:07,806 --> 01:04:10,070
+<i>OPERACIÓN KINO</i>
+
+793
+01:04:14,112 --> 01:04:16,239
+Por aquí, Teniente.
+
+794
+01:04:36,434 --> 01:04:39,130
+Teniente Archie Hicox, reportándose,
+señor.
+
+795
+01:04:39,204 --> 01:04:42,002
+General Ed Fenech. Descanse, Hicox.
+
+796
+01:04:42,841 --> 01:04:44,035
+¿Un trago?
+
+797
+01:04:45,777 --> 01:04:50,009
+Si me ofrece un escocés con agua,
+lo beberé.
+
+798
+01:04:50,081 --> 01:04:53,676
+Muy bien. Sírvase usted mismo.
+
+799
+01:04:53,752 --> 01:04:55,743
+El bar está en el globo.
+
+800
+01:05:00,158 --> 01:05:02,217
+¿Algo para usted?
+
+801
+01:05:02,294 --> 01:05:05,457
+Whisky puro.
+
+802
+01:05:06,731 --> 01:05:09,666
+Aquí dice que habla alemán con fluidez.
+
+803
+01:05:09,734 --> 01:05:11,702
+Como un nativo.
+
+804
+01:05:11,770 --> 01:05:15,672
+- ¿Qué hacía antes de la guerra?
+- Soy crítico de cine.
+
+805
+01:05:16,274 --> 01:05:20,210
+- Mencione sus logros.
+- Bien, señor...
+
+806
+01:05:20,278 --> 01:05:24,840
+...escribo críticas y artículos
+para la publicación Cine y Cineastas...
+
+807
+01:05:24,916 --> 01:05:27,350
+...y he publicado dos libros.
+
+808
+01:05:27,652 --> 01:05:31,281
+Impresionante. No sea modesto.
+¿Cuáles son los títulos?
+
+809
+01:05:31,356 --> 01:05:32,356
+El primero se tituló:
+
+810
+01:05:32,424 --> 01:05:36,918
+Arte de los ojos, el corazón y la mente:
+El cine alemán en los años veinte.
+
+811
+01:05:36,995 --> 01:05:40,863
+El segundo se llamó:
+Da Vinci en veinticuatro fotogramas.
+
+812
+01:05:40,932 --> 01:05:45,932
+Un estudio crítico del subtexto fílmico
+del director alemán G.W. Pabst.
+
+813
+01:05:46,771 --> 01:05:49,706
+- ¿Por qué brindamos, señor?
+- Pues...
+
+814
+01:05:50,942 --> 01:05:54,343
+- Por derrotar a Hitler.
+- Por derrotar a Hitler.
+
+815
+01:05:54,646 --> 01:05:55,874
+Sí.
+
+816
+01:05:59,684 --> 01:06:03,780
+¿Conoce el cine alemán
+bajo el Tercer Reich?
+
+817
+01:06:05,657 --> 01:06:09,889
+Sí. Obviamente, no he visto ninguna
+película de los últimos tres años...
+
+818
+01:06:09,961 --> 01:06:13,260
+- ...pero lo conozco.
+- Explíquemelo.
+
+819
+01:06:13,999 --> 01:06:15,057
+¿Qué?
+
+820
+01:06:15,133 --> 01:06:19,399
+Esta aventura nuestra requiere
+conocimiento del cine alemán...
+
+821
+01:06:19,471 --> 01:06:24,471
+...bajo el Tercer Reich.
+Explíqueme el UFA bajo Goebbels.
+
+822
+01:06:26,811 --> 01:06:29,211
+Goebbels cree que sus películas...
+
+823
+01:06:29,280 --> 01:06:32,511
+...son el principio
+de una nueva era del cine alemán.
+
+824
+01:06:32,984 --> 01:06:34,645
+Una alternativa a lo que considera...
+
+825
+01:06:34,719 --> 01:06:37,688
+...el cine intelectual judeo-alemán
+de los años veinte...
+
+826
+01:06:38,423 --> 01:06:41,085
+...y el dogma controlado por judíos
+de Hollywood.
+
+827
+01:06:41,159 --> 01:06:42,717
+¿Cómo le está yendo?
+
+828
+01:06:43,294 --> 01:06:45,854
+Lo lamento, señor. ¿Cómo dijo?
+
+829
+01:06:46,331 --> 01:06:50,893
+Dice que quiere ganarle a los judíos
+en su propio juego.
+
+830
+01:06:51,903 --> 01:06:54,895
+Comparado con Louis B. Mayer,
+por ejemplo...
+
+831
+01:06:55,774 --> 01:06:59,335
+- ...¿cómo le está yendo?
+- Bastante bien.
+
+832
+01:07:00,011 --> 01:07:01,603
+Desde que Goebbels está a cargo...
+
+833
+01:07:01,679 --> 01:07:06,116
+...el público de cine en Alemania ha
+crecido durante los últimos ocho años.
+
+834
+01:07:06,184 --> 01:07:09,642
+Pero Louis B. Mayer no sería
+el rival de Goebbels.
+
+835
+01:07:09,721 --> 01:07:13,521
+Creo que Goebbels se aproxima más
+a David O. Selznick.
+
+836
+01:07:17,962 --> 01:07:19,327
+Infórmele.
+
+837
+01:07:19,664 --> 01:07:24,664
+Teniente Hicox, quisiera informarle
+sobre la Operación Kino.
+
+838
+01:07:25,303 --> 01:07:26,429
+Dentro de tres días...
+
+839
+01:07:26,504 --> 01:07:28,671
+...Joseph Goebbels ofrecerá una gala...
+
+840
+01:07:28,672 --> 01:07:30,838
+...para el estreno de su nuevo filme en
+París.
+
+841
+01:07:30,942 --> 01:07:34,810
+- ¿Qué filme?
+- Se llama Nation's Pride.
+
+842
+01:07:35,747 --> 01:07:39,148
+Al feliz acontecimiento alemán
+concurrirán...
+
+843
+01:07:39,217 --> 01:07:43,654
+...Goebbels, Göring, Bormann
+y la mayor parte de los altos mandos...
+
+844
+01:07:43,721 --> 01:07:47,487
+...incluyendo a los oficiales superiores
+de la SS y la Gestapo...
+
+845
+01:07:47,559 --> 01:07:50,995
+...y lumbreras de la industria del cine
+de propaganda nazi.
+
+846
+01:07:51,062 --> 01:07:53,155
+¿La raza superior?
+
+847
+01:07:53,231 --> 01:07:57,395
+Básicamente, todos los huevos podridos
+en una canasta.
+
+848
+01:07:57,469 --> 01:08:00,029
+El objetivo de la Operación Kino es...
+
+849
+01:08:00,939 --> 01:08:02,702
+...hacer volar la canasta.
+
+850
+01:08:03,475 --> 01:08:07,571
+Como la nieve del año pasado,
+que desaparezca del planeta.
+
+851
+01:08:08,513 --> 01:08:10,140
+Muy bien.
+
+852
+01:08:10,915 --> 01:08:12,661
+Agentes del Servicio Secreto
+Estadounidense...
+
+853
+01:08:12,662 --> 01:08:14,407
+...detrás de la línea enemiga...
+
+854
+01:08:14,486 --> 01:08:16,044
+...lo ayudarán.
+
+855
+01:08:16,121 --> 01:08:20,023
+Los alemanes los llaman los Bastardos.
+
+856
+01:08:20,558 --> 01:08:23,755
+Nunca oí hablar de ellos.
+
+857
+01:08:23,928 --> 01:08:26,795
+De eso se trata el Servicio Secreto,
+de que no los conozca.
+
+858
+01:08:26,865 --> 01:08:30,858
+Pero los alemanes los conocen
+porque han sido su diablo.
+
+859
+01:08:30,935 --> 01:08:35,668
+Lo dejarán en Francia,
+a unos 24 kilómetros de París.
+
+860
+01:08:35,740 --> 01:08:37,833
+Los Bastardos lo estarán esperando.
+
+861
+01:08:37,909 --> 01:08:40,571
+Primero irá a un pueblito llamado
+Nadine.
+
+862
+01:08:41,312 --> 01:08:44,110
+En Nadine, hay una taberna
+llamada La Louisiane.
+
+863
+01:08:44,649 --> 01:08:47,846
+Ahí se reunirá con nuestra doble agente.
+Ella seguirá.
+
+864
+01:08:47,919 --> 01:08:50,046
+Ella lo hará entrar en el estreno.
+
+865
+01:08:50,121 --> 01:08:53,887
+Estarán usted,
+ella y dos Bastardos alemanes.
+
+866
+01:08:53,958 --> 01:08:57,359
+Ya se encargó de todo lo que necesitará.
+
+867
+01:08:58,196 --> 01:08:59,424
+¿Cómo la reconoceré?
+
+868
+01:08:59,497 --> 01:09:02,694
+Creo que no le será difícil.
+
+869
+01:09:03,801 --> 01:09:06,031
+Su contacto es Bridget von Hammersmark.
+
+870
+01:09:06,032 --> 01:09:08,261
+¿Bridget von Hammersmark?
+
+871
+01:09:09,507 --> 01:09:12,533
+¿La estrella de cine alemana trabaja
+para Inglaterra?
+
+872
+01:09:12,610 --> 01:09:15,204
+Sí, desde hace dos años.
+
+873
+01:09:15,280 --> 01:09:18,841
+Podría decirse
+que la Operación Kino fue idea suya.
+
+874
+01:09:18,917 --> 01:09:21,215
+- Exacto.
+- ¿Entendió?
+
+875
+01:09:21,286 --> 01:09:24,016
+Eso creo. La emocionante París.
+
+876
+01:09:25,256 --> 01:09:28,089
+El pueblo de Nadine
+
+877
+01:09:28,159 --> 01:09:31,651
+No dijo que el encuentro sería en un
+sótano.
+
+878
+01:09:31,729 --> 01:09:34,596
+- No lo sabía.
+- Dijo en una taberna.
+
+879
+01:09:34,666 --> 01:09:37,294
+- Es una taberna.
+- Sí, en un sótano.
+
+880
+01:09:37,969 --> 01:09:40,836
+Pelear en un sótano presenta
+varias dificultades.
+
+881
+01:09:40,905 --> 01:09:44,238
+La primera es pelear en un sótano.
+
+882
+01:09:44,309 --> 01:09:46,209
+¿Qué pasa si entramos y ella no está?
+
+883
+01:09:46,277 --> 01:09:47,505
+Esperamos.
+
+884
+01:09:48,346 --> 01:09:52,407
+No se preocupe.
+Es una espía inglesa. Llegará.
+
+885
+01:10:13,938 --> 01:10:17,374
+- Stiglitz, ¿no?
+- Sí.
+
+886
+01:10:18,676 --> 01:10:21,167
+Oí que es bueno con eso.
+
+887
+01:10:24,983 --> 01:10:28,077
+No vinimos a buscar problemas.
+
+888
+01:10:28,353 --> 01:10:32,187
+Sólo vinimos a contactar a nuestra
+agente. No debería haber incidentes.
+
+889
+01:10:33,725 --> 01:10:38,594
+Pero si me equivoco, y los hay...
+
+890
+01:10:39,831 --> 01:10:42,732
+...necesito saber
+que puede permanecer tranquilo.
+
+891
+01:10:47,438 --> 01:10:49,133
+¿No le parezco tranquilo?
+
+892
+01:10:51,809 --> 01:10:56,712
+Ahora que lo dice así, eso creo.
+
+893
+01:11:11,863 --> 01:11:14,747
+Su alemán, Stiglitz...
+
+894
+01:11:14,748 --> 01:11:17,631
+...no es un tipo locuaz, ¿no?
+
+895
+01:11:19,470 --> 01:11:23,167
+¿Necesita alguien locuaz?
+
+896
+01:11:24,942 --> 01:11:27,467
+Buen punto, Teniente.
+
+897
+01:11:29,781 --> 01:11:32,545
+¿Qué hacemos si hay problemas?
+
+898
+01:11:32,617 --> 01:11:34,812
+¿Apostar por el resultado?
+
+899
+01:11:36,020 --> 01:11:39,183
+Podemos lidiar con los problemas.
+
+900
+01:11:40,725 --> 01:11:43,626
+Pero si los hay, debe asegurarse...
+
+901
+01:11:43,695 --> 01:11:47,859
+...de que ningún alemán o francés salga
+vivo de ese sótano.
+
+902
+01:11:48,800 --> 01:11:53,032
+Si descubren a Frau von Hammersmark,
+la misión está terminada.
+
+903
+01:11:53,404 --> 01:11:56,237
+Hablando de ella...
+
+904
+01:11:56,238 --> 01:11:59,070
+...¿quién eligió esta trampa para la
+reunión?
+
+905
+01:12:00,044 --> 01:12:03,207
+- Ella.
+- ¿No es magnífico?
+
+906
+01:12:03,281 --> 01:12:07,217
+No es una estratega. Sólo es una actriz.
+
+907
+01:12:07,618 --> 01:12:11,452
+No hay que ser Stonewall Jackson
+para saber que no se pelea en un sótano.
+
+908
+01:12:11,522 --> 01:12:13,581
+No eligió un lugar donde pelear.
+
+909
+01:12:13,658 --> 01:12:16,456
+Eligió un lugar aislado y sin alemanes.
+
+910
+01:12:17,528 --> 01:12:18,790
+Soy hombre...
+
+911
+01:12:19,464 --> 01:12:21,625
+...soy un personaje literario ficticio
+del pasado...
+
+912
+01:12:21,899 --> 01:12:24,697
+...soy estadounidense,
+y eso es controversial.
+
+913
+01:12:25,603 --> 01:12:27,969
+Para nada.
+
+914
+01:12:28,339 --> 01:12:32,969
+La nacionalidad del autor no tiene
+nada que ver con la del personaje.
+
+915
+01:12:34,078 --> 01:12:35,670
+El personaje es el personaje.
+
+916
+01:12:36,447 --> 01:12:38,312
+Hamlet no es británico. Es danés.
+
+917
+01:12:39,350 --> 01:12:42,148
+Sí, este personaje nació en
+Estados Unidos.
+
+918
+01:12:42,220 --> 01:12:43,278
+Muy bien.
+
+919
+01:12:46,591 --> 01:12:48,252
+¿Aguardiente?
+
+920
+01:12:48,459 --> 01:12:49,756
+Aguardiente.
+
+921
+01:12:50,061 --> 01:12:51,426
+Cinco aguardientes, por favor.
+
+922
+01:12:54,732 --> 01:12:55,790
+Si tuviera esposa...
+
+923
+01:12:57,101 --> 01:12:58,261
+...¿sería una piel roja?
+
+924
+01:12:58,503 --> 01:12:59,561
+¡Sí!
+
+925
+01:12:59,637 --> 01:13:00,661
+Entendió.
+
+926
+01:13:00,738 --> 01:13:01,864
+Tres preguntas más.
+
+927
+01:13:02,206 --> 01:13:03,673
+¿Mi hermano de sangre es
+el viejo Shatterhand?
+
+928
+01:13:03,741 --> 01:13:04,765
+¡Sí!
+
+929
+01:13:04,842 --> 01:13:05,866
+¿Me escribió Karl May?
+
+930
+01:13:05,943 --> 01:13:06,967
+¡Sí!
+
+931
+01:13:07,044 --> 01:13:08,136
+¿Quién eres?
+
+932
+01:13:08,546 --> 01:13:11,208
+¡Soy Winnetou, cacique de los apaches!
+
+933
+01:13:11,582 --> 01:13:12,640
+¡Sí!
+
+934
+01:13:13,317 --> 01:13:14,841
+¡Muy bien!
+
+935
+01:13:14,986 --> 01:13:16,385
+Hasta el fondo.
+
+936
+01:13:16,788 --> 01:13:17,846
+Salud.
+
+937
+01:13:18,456 --> 01:13:19,548
+Salud.
+
+938
+01:13:26,764 --> 01:13:27,822
+¡Atención!
+
+939
+01:13:35,006 --> 01:13:36,303
+Hola, mis amores.
+
+940
+01:13:36,941 --> 01:13:37,999
+Siéntense.
+
+941
+01:13:38,976 --> 01:13:42,571
+Me uniré pronto. Debo despedirme
+de mis cinco nuevos amigos.
+
+942
+01:13:43,614 --> 01:13:45,844
+<i>No hay apuro, tómese su tiempo,
+Frau von Hammersmark.</i>
+
+943
+01:13:46,250 --> 01:13:47,877
+<i>Diviértase. Aquí la esperaremos.</i>
+
+944
+01:13:55,460 --> 01:13:58,623
+Eric, querido.
+Son los amigos que estaba esperando.
+
+945
+01:13:58,796 --> 01:14:00,491
+Invítales lo que quieran.
+
+946
+01:14:01,032 --> 01:14:03,466
+Su deseo es mi orden.
+
+947
+01:14:05,036 --> 01:14:06,094
+Oficiales...
+
+948
+01:14:06,404 --> 01:14:08,031
+...parece que la señorita invita los
+tragos.
+
+949
+01:14:09,106 --> 01:14:10,869
+- ¿Qué quiere?
+- Whisky.
+
+950
+01:14:10,942 --> 01:14:12,000
+Dos whiskys.
+
+951
+01:14:12,443 --> 01:14:14,377
+- Tres.
+- Muy bien, tres.
+
+952
+01:14:16,414 --> 01:14:18,473
+<i>Que tengan una maravillosa noche.</i>
+
+953
+01:14:18,549 --> 01:14:20,483
+<i>- Igualmente.
+- Gracias.</i>
+
+954
+01:14:20,685 --> 01:14:22,380
+<i>¡Su tarjeta!</i>
+
+955
+01:14:22,720 --> 01:14:23,812
+<i>Tiene razón.</i>
+
+956
+01:14:25,022 --> 01:14:26,114
+<i>Veamos.</i>
+
+957
+01:14:27,558 --> 01:14:30,186
+<i>¡Genghis Khan!
+Jamás lo habría adivinado.</i>
+
+958
+01:14:30,361 --> 01:14:31,521
+<i>¡Claro que sí!</i>
+
+959
+01:14:31,762 --> 01:14:32,820
+Hola, querido.
+
+960
+01:14:35,199 --> 01:14:36,223
+¿Cómo está?
+
+961
+01:14:39,036 --> 01:14:40,435
+Qué placer verlo.
+
+962
+01:14:49,947 --> 01:14:53,041
+Creí que aquí habría
+más franceses que alemanes.
+
+963
+01:14:54,252 --> 01:14:56,243
+Así es, normalmente.
+
+964
+01:14:56,420 --> 01:14:59,685
+La esposa de ese sargento tuvo un hijo.
+
+965
+01:15:00,391 --> 01:15:02,973
+Su oficial al mando le dio la noche
+libre...
+
+966
+01:15:02,974 --> 01:15:05,556
+...a él y a sus hombres para celebrar.
+
+967
+01:15:07,498 --> 01:15:08,522
+Deberíamos irnos.
+
+968
+01:15:10,868 --> 01:15:11,892
+Deberíamos quedarnos.
+
+969
+01:15:12,203 --> 01:15:13,534
+Al menos, por un trago.
+
+970
+01:15:14,338 --> 01:15:15,805
+Los estuve esperando en un bar.
+
+971
+01:15:16,007 --> 01:15:19,101
+Sería raro que nos fuéramos sin beber.
+
+972
+01:15:19,443 --> 01:15:22,412
+Tiene razón. Cálmense y disfruten su
+bebida.
+
+973
+01:15:28,653 --> 01:15:29,677
+Mathilda...
+
+974
+01:15:29,754 --> 01:15:31,722
+<i>...únete al juego.
+Toma el lugar de Frau Hammersmark.</i>
+
+975
+01:15:41,098 --> 01:15:42,793
+A ella le encantaría jugar.
+
+976
+01:15:45,002 --> 01:15:47,402
+Traduciré y... protegeré.
+
+977
+01:15:47,705 --> 01:15:48,763
+No te preocupes, bonita.
+
+978
+01:15:48,940 --> 01:15:53,240
+Si uno de esos lobos se pasa de la raya,
+lo pondré en vereda.
+
+979
+01:15:53,477 --> 01:15:54,501
+Mira.
+
+980
+01:15:56,948 --> 01:15:57,972
+Sácale la nariz.
+
+981
+01:16:05,656 --> 01:16:06,680
+¡Basta!
+
+982
+01:16:06,757 --> 01:16:09,089
+Tomen su aguardiente, camaradas.
+
+983
+01:16:09,927 --> 01:16:11,019
+Antes de seguir jugando...
+
+984
+01:16:11,629 --> 01:16:12,653
+...beberemos.
+
+985
+01:16:13,698 --> 01:16:15,825
+Brindemos por nuestro amigo Wilhelm.
+
+986
+01:16:17,602 --> 01:16:18,796
+Y su pequeño...
+
+987
+01:16:19,737 --> 01:16:20,761
+...Maximilian.
+
+988
+01:16:21,739 --> 01:16:23,138
+- ¡Por Max!
+- ¡Por Max!
+
+989
+01:16:24,108 --> 01:16:25,405
+Hay novedades.
+
+990
+01:16:26,077 --> 01:16:27,635
+Han cambiado el cine.
+
+991
+01:16:28,045 --> 01:16:29,103
+¿Por qué?
+
+992
+01:16:29,180 --> 01:16:31,171
+Nadie lo sabe,
+pero no debería ser problemático.
+
+993
+01:16:31,849 --> 01:16:34,750
+Cambiaron a un cine
+más pequeño que el Ritz.
+
+994
+01:16:35,519 --> 01:16:39,080
+Los explosivos que hayan traído
+para el Ritz serán doblemente efectivos.
+
+995
+01:16:42,827 --> 01:16:44,158
+La siguiente noticia...
+
+996
+01:16:44,629 --> 01:16:45,653
+...es colosal.
+
+997
+01:16:45,896 --> 01:16:47,261
+Intenten no reaccionar demasiado.
+
+998
+01:16:49,634 --> 01:16:50,658
+El Führer--
+
+999
+01:16:53,437 --> 01:16:54,665
+...estaba pensando...
+
+1000
+01:16:55,506 --> 01:16:58,304
+...¿le firmaría un autógrafo a mi hijo
+el día de su nacimiento?
+
+1001
+01:17:00,244 --> 01:17:02,474
+Claro. Me encantaría, Wilhelm.
+
+1002
+01:17:03,514 --> 01:17:07,006
+Este apuesto sargento se convirtió
+en padre hoy.
+
+1003
+01:17:07,385 --> 01:17:08,409
+Felicitaciones.
+
+1004
+01:17:10,021 --> 01:17:11,045
+Gracias.
+
+1005
+01:17:11,122 --> 01:17:12,783
+¿Sabe cómo se llama?
+
+1006
+01:17:13,658 --> 01:17:18,618
+Claro que sí. Maximilian.
+
+1007
+01:17:19,096 --> 01:17:20,620
+Un nombre maravilloso.
+
+1008
+01:17:22,867 --> 01:17:24,391
+Gracias, Teniente.
+
+1009
+01:17:26,804 --> 01:17:29,637
+Sólo lo mejor para el pequeño
+Maximilian.
+
+1010
+01:17:36,380 --> 01:17:39,781
+Tal vez Max no sepa ahora quién es...
+
+1011
+01:17:41,052 --> 01:17:43,179
+...pero lo sabrá.
+Le haré ver todas sus películas.
+
+1012
+01:17:43,654 --> 01:17:44,654
+Bien.
+
+1013
+01:17:44,755 --> 01:17:46,780
+Crecerá con sus películas y...
+
+1014
+01:17:49,493 --> 01:17:51,393
+...esta servilleta en su pared.
+
+1015
+01:17:51,896 --> 01:17:56,896
+¡Un brindis por la mejor actriz de
+Alemania!
+
+1016
+01:17:57,635 --> 01:18:02,038
+¡Ni Dietrich ni Riefenstahl!
+¡Sólo Von Hammersmark!
+
+1017
+01:18:03,507 --> 01:18:04,838
+- ¡Salud!
+- ¡Salud!
+
+1018
+01:18:05,376 --> 01:18:06,434
+¡Salud!
+
+1019
+01:18:11,682 --> 01:18:12,876
+Otra vez--
+
+1020
+01:18:15,720 --> 01:18:19,451
+<i>Frau Hammersmark,
+¿qué la trae a Francia?</i>
+
+1021
+01:18:20,991 --> 01:18:22,754
+¡No le incumbe!
+
+1022
+01:18:23,828 --> 01:18:24,852
+Sargento segundo.
+
+1023
+01:18:27,231 --> 01:18:30,530
+Tal vez no haya molestado...
+
+1024
+01:18:30,601 --> 01:18:33,468
+...a la señorita
+con su comportamiento grosero y ebrio...
+
+1025
+01:18:34,205 --> 01:18:35,570
+...pero a mí, sí.
+
+1026
+01:18:37,608 --> 01:18:41,339
+Debo recordarle que es un soldado.
+
+1027
+01:18:41,545 --> 01:18:43,240
+¡Ésta es la mesa de un oficial!
+
+1028
+01:18:45,783 --> 01:18:49,184
+Le sugiero que deje de molestarla...
+
+1029
+01:18:49,920 --> 01:18:51,751
+...y vuelva a su mesa.
+
+1030
+01:18:57,528 --> 01:19:02,465
+Disculpe, Capitán,
+su acento es muy extraño.
+
+1031
+01:19:05,569 --> 01:19:06,627
+¿De dónde es?
+
+1032
+01:19:09,673 --> 01:19:12,870
+¡Debe estar muy ebrio o loco
+para atreverse...
+
+1033
+01:19:13,244 --> 01:19:15,405
+...a hablarle a un oficial superior
+con tanta impertinencia!
+
+1034
+01:19:15,946 --> 01:19:17,140
+Sargento segundo.
+
+1035
+01:19:18,582 --> 01:19:20,243
+Ustedes dos son responsables por él.
+
+1036
+01:19:20,384 --> 01:19:21,681
+Les sugiero que controlen a su amigo...
+
+1037
+01:19:21,752 --> 01:19:25,882
+...o pasará el día del nacimiento de Max
+en la cárcel por ebriedad pública.
+
+1038
+01:19:26,223 --> 01:19:27,850
+¿Puedo preguntar?
+
+1039
+01:19:59,623 --> 01:20:01,454
+Al igual que el joven padre...
+
+1040
+01:20:02,626 --> 01:20:05,060
+...yo también tengo
+buen oído para los acentos.
+
+1041
+01:20:08,699 --> 01:20:09,723
+Y como a él...
+
+1042
+01:20:10,868 --> 01:20:12,267
+...a mí también me resulta extraño el
+suyo.
+
+1043
+01:20:14,638 --> 01:20:15,798
+¿De dónde viene, Capitán?
+
+1044
+01:20:16,340 --> 01:20:17,432
+Mayor, esto es altamente--
+
+1045
+01:20:17,541 --> 01:20:19,736
+No hablaba con usted, teniente Munich.
+
+1046
+01:20:21,111 --> 01:20:23,705
+Ni con usted, teniente Frankfurt.
+
+1047
+01:20:25,616 --> 01:20:30,315
+Le hablaba al capitán No-sé-qué.
+
+1048
+01:20:34,725 --> 01:20:39,185
+Nací en un pueblo en la base de
+Piz Palü.
+
+1049
+01:20:40,064 --> 01:20:41,395
+- ¿La montaña?
+- Sí.
+
+1050
+01:20:42,366 --> 01:20:43,890
+En ese pueblo, todos hablamos así.
+
+1051
+01:20:45,536 --> 01:20:47,766
+¿Ha visto la película de Riefenstahl?
+
+1052
+01:20:48,906 --> 01:20:50,737
+- Sí.
+- Entonces me ha visto.
+
+1053
+01:20:52,343 --> 01:20:55,369
+¿Recuerda la escena
+de las antorchas en esquíes?
+
+1054
+01:20:57,214 --> 01:20:58,238
+Sí.
+
+1055
+01:20:59,283 --> 01:21:02,099
+En esa escena estábamos...
+
+1056
+01:21:02,100 --> 01:21:04,915
+...mi padre, mi hermana, mis dos
+hermanos y yo.
+
+1057
+01:21:06,457 --> 01:21:08,220
+Mi hermano es tan apuesto...
+
+1058
+01:21:08,692 --> 01:21:12,253
+...que el director Pabst le hizo
+un primer plano.
+
+1059
+01:21:13,130 --> 01:21:16,531
+Si mi palabra vale algo...
+
+1060
+01:21:17,268 --> 01:21:21,068
+...doy fe de todo
+lo que el joven Capitán ha dicho.
+
+1061
+01:21:22,606 --> 01:21:25,074
+Viene de la base de Piz Palü.
+
+1062
+01:21:25,709 --> 01:21:30,305
+Estuvo en la película, y su hermano es
+mucho más apuesto que él.
+
+1063
+01:21:40,758 --> 01:21:42,316
+Debería volver con sus amigos.
+
+1064
+01:21:46,530 --> 01:21:47,554
+¿Puedo sentarme?
+
+1065
+01:21:47,665 --> 01:21:48,723
+Por supuesto.
+
+1066
+01:21:49,867 --> 01:21:50,891
+¡Maravilloso!
+
+1067
+01:21:58,208 --> 01:22:01,803
+De ahí su extraño acento.
+
+1068
+01:22:03,280 --> 01:22:04,338
+Es extraordinario.
+
+1069
+01:22:05,049 --> 01:22:06,073
+¿Qué hace aquí?
+
+1070
+01:22:06,483 --> 01:22:09,475
+¿Además de beber con la adorable
+señorita?
+
+1071
+01:22:10,487 --> 01:22:13,081
+Ese placer no requiere explicación.
+
+1072
+01:22:14,325 --> 01:22:15,519
+Me refiero al país.
+
+1073
+01:22:17,127 --> 01:22:19,925
+Es obvio que no está destacado en
+Francia, o lo conocería.
+
+1074
+01:22:20,698 --> 01:22:22,461
+¿Conoce a todos los alemanes en Francia?
+
+1075
+01:22:23,334 --> 01:22:24,392
+A los que vale la pena conocer.
+
+1076
+01:22:30,641 --> 01:22:32,404
+Ahí está el problema.
+
+1077
+01:22:33,210 --> 01:22:34,700
+Nunca dijimos valer la pena.
+
+1078
+01:22:35,946 --> 01:22:37,607
+Frivolidades aparte,
+¿qué hace en Francia?
+
+1079
+01:22:39,316 --> 01:22:42,285
+Acompañaré a la señorita al estreno
+de la película del ministro Goebbels.
+
+1080
+01:22:44,888 --> 01:22:47,083
+Es el acompañante de la
+Srta. Hammersmark.
+
+1081
+01:22:48,258 --> 01:22:51,091
+Alguien debe llevar su encendedor.
+
+1082
+01:22:57,001 --> 01:23:00,368
+El Capitán es mi acompañante,
+pero los tres son mis invitados.
+
+1083
+01:23:01,271 --> 01:23:02,636
+Somos viejos amigos...
+
+1084
+01:23:03,374 --> 01:23:04,739
+...desde hace mucho tiempo.
+
+1085
+01:23:06,210 --> 01:23:10,476
+Más tiempo del que a una actriz
+le gusta reconocer.
+
+1086
+01:23:13,917 --> 01:23:14,975
+En ese caso...
+
+1087
+01:23:15,185 --> 01:23:18,484
+...brindemos por los tres hombres
+más afortunados en esta habitación.
+
+1088
+01:23:19,490 --> 01:23:20,548
+Brindo por eso.
+
+1089
+01:23:24,161 --> 01:23:25,788
+Reina Christina.
+
+1090
+01:23:36,774 --> 01:23:37,832
+Debo admitir...
+
+1091
+01:23:38,275 --> 01:23:40,505
+...que ese juego parece divertido.
+
+1092
+01:23:41,045 --> 01:23:43,536
+No me uní a ellos
+porque tiene razón, Capitán.
+
+1093
+01:23:44,214 --> 01:23:46,375
+Un oficial no debe confraternizar
+con soldados.
+
+1094
+01:23:48,018 --> 01:23:49,042
+Pero...
+
+1095
+01:23:49,787 --> 01:23:51,254
+...ya que somos todos oficiales...
+
+1096
+01:23:52,890 --> 01:23:54,517
+...y una sofisticada amiga de oficiales.
+
+1097
+01:23:55,059 --> 01:23:56,083
+¿Jugamos?
+
+1098
+01:23:56,593 --> 01:23:58,720
+Sí. Una partida.
+
+1099
+01:23:58,996 --> 01:24:00,020
+Maravilloso.
+
+1100
+01:24:02,499 --> 01:24:03,557
+Soldados...
+
+1101
+01:24:04,168 --> 01:24:05,226
+...las tarjetas.
+
+1102
+01:24:07,571 --> 01:24:08,629
+Gracias.
+
+1103
+01:24:10,607 --> 01:24:11,665
+Caballeros...
+
+1104
+01:24:13,110 --> 01:24:14,907
+...el objetivo del juego es...
+
+1105
+01:24:15,312 --> 01:24:17,803
+...escribir el nombre
+de una persona famosa en su tarjeta.
+
+1106
+01:24:18,248 --> 01:24:20,045
+No importa si es real o de ficción.
+
+1107
+01:24:20,751 --> 01:24:22,946
+Por ejemplo,
+puede ser Confucio o el Dr. Fu Manchú.
+
+1108
+01:24:23,220 --> 01:24:24,414
+¡Eric! Más plumas.
+
+1109
+01:24:24,922 --> 01:24:26,583
+Y deben ser famosos, no la tía Frida.
+
+1110
+01:24:27,257 --> 01:24:29,589
+Cuando terminan de escribir,
+ponen la tarjeta boca abajo.
+
+1111
+01:24:30,160 --> 01:24:32,060
+Se la pasan al que esté a la derecha-
+
+1112
+01:24:32,329 --> 01:24:33,353
+Gracias.
+
+1113
+01:24:33,430 --> 01:24:35,455
+El de la izquierda les pasa su tarjeta.
+
+1114
+01:24:35,899 --> 01:24:37,890
+Levantan la tarjeta, sin mirarla...
+
+1115
+01:24:38,102 --> 01:24:39,364
+...lamen el dorso...
+
+1116
+01:24:41,638 --> 01:24:43,196
+...y la pegan en la frente.
+
+1117
+01:24:57,521 --> 01:24:58,579
+¡Escriban!
+
+1118
+01:24:58,655 --> 01:24:59,679
+Escriban.
+
+1119
+01:25:20,878 --> 01:25:22,675
+Comenzaré, para que tengan una idea.
+
+1120
+01:25:25,682 --> 01:25:26,740
+¿Soy alemán?
+
+1121
+01:25:27,050 --> 01:25:28,108
+- No.
+- No.
+
+1122
+01:25:28,552 --> 01:25:29,576
+¿Soy estadounidense?
+
+1123
+01:25:29,753 --> 01:25:30,777
+- No.
+- No.
+
+1124
+01:25:30,854 --> 01:25:32,116
+Un momento, va a...
+
+1125
+01:25:32,923 --> 01:25:35,915
+Obviamente, no nació en Estados Unidos.
+
+1126
+01:25:36,193 --> 01:25:39,026
+Entonces... Visité Estados Unidos, ¿no?
+
+1127
+01:25:39,263 --> 01:25:40,321
+Sí.
+
+1128
+01:25:42,599 --> 01:25:43,691
+¿La visita fue feliz?
+
+1129
+01:25:44,535 --> 01:25:45,593
+No para usted.
+
+1130
+01:25:48,038 --> 01:25:51,701
+¿Mi tierra es exótica?
+
+1131
+01:25:51,808 --> 01:25:52,832
+- Sí.
+- Sí.
+
+1132
+01:25:56,046 --> 01:26:00,949
+Puede ser
+una referencia a la selva o a Oriente.
+
+1133
+01:26:02,753 --> 01:26:05,483
+Dejaré que gane mi primer instinto.
+¿Soy de la selva?
+
+1134
+01:26:05,556 --> 01:26:06,580
+- Sí.
+- Sí.
+
+1135
+01:26:06,957 --> 01:26:10,188
+Ahora se podría preguntar
+si es real o ficticio.
+
+1136
+01:26:10,727 --> 01:26:13,218
+Yo creo que es demasiado fácil,
+así que no lo preguntaré.
+
+1137
+01:26:13,864 --> 01:26:14,956
+Bien...
+
+1138
+01:26:15,032 --> 01:26:17,296
+...soy de la selva...
+
+1139
+01:26:18,402 --> 01:26:19,596
+...visité Estados Unidos...
+
+1140
+01:26:20,737 --> 01:26:22,295
+...pero la visita no fue feliz para
+mí...
+
+1141
+01:26:23,207 --> 01:26:26,734
+...eso implica que lo fue para otro.
+
+1142
+01:26:31,949 --> 01:26:32,973
+Cuando fui...
+
+1143
+01:26:34,751 --> 01:26:36,582
+...de la selva a Estados Unidos...
+
+1144
+01:26:39,723 --> 01:26:40,747
+...¿fui en barco?
+
+1145
+01:26:40,824 --> 01:26:41,848
+- Sí.
+- Sí.
+
+1146
+01:26:43,794 --> 01:26:45,227
+¿Fui contra mi voluntad?
+
+1147
+01:26:45,295 --> 01:26:46,319
+- Sí.
+- Sí.
+
+1148
+01:26:50,567 --> 01:26:52,194
+Durante el viaje, ¿estaba encadenado?
+
+1149
+01:26:52,502 --> 01:26:53,526
+Sí.
+
+1150
+01:26:53,937 --> 01:26:56,201
+Cuando llegué a Estados Unidos,
+¿me mostraron encadenado?
+
+1151
+01:26:56,273 --> 01:26:57,297
+- Sí.
+- Sí.
+
+1152
+01:26:57,374 --> 01:26:58,932
+¿Soy la historia de los negros
+en Estados Unidos?
+
+1153
+01:26:59,009 --> 01:27:00,033
+No.
+
+1154
+01:27:00,777 --> 01:27:02,039
+Entonces debo ser King Kong.
+
+1155
+01:27:05,983 --> 01:27:07,348
+Impresionante.
+
+1156
+01:27:08,552 --> 01:27:11,578
+Como acerté,
+todos deben terminar sus bebidas.
+
+1157
+01:27:12,422 --> 01:27:13,480
+Salud.
+
+1158
+01:27:18,895 --> 01:27:19,953
+¿Quién sigue?
+
+1159
+01:27:20,864 --> 01:27:21,922
+Mayor...
+
+1160
+01:27:23,533 --> 01:27:26,349
+...no quiero ser grosero.
+
+1161
+01:27:26,350 --> 01:27:29,165
+Nosotros cuatro somos muy buenos amigos.
+
+1162
+01:27:30,307 --> 01:27:32,002
+Y hace tiempo que no nos vemos.
+
+1163
+01:27:34,544 --> 01:27:35,670
+Entonces...
+
+1164
+01:27:36,246 --> 01:27:37,372
+...temo...
+
+1165
+01:27:38,682 --> 01:27:40,445
+...que está interrumpiendo.
+
+1166
+01:27:41,852 --> 01:27:43,843
+Me atrevo a disentir.
+
+1167
+01:27:45,555 --> 01:27:50,555
+Sólo si la señorita cree
+que mi presencia molesta...
+
+1168
+01:27:51,762 --> 01:27:53,059
+...entonces yo molesto.
+
+1169
+01:27:58,502 --> 01:28:00,265
+¿Molesto, Srta. Von Hammersmark?
+
+1170
+01:28:01,672 --> 01:28:02,696
+Eso pensé.
+
+1171
+01:28:04,541 --> 01:28:08,033
+Es sólo que el Capitán es
+inmune a mis encantos.
+
+1172
+01:28:23,093 --> 01:28:24,424
+Sólo bromeo.
+
+1173
+01:28:25,529 --> 01:28:29,090
+Por supuesto que molesto.
+
+1174
+01:28:29,366 --> 01:28:33,427
+Permítanme invitar las bebidas,
+y luego me despediré.
+
+1175
+01:28:34,271 --> 01:28:37,001
+Eric tiene una botella de whisky de
+33 años.
+
+1176
+01:28:37,240 --> 01:28:38,298
+De las tierras altas escocesas.
+
+1177
+01:28:39,343 --> 01:28:40,435
+¿Qué dicen, caballeros?
+
+1178
+01:28:41,111 --> 01:28:43,238
+Es muy amable.
+
+1179
+01:28:43,380 --> 01:28:46,110
+¡Eric! El de 33 años. ¡Y vasos nuevos!
+
+1180
+01:28:46,750 --> 01:28:48,377
+No querrán contaminarlo...
+
+1181
+01:28:48,452 --> 01:28:49,783
+...con la porquería que bebían.
+
+1182
+01:28:49,853 --> 01:28:50,877
+¿Cuántos vasos?
+
+1183
+01:28:51,188 --> 01:28:52,246
+- Cinco.
+- Para mí, no.
+
+1184
+01:28:52,622 --> 01:28:54,146
+Me gusta el escocés, pero yo no le
+gusto.
+
+1185
+01:28:54,591 --> 01:28:56,718
+Yo tampoco. Seguiré con el champán.
+
+1186
+01:28:56,927 --> 01:28:57,985
+Tres vasos.
+
+1187
+01:29:36,166 --> 01:29:37,224
+Gracias.
+
+1188
+01:29:39,970 --> 01:29:42,700
+¡Por mil años de Reich alemán!
+
+1189
+01:29:43,106 --> 01:29:44,596
+- ¡Por mil años de Reich alemán!
+- ¡Por mil años de Reich alemán!
+
+1190
+01:29:54,618 --> 01:29:56,518
+Debo decir que estos juegos me agotan.
+
+1191
+01:29:59,990 --> 01:30:01,048
+¿Oyó eso?
+
+1192
+01:30:03,160 --> 01:30:04,957
+Fue el sonido de mi Walther.
+
+1193
+01:30:05,662 --> 01:30:07,425
+Apunta directo a sus testículos.
+
+1194
+01:30:10,967 --> 01:30:13,435
+¿Por qué apunta
+su Walther a mis testículos?
+
+1195
+01:30:14,938 --> 01:30:17,771
+Porque se ha delatado, Capitán.
+
+1196
+01:30:18,909 --> 01:30:21,002
+Es tan alemán como ese escocés.
+
+1197
+01:30:30,520 --> 01:30:32,488
+- Bien, Mayor.
+- Cállate, puta.
+
+1198
+01:30:33,657 --> 01:30:34,749
+¿Qué decía?
+
+1199
+01:30:39,262 --> 01:30:42,754
+Decía que entonces somos dos.
+
+1200
+01:30:44,034 --> 01:30:47,162
+Le estoy apuntando a las bolas
+desde que se sentó.
+
+1201
+01:30:49,539 --> 01:30:50,767
+Somos tres.
+
+1202
+01:30:51,141 --> 01:30:54,907
+Y desde aquí, soy como Fredrick Zoller.
+
+1203
+01:30:56,813 --> 01:30:59,179
+Parece que tenemos un problema.
+
+1204
+01:31:00,150 --> 01:31:03,347
+Lo que sucederá...
+
+1205
+01:31:04,488 --> 01:31:07,252
+...es que se pondrá de pie
+y saldrá con nosotros.
+
+1206
+01:31:07,724 --> 01:31:09,157
+No. No lo creo.
+
+1207
+01:31:09,926 --> 01:31:11,450
+Temo que usted y yo...
+
+1208
+01:31:11,528 --> 01:31:13,428
+...ambos sabemos, Capitán...
+
+1209
+01:31:13,897 --> 01:31:17,162
+...no importa qué le pase
+a los demás que están aquí...
+
+1210
+01:31:17,567 --> 01:31:20,127
+...nosotros dos no iremos a ningún lado.
+
+1211
+01:31:23,039 --> 01:31:27,669
+Es una pena por el sargento Wilhelm
+y sus famosos amigos.
+
+1212
+01:31:29,446 --> 01:31:33,075
+Si alguno de ustedes espera vivir,
+deberá matarlos a ellos también.
+
+1213
+01:31:33,617 --> 01:31:36,745
+Parece que Max será huérfano.
+
+1214
+01:31:38,054 --> 01:31:39,419
+Qué triste.
+
+1215
+01:31:45,795 --> 01:31:48,093
+Si es el final...
+
+1216
+01:31:48,698 --> 01:31:51,690
+...espero que no le moleste
+que me vaya hablando inglés.
+
+1217
+01:31:52,836 --> 01:31:54,736
+Por supuesto.
+
+1218
+01:32:00,810 --> 01:32:04,576
+Hay un nivel en el infierno para los que
+desperdician un buen escocés.
+
+1219
+01:32:05,849 --> 01:32:08,647
+Como pronto estaré golpeando la
+puerta...
+
+1220
+01:32:13,723 --> 01:32:17,352
+...debo decir que esto es muy bueno.
+
+1221
+01:32:20,630 --> 01:32:23,497
+Sobre este problema...
+
+1222
+01:32:25,068 --> 01:32:26,865
+...en que nos encontramos.
+
+1223
+01:32:29,272 --> 01:32:32,366
+Parece que sólo puede hacer una cosa.
+
+1224
+01:32:32,442 --> 01:32:34,342
+¿Cuál?
+
+1225
+01:32:35,045 --> 01:32:37,639
+- Stiglitz.
+- Despídase de sus testículos nazis.
+
+1226
+01:33:14,250 --> 01:33:16,150
+El que está afuera. ¿Quién es?
+
+1227
+01:33:16,586 --> 01:33:18,383
+¿Británico? ¿Estadounidense?
+
+1228
+01:33:19,022 --> 01:33:20,114
+¿Qué?
+
+1229
+01:33:20,924 --> 01:33:22,482
+Somos estadounidenses.
+
+1230
+01:33:22,759 --> 01:33:24,226
+¿De dónde eres?
+
+1231
+01:33:24,561 --> 01:33:26,529
+Soy alemán, idiota.
+
+1232
+01:33:26,863 --> 01:33:29,559
+Hablas muy bien inglés para ser alemán.
+
+1233
+01:33:29,633 --> 01:33:30,964
+Estoy de acuerdo.
+
+1234
+01:33:32,135 --> 01:33:33,625
+Hablemos.
+
+1235
+01:33:34,404 --> 01:33:35,769
+Bien, habla.
+
+1236
+01:33:36,473 --> 01:33:37,940
+Soy padre.
+
+1237
+01:33:39,175 --> 01:33:42,110
+Mi hijo nació hoy en Frankfurt.
+
+1238
+01:33:42,612 --> 01:33:44,136
+Hace cinco horas.
+
+1239
+01:33:44,781 --> 01:33:49,013
+Se llama Max. Estábamos aquí celebrando.
+
+1240
+01:33:49,886 --> 01:33:53,322
+Ellos empezaron a disparar y matar.
+¡No es mi culpa!
+
+1241
+01:33:53,390 --> 01:33:55,483
+No fue tu culpa.
+
+1242
+01:33:56,860 --> 01:33:58,691
+¿Cómo te llamas, soldado?
+
+1243
+01:33:58,762 --> 01:33:59,990
+Wilhelm.
+
+1244
+01:34:00,864 --> 01:34:04,425
+¿Hay alguien vivo de nuestro bando?
+
+1245
+01:34:04,501 --> 01:34:06,298
+- No.
+- ¡Yo estoy viva!
+
+1246
+01:34:08,505 --> 01:34:09,870
+¿Quién es?
+
+1247
+01:34:12,676 --> 01:34:14,667
+¿La chica es de tu bando?
+
+1248
+01:34:16,212 --> 01:34:17,474
+¿Qué chica?
+
+1249
+01:34:17,547 --> 01:34:19,981
+¿Quién crees? Von Hammersmark.
+
+1250
+01:34:21,551 --> 01:34:23,178
+Sí, es de las nuestras.
+
+1251
+01:34:24,020 --> 01:34:25,282
+¿Está bien?
+
+1252
+01:34:28,291 --> 01:34:29,451
+¡Wilhelm!
+
+1253
+01:34:30,593 --> 01:34:32,185
+Le dispararon.
+
+1254
+01:34:33,196 --> 01:34:34,788
+Pero está viva.
+
+1255
+01:34:38,702 --> 01:34:40,192
+Bien, Wilhelm.
+
+1256
+01:34:41,204 --> 01:34:43,638
+¿Hacemos un trato?
+
+1257
+01:34:44,974 --> 01:34:46,373
+¿Cómo te llamas?
+
+1258
+01:34:46,443 --> 01:34:47,501
+Aldo.
+
+1259
+01:34:48,411 --> 01:34:50,641
+Te propongo esto.
+
+1260
+01:34:50,914 --> 01:34:54,543
+Uno de mis hombres y yo entraremos
+a buscar a la chica.
+
+1261
+01:34:54,617 --> 01:34:57,177
+Sin armas. Ni tú ni yo.
+
+1262
+01:34:57,253 --> 01:35:00,780
+Nos llevamos a la chica. Así de simple.
+
+1263
+01:35:01,157 --> 01:35:03,625
+Tú te vas por tu lado,
+nosotros por el nuestro.
+
+1264
+01:35:03,693 --> 01:35:06,594
+Y el pequeño Max crece con padre.
+
+1265
+01:35:07,764 --> 01:35:10,665
+¿Qué dices? ¿Hacemos el trato?
+
+1266
+01:35:15,071 --> 01:35:16,163
+Aldo.
+
+1267
+01:35:17,440 --> 01:35:19,032
+Aquí estoy, Willi.
+
+1268
+01:35:20,677 --> 01:35:22,440
+Quiero confiar.
+
+1269
+01:35:22,512 --> 01:35:23,672
+Pero...
+
+1270
+01:35:24,614 --> 01:35:26,104
+¿Cómo puedo hacerlo?
+
+1271
+01:35:28,318 --> 01:35:30,309
+¿Qué opción tienes?
+
+1272
+01:35:36,192 --> 01:35:38,217
+Bien.
+
+1273
+01:35:39,829 --> 01:35:41,023
+Aldo...
+
+1274
+01:35:42,098 --> 01:35:43,725
+...confiaré en ti.
+
+1275
+01:35:44,701 --> 01:35:46,032
+Bajen.
+
+1276
+01:36:01,584 --> 01:36:04,576
+¿Por qué la ametralladora?
+Creí que teníamos un trato.
+
+1277
+01:36:04,654 --> 01:36:06,918
+Aún lo tenemos. Toma a la chica y
+váyanse.
+
+1278
+01:36:06,990 --> 01:36:08,514
+No tan rápido.
+
+1279
+01:36:08,591 --> 01:36:11,185
+Sólo tenemos un trato
+si confiamos en el otro.
+
+1280
+01:36:11,261 --> 01:36:13,388
+Un atasco de pistoleros no es confianza.
+
+1281
+01:36:13,463 --> 01:36:16,398
+Debes apuntarme
+para que sea un atasco de pistoleros.
+
+1282
+01:36:16,666 --> 01:36:19,794
+Nos estás apuntando.
+Si decides disparar, moriremos.
+
+1283
+01:36:19,869 --> 01:36:23,168
+Arriba hay granadas.
+Si las lanzan aquí, tú mueres.
+
+1284
+01:36:23,239 --> 01:36:25,639
+Eso es un atasco de pistoleros,
+en eso no hay confianza.
+
+1285
+01:36:25,708 --> 01:36:27,505
+Sin confianza, no hay trato.
+
+1286
+01:36:43,259 --> 01:36:44,851
+Bien, Aldo.
+
+1287
+01:36:46,529 --> 01:36:47,621
+Bien.
+
+1288
+01:36:51,034 --> 01:36:54,435
+Sólo llévate a la traidora
+y salgan de mi vista.
+
+1289
+01:37:06,549 --> 01:37:09,950
+No tan rápido.
+Dile que vaya a jugar con sus perros.
+
+1290
+01:37:22,131 --> 01:37:26,067
+Antes de sacarle esa bala,
+debe contestar unas preguntas.
+
+1291
+01:37:26,135 --> 01:37:27,932
+¿Sobre qué?
+
+1292
+01:37:28,438 --> 01:37:30,599
+Tengo tres hombres muertos.
+
+1293
+01:37:30,673 --> 01:37:33,471
+¿Por qué no nos cuentas qué pasó?
+
+1294
+01:37:33,543 --> 01:37:35,761
+El oficial británico arruinó su fachada
+de alemán...
+
+1295
+01:37:35,762 --> 01:37:37,980
+...y el mayor de la Gestapo lo vio.
+
+1296
+01:37:38,615 --> 01:37:40,845
+Antes de ver qué pasó...
+
+1297
+01:37:41,684 --> 01:37:45,814
+...¿por qué invitó a mis hombres a una
+reunión en un sótano con nazis?
+
+1298
+01:37:50,727 --> 01:37:53,161
+Como no viste lo que sucedió adentro...
+
+1299
+01:37:53,229 --> 01:37:55,925
+...que hubiera nazis aquí debe parecer
+extraño.
+
+1300
+01:37:55,999 --> 01:37:58,524
+Sí, hay una palabra en mi idioma para
+eso.
+
+1301
+01:37:58,601 --> 01:38:00,592
+Se dice sospechoso.
+
+1302
+01:38:04,874 --> 01:38:06,671
+Todos deben calmarse.
+
+1303
+01:38:06,743 --> 01:38:09,439
+Permites que tu imaginación le gane
+al juicio.
+
+1304
+01:38:10,813 --> 01:38:13,782
+Conociste al sargento. Willi.
+
+1305
+01:38:13,850 --> 01:38:15,715
+Lo recuerdas, ¿no?
+
+1306
+01:38:15,785 --> 01:38:16,785
+Sí, lo recuerdo.
+
+1307
+01:38:16,853 --> 01:38:20,619
+Su esposa tuvo un bebé hoy.
+Se había convertido...
+
+1308
+01:38:20,690 --> 01:38:22,419
+¡Se había convertido en padre!
+
+1309
+01:38:22,492 --> 01:38:26,553
+Su oficial superior le dio a él y a sus
+amigos la noche para que celebraran.
+
+1310
+01:38:29,699 --> 01:38:32,833
+Que hubiera alemanes ahí era una
+trampa...
+
+1311
+01:38:32,834 --> 01:38:35,968
+...o una coincidencia trágica.
+
+1312
+01:38:36,039 --> 01:38:37,836
+No pueden ser las dos cosas.
+
+1313
+01:38:48,017 --> 01:38:49,917
+¿Cómo comenzó el tiroteo?
+
+1314
+01:38:49,986 --> 01:38:52,477
+El inglés se delató.
+
+1315
+01:38:52,555 --> 01:38:54,182
+¿Qué hizo?
+
+1316
+01:38:55,425 --> 01:38:57,655
+Pidió tres vasos.
+
+1317
+01:38:58,861 --> 01:39:00,761
+Nosotros pedimos tres vasos.
+
+1318
+01:39:00,964 --> 01:39:02,932
+Ése es el tres alemán.
+
+1319
+01:39:03,833 --> 01:39:05,596
+El otro resulta extraño.
+
+1320
+01:39:06,202 --> 01:39:08,534
+Los alemanes lo notaron.
+
+1321
+01:39:17,146 --> 01:39:19,273
+Imaginemos que no había alemanes...
+
+1322
+01:39:19,349 --> 01:39:21,943
+...y todo salía bien.
+
+1323
+01:39:22,018 --> 01:39:23,918
+¿Qué seguía?
+
+1324
+01:39:24,153 --> 01:39:25,381
+Esmóquines.
+
+1325
+01:39:26,055 --> 01:39:28,819
+Llevarlos al estreno con uniformes
+militares...
+
+1326
+01:39:28,891 --> 01:39:31,758
+...con todos los militares ahí habría
+sido un suicidio.
+
+1327
+01:39:33,663 --> 01:39:36,928
+Pero como miembros
+de la industria del cine alemana...
+
+1328
+01:39:37,367 --> 01:39:40,530
+...encajarían si usaban esmóquines.
+
+1329
+01:39:42,005 --> 01:39:45,372
+Organicé con el sastre
+para probar tres esmóquines esta noche.
+
+1330
+01:39:46,409 --> 01:39:48,843
+¿Cómo los haría entrar al estreno?
+
+1331
+01:39:48,911 --> 01:39:50,538
+Dame mi bolso.
+
+1332
+01:40:00,423 --> 01:40:02,823
+El teniente Hicox sería mi acompañante.
+
+1333
+01:40:04,160 --> 01:40:08,153
+Los otros dos serían
+un camarógrafo alemán y su asistente.
+
+1334
+01:40:09,298 --> 01:40:10,959
+¿Aún puedes llevarnos al estreno?
+
+1335
+01:40:11,034 --> 01:40:14,197
+¿Habla alemán mejor que sus amigos? No.
+
+1336
+01:40:14,637 --> 01:40:16,832
+¿Me han disparado? Sí.
+
+1337
+01:40:17,373 --> 01:40:22,208
+No creo que pueda ir
+por una alfombra roja pronto.
+
+1338
+01:40:23,212 --> 01:40:25,646
+Mucho menos, mañana en la noche.
+
+1339
+01:40:38,528 --> 01:40:41,827
+Sin embargo, hay algo que no sabes.
+
+1340
+01:40:43,933 --> 01:40:47,994
+Hubo dos cambios en la Operación Kino.
+
+1341
+01:40:49,772 --> 01:40:54,772
+Uno, cambiaron el lugar,
+del Ritz a un cine más pequeño.
+
+1342
+01:40:55,378 --> 01:40:58,575
+¿Un cambio enorme en el último momento?
+No es muy alemán.
+
+1343
+01:40:58,648 --> 01:41:01,617
+¿Por qué Goebbels hace algo tan extraño?
+
+1344
+01:41:01,684 --> 01:41:05,415
+Debe tener algo que ver
+con el segundo cambio.
+
+1345
+01:41:05,788 --> 01:41:07,050
+¿Cuál?
+
+1346
+01:41:11,360 --> 01:41:13,954
+El Führer asistirá al estreno.
+
+1347
+01:41:14,730 --> 01:41:15,958
+Estuve pensando en mi posición...
+
+1348
+01:41:17,667 --> 01:41:20,983
+...con respecto al estreno en...
+
+1349
+01:41:20,984 --> 01:41:24,300
+...París de "Nation's Pride".
+
+1350
+01:41:25,842 --> 01:41:27,707
+Como pasaron las semanas...
+
+1351
+01:41:29,011 --> 01:41:31,605
+...y los estadounidenses están en la
+playa...
+
+1352
+01:41:32,715 --> 01:41:35,206
+...me encuentro pensando más y más...
+
+1353
+01:41:35,985 --> 01:41:37,316
+...sobre el soldado Zoller.
+
+1354
+01:41:38,654 --> 01:41:40,781
+El muchacho ha hecho
+algo tremendo por nosotros.
+
+1355
+01:41:42,658 --> 01:41:43,818
+Comienzo a pensar...
+
+1356
+01:41:44,093 --> 01:41:48,120
+...que mi participación en el
+acontecimiento puede ser significativa.
+
+1357
+01:41:48,698 --> 01:41:50,325
+Al diablo.
+
+1358
+01:41:58,975 --> 01:42:00,840
+¿Qué estás pensando?
+
+1359
+01:42:02,111 --> 01:42:04,306
+Pienso que una oportunidad
+para matar al tío Adolf...
+
+1360
+01:42:04,380 --> 01:42:06,280
+...cambia la situación.
+
+1361
+01:42:06,349 --> 01:42:08,010
+¿Qué quiere decir eso?
+
+1362
+01:42:08,084 --> 01:42:10,018
+Que nos harás entrar al estreno.
+
+1363
+01:42:10,086 --> 01:42:13,021
+Probablemente pierda la pierna.
+
+1364
+01:42:13,623 --> 01:42:16,023
+Adiós, carrera de actriz.
+Fue divertido mientras duró.
+
+1365
+01:42:16,092 --> 01:42:18,993
+¿Cómo esperas
+que camine por la alfombra roja?
+
+1366
+01:42:21,164 --> 01:42:24,156
+El médico sacará la bala de la pierna.
+
+1367
+01:42:24,233 --> 01:42:26,292
+Te pondrá un yeso...
+
+1368
+01:42:26,369 --> 01:42:28,496
+...y podrás contar
+que te rompiste la pierna escalando.
+
+1369
+01:42:28,571 --> 01:42:31,233
+Eso es de alemanes, ¿no?
+Les gusta escalar montañas.
+
+1370
+01:42:31,307 --> 01:42:34,606
+A mí no. Me gusta fumar,
+beber y comer en restaurantes.
+
+1371
+01:42:34,710 --> 01:42:36,507
+Pero te entiendo.
+
+1372
+01:42:36,746 --> 01:42:40,238
+Te llenaremos de morfina...
+
+1373
+01:42:40,316 --> 01:42:43,615
+...y cojearás por la alfombra roja.
+
+1374
+01:42:45,121 --> 01:42:48,386
+Sé que es una pregunta tonta,
+incluso antes de hacerla...
+
+1375
+01:42:48,457 --> 01:42:53,457
+...pero ¿hablan otro idioma?
+
+1376
+01:42:54,697 --> 01:42:56,961
+Ambos hablamos algo de italiano.
+
+1377
+01:42:57,033 --> 01:42:59,524
+Con un acento atroz, no hay dudas.
+
+1378
+01:43:01,270 --> 01:43:04,728
+Eso no arruina los planes.
+
+1379
+01:43:05,541 --> 01:43:08,374
+Los alemanes no tienen
+buen oído para el italiano.
+
+1380
+01:43:12,281 --> 01:43:16,115
+Murmurarán en italiano y pasarán
+descaradamente. ¿Ése es el plan?
+
+1381
+01:43:16,385 --> 01:43:17,977
+Básicamente.
+
+1382
+01:43:21,824 --> 01:43:22,848
+Suena bien.
+
+1383
+01:43:22,925 --> 01:43:25,325
+Suena horrible.
+¿Qué más haremos? ¿Ir a casa?
+
+1384
+01:43:25,394 --> 01:43:27,225
+No, eso suena bien.
+
+1385
+01:43:28,064 --> 01:43:31,966
+Si no lo arruinan, puedo hacerlos
+entrar.
+
+1386
+01:43:32,969 --> 01:43:34,027
+¿Quién hace qué?
+
+1387
+01:43:34,103 --> 01:43:38,267
+El que mejor habla italiano soy yo,
+seré tu acompañante.
+
+1388
+01:43:38,341 --> 01:43:41,469
+El segundo mejor es Donowitz,
+será el camarógrafo italiano.
+
+1389
+01:43:41,544 --> 01:43:44,536
+El tercero mejor es Omar.
+Será el asistente de Donny.
+
+1390
+01:43:45,114 --> 01:43:46,240
+Yo no hablo italiano.
+
+1391
+01:43:46,315 --> 01:43:49,716
+Como dije, eres el tercero mejor.
+No abras la boca.
+
+1392
+01:43:49,785 --> 01:43:51,309
+¿Por qué no empiezas a practicar ahora?
+
+1393
+01:43:58,961 --> 01:44:00,861
+Has avanzado en el mundo.
+
+1394
+01:44:03,032 --> 01:44:05,000
+Mírate, Teniente Primero.
+
+1395
+01:44:06,302 --> 01:44:10,295
+Y con tu historial
+de insubordinación. Admirable.
+
+1396
+01:44:15,811 --> 01:44:16,835
+Y ése se llama...
+
+1397
+01:44:16,912 --> 01:44:18,243
+...Wilhelm Wicki.
+
+1398
+01:44:18,781 --> 01:44:21,682
+Es un judío austríaco
+que emigró a Estados Unidos...
+
+1399
+01:44:21,917 --> 01:44:24,818
+...cuando las cosas empezaron
+a complicarse para los israelíes.
+
+1400
+01:44:25,054 --> 01:44:27,818
+Son los dos miembros alemanes
+de los Bastardos.
+
+1401
+01:44:28,391 --> 01:44:32,225
+Usan uniformes alemanes
+para emboscar escuadrones.
+
+1402
+01:44:32,895 --> 01:44:34,590
+¿Qué los trae hasta aquí?
+
+1403
+01:44:40,836 --> 01:44:42,394
+Pero no se ve así.
+
+1404
+01:44:45,708 --> 01:44:46,766
+Esto es extraño.
+
+1405
+01:45:03,025 --> 01:45:04,287
+Parece que falta alguien.
+
+1406
+01:45:05,161 --> 01:45:06,594
+Alguien elegante.
+
+1407
+01:45:08,364 --> 01:45:09,388
+¡Todos afuera!
+
+1408
+01:45:23,746 --> 01:45:26,146
+"Para Max, con amor."
+
+1409
+01:45:40,596 --> 01:45:42,723
+<i>Capítulo cinco</i>
+
+1410
+01:45:42,798 --> 01:45:47,798
+<i>LA VENGANZA DE LA CARA GIGANTE</i>
+
+1411
+01:45:50,239 --> 01:45:54,573
+<i>Noche de estreno de "NATION'S PRIDE"</i>
+
+1412
+01:47:18,894 --> 01:47:20,156
+Recuerda... en inglés.
+
+1413
+01:47:20,696 --> 01:47:21,696
+Sí.
+
+1414
+01:47:22,565 --> 01:47:23,623
+Acción.
+
+1415
+01:47:24,033 --> 01:47:25,193
+¿Cómo lo revelamos?
+
+1416
+01:47:26,469 --> 01:47:29,029
+Sólo un idiota suicida
+como nosotros revelaría esa filmación.
+
+1417
+01:47:29,872 --> 01:47:31,965
+Suponiendo que alguien revelara
+la filmación...
+
+1418
+01:47:32,041 --> 01:47:34,236
+...¿cómo obtenemos una impresión
+de 35 mm con sonido?
+
+1419
+01:47:34,577 --> 01:47:36,272
+Hallamos a alguien que revele...
+
+1420
+01:47:36,345 --> 01:47:38,074
+...y procese
+una impresión de 35 mm con sonido.
+
+1421
+01:47:38,781 --> 01:47:40,476
+Los obligamos a hacerlo...
+
+1422
+01:47:40,583 --> 01:47:41,641
+...o los matamos.
+
+1423
+01:47:45,521 --> 01:47:47,421
+¡Tráelo aquí!
+Pon su cabeza sobre esa mesa.
+
+1424
+01:47:48,858 --> 01:47:49,950
+Haces lo que te decimos...
+
+1425
+01:47:50,025 --> 01:47:51,993
+...o te clavamos esta hacha.
+
+1426
+01:47:52,094 --> 01:47:53,118
+No soy un colaborador.
+
+1427
+01:47:53,195 --> 01:47:55,425
+Marcel, ¿su esposa y sus hijos te
+conocen?
+
+1428
+01:47:55,498 --> 01:47:56,498
+Sí.
+
+1429
+01:47:56,565 --> 01:47:58,999
+Después de matar
+a este perro de los alemanes...
+
+1430
+01:47:59,235 --> 01:48:00,964
+...iremos a silenciarlos.
+
+1431
+01:49:40,970 --> 01:49:42,267
+Vamos, Jannings, muestra el anillo.
+
+1432
+01:49:42,871 --> 01:49:44,133
+Vamos. ¡Ahí va!
+
+1433
+01:49:45,207 --> 01:49:49,109
+Míralo, Fredrick.
+Es el mayor honor artístico que otorgo.
+
+1434
+01:49:49,244 --> 01:49:52,304
+- Yo también me siento muy honrado.
+- Lo mereces.
+
+1435
+01:49:52,514 --> 01:49:55,813
+Pero creo que habrá un nuevo candidato
+tras el estreno de hoy.
+
+1436
+01:50:17,039 --> 01:50:18,131
+Emmanuelle...
+
+1437
+01:50:19,208 --> 01:50:22,905
+...quiero presentarte
+al mejor actor del mundo...
+
+1438
+01:50:23,412 --> 01:50:24,470
+...Emil Jannings.
+
+1439
+01:50:24,880 --> 01:50:28,372
+Es un placer conocerla.
+
+1440
+01:50:28,817 --> 01:50:30,011
+Tiene un cine hermoso.
+
+1441
+01:50:42,331 --> 01:50:43,389
+Gracias, Hermann.
+
+1442
+01:51:14,930 --> 01:51:16,557
+Coronel Landa, tanto tiempo.
+
+1443
+01:51:17,566 --> 01:51:19,534
+Veo que está espectacular como siempre.
+
+1444
+01:51:22,237 --> 01:51:24,501
+¿Qué le ha pasado en la pierna?
+
+1445
+01:51:25,240 --> 01:51:29,700
+Un efecto secundario de las palizas
+que da en el cine alemán, no hay duda.
+
+1446
+01:51:30,379 --> 01:51:32,438
+No me halague.
+
+1447
+01:51:32,915 --> 01:51:37,545
+Conozco muchas de sus previas conquistas
+para creerle.
+
+1448
+01:51:37,820 --> 01:51:39,117
+En serio, ¿qué le pasó?
+
+1449
+01:51:40,289 --> 01:51:43,725
+Tontamente, intenté...
+
+1450
+01:51:45,127 --> 01:51:46,594
+...escalar una montaña.
+
+1451
+01:51:47,863 --> 01:51:49,023
+Y éste es el resultado.
+
+1452
+01:51:49,231 --> 01:51:50,231
+¿Escalar una montaña?
+
+1453
+01:51:50,299 --> 01:51:52,494
+¿Se lastimó la pierna
+escalando una montaña?
+
+1454
+01:51:52,568 --> 01:51:54,195
+Aunque no lo crea, sí.
+
+1455
+01:52:18,060 --> 01:52:21,461
+Disculpe, no quiero reírme de su
+infortunio.
+
+1456
+01:52:21,530 --> 01:52:23,293
+Es sólo que... ¿Escalar una montaña?
+
+1457
+01:52:24,700 --> 01:52:27,362
+Me da curiosidad, ¿qué le hizo...
+
+1458
+01:52:27,469 --> 01:52:29,664
+...intentar esa tontería?
+
+1459
+01:52:32,641 --> 01:52:34,871
+Puedo asegurar que no volveré a hacerlo.
+
+1460
+01:52:36,812 --> 01:52:38,746
+Ese yeso se ve muy fresco.
+
+1461
+01:52:39,381 --> 01:52:41,941
+¿Cuándo fue a escalar, anoche?
+
+1462
+01:52:43,485 --> 01:52:44,816
+Tiene muy buen ojo.
+
+1463
+01:52:45,854 --> 01:52:47,515
+Sucedió ayer en la mañana.
+
+1464
+01:52:48,090 --> 01:52:49,990
+¿En qué lugar de París está esta
+montaña?
+
+1465
+01:52:53,729 --> 01:52:56,197
+Sólo bromeo.
+
+1466
+01:52:56,398 --> 01:52:59,128
+Ya me conoce, hago bromas pesadas.
+
+1467
+01:52:59,434 --> 01:53:00,992
+¿Quiénes son sus apuestos acompañantes?
+
+1468
+01:53:03,372 --> 01:53:06,432
+Temo que ninguno de los tres habla
+una palabra de alemán.
+
+1469
+01:53:07,109 --> 01:53:08,872
+Son amigos míos de Italia.
+
+1470
+01:53:09,945 --> 01:53:14,945
+Un gran doble italiano maravilloso,
+Enzo Gorlomi.
+
+1471
+01:53:16,852 --> 01:53:19,878
+Un camarógrafo muy talentoso,
+Antonio Margheriti.
+
+1472
+01:53:21,223 --> 01:53:24,317
+Y el asistente de Antonio,
+Dominick Decocco.
+
+1473
+01:53:26,228 --> 01:53:28,958
+Caballeros, un viejo amigo...
+
+1474
+01:53:28,959 --> 01:53:31,689
+...el coronel Hans Landa, de la SS.
+
+1475
+01:53:33,035 --> 01:53:34,093
+Hola.
+
+1476
+01:53:34,770 --> 01:53:36,704
+Caballeros, es un placer...
+
+1477
+01:53:37,039 --> 01:53:39,132
+...los amigos de nuestra adorada
+estrella, admirada por todos...
+
+1478
+01:53:39,208 --> 01:53:40,971
+...esta joya de nuestra cultura...
+
+1479
+01:53:41,343 --> 01:53:43,573
+...estarán bajo mi protección...
+
+1480
+01:53:43,645 --> 01:53:45,340
+...personal durante su estadía.
+
+1481
+01:53:48,917 --> 01:53:49,975
+Gracias.
+
+1482
+01:53:52,421 --> 01:53:53,752
+¿Lo dije correctamente?
+
+1483
+01:53:55,157 --> 01:53:56,784
+Sí.
+
+1484
+01:53:59,161 --> 01:54:01,220
+Dígalo una vez, por favor...
+
+1485
+01:54:04,600 --> 01:54:05,794
+Disculpe, ¿qué?
+
+1486
+01:54:08,303 --> 01:54:09,702
+¿Una vez más?
+
+1487
+01:54:14,576 --> 01:54:16,066
+¿Cómo se llama?
+
+1488
+01:54:20,148 --> 01:54:21,206
+¿Otra vez?
+
+1489
+01:54:23,218 --> 01:54:26,984
+Una vez más, pero ¡quiero oír la música!
+
+1490
+01:54:32,160 --> 01:54:33,184
+Y ¿usted?
+
+1491
+01:54:37,833 --> 01:54:40,427
+Mis dos amigos camarógrafos deben
+hallar sus asientos.
+
+1492
+01:54:41,169 --> 01:54:43,433
+Déjeme ver sus entradas.
+
+1493
+01:54:45,874 --> 01:54:47,865
+Supongo que conseguir
+entradas para el estreno...
+
+1494
+01:54:47,943 --> 01:54:50,036
+...para sus amigos no le resultó
+difícil...
+
+1495
+01:54:50,112 --> 01:54:51,579
+...a una estrella de su nivel.
+
+1496
+01:54:52,281 --> 01:54:56,047
+0023 y 0024.
+
+1497
+01:54:56,151 --> 01:54:59,279
+No serán difíciles de encontrar, adiós.
+
+1498
+01:56:19,801 --> 01:56:22,133
+Danielle Darrieux.
+
+1499
+01:56:37,119 --> 01:56:38,746
+Debo bajar y socializar
+con esos cerdos hunos.
+
+1500
+01:56:39,588 --> 01:56:40,816
+Repasémoslo.
+
+1501
+01:56:42,591 --> 01:56:44,320
+El rollo número uno está
+en el primer proyector.
+
+1502
+01:56:45,427 --> 01:56:46,485
+El número dos...
+
+1503
+01:56:46,561 --> 01:56:48,119
+...está en el segundo.
+
+1504
+01:56:48,497 --> 01:56:49,862
+El tercero está en el carrete.
+
+1505
+01:56:52,267 --> 01:56:54,428
+Y el cuarto está listo.
+
+1506
+01:56:57,205 --> 01:56:59,105
+La batalla del gran tirador en la
+película...
+
+1507
+01:56:59,174 --> 01:57:01,404
+...empieza cerca de la mitad del tercer
+rollo.
+
+1508
+01:57:02,277 --> 01:57:04,302
+Nuestra película está en el cuarto
+rollo.
+
+1509
+01:57:05,080 --> 01:57:07,048
+En un punto al final del tercer rollo...
+
+1510
+01:57:07,115 --> 01:57:08,639
+...baja y traba las puertas del
+auditorio.
+
+1511
+01:57:09,284 --> 01:57:11,582
+Luego, ve a tu lugar detrás de la
+pantalla y espera mi señal.
+
+1512
+01:57:14,222 --> 01:57:15,689
+Luego quémalo.
+
+1513
+01:57:27,436 --> 01:57:28,436
+Siéntense.
+
+1514
+01:57:28,503 --> 01:57:30,403
+El espectáculo está por comenzar.
+
+1515
+01:57:31,039 --> 01:57:34,236
+Siéntense, por favor.
+El espectáculo está por comenzar.
+
+1516
+01:57:35,143 --> 01:57:36,143
+Hasta luego.
+
+1517
+01:57:36,211 --> 01:57:37,235
+No tan rápido.
+
+1518
+01:57:38,547 --> 01:57:39,707
+Una copa de champán...
+
+1519
+01:57:41,216 --> 01:57:42,740
+<i>...para brindar por "Nation's Pride".</i>
+
+1520
+01:57:50,358 --> 01:57:53,156
+¿Puedo hablarle en privado?
+
+1521
+01:57:55,063 --> 01:57:56,121
+Por supuesto.
+
+1522
+01:57:56,298 --> 01:57:57,356
+Permiso.
+
+1523
+01:58:10,045 --> 01:58:11,512
+Siéntese.
+
+1524
+01:58:16,451 --> 01:58:17,509
+¿Puedo?
+
+1525
+01:58:24,526 --> 01:58:26,118
+La Srta. Mimieux me permitió...
+
+1526
+01:58:26,194 --> 01:58:28,628
+...instalarme en su oficina
+temporalmente.
+
+1527
+01:58:37,572 --> 01:58:39,039
+Déjeme ver el pie.
+
+1528
+01:58:40,275 --> 01:58:41,333
+¿Disculpe?
+
+1529
+01:58:42,377 --> 01:58:43,810
+Ponga el pie sobre mi regazo.
+
+1530
+01:58:49,050 --> 01:58:50,813
+Hans, me avergüenza.
+
+1531
+01:59:22,083 --> 01:59:26,918
+¿Podría darme lo que hay...
+
+1532
+01:59:27,289 --> 01:59:28,779
+...en el bolsillo derecho de mi
+chaqueta?
+
+1533
+02:00:03,592 --> 02:00:04,650
+¿Puedo?
+
+1534
+02:00:23,945 --> 02:00:28,211
+¿Cómo dicen los estadounidenses?
+"Si el zapato le queda, debe usarlo."
+
+1535
+02:00:33,888 --> 02:00:35,446
+Ahora ¿qué?
+
+1536
+02:01:26,675 --> 02:01:28,040
+El tipo con la chaqueta de esmoquin
+blanca.
+
+1537
+02:01:31,713 --> 02:01:36,275
+Maldición.
+
+1538
+02:01:36,418 --> 02:01:38,409
+Desgraciado.
+
+1539
+02:01:41,356 --> 02:01:42,880
+Maldito.
+
+1540
+02:01:45,527 --> 02:01:49,623
+¡Malditos nazis! ¡Suéltenme!
+
+1541
+02:01:50,131 --> 02:01:53,623
+¡Suéltenme!
+
+1542
+02:02:00,375 --> 02:02:01,672
+Qué inteligente.
+
+1543
+02:02:03,878 --> 02:02:06,574
+Le informé al Führer
+que el público ya está ubicado.
+
+1544
+02:02:06,748 --> 02:02:08,079
+Llegará en cualquier momento.
+
+1545
+02:02:09,417 --> 02:02:10,441
+Gracias, Hans.
+
+1546
+02:02:12,220 --> 02:02:13,551
+Maldito alemán...
+
+1547
+02:02:13,621 --> 02:02:14,679
+Déjenlo.
+
+1548
+02:02:17,792 --> 02:02:22,320
+¿Teniente Aldo Raine, supongo?
+
+1549
+02:02:23,264 --> 02:02:24,629
+Hans Landa.
+
+1550
+02:02:26,801 --> 02:02:29,201
+Tuvo una buena racha.
+
+1551
+02:02:30,105 --> 02:02:32,938
+Lamentablemente, ahora está
+en manos de la SS.
+
+1552
+02:02:33,007 --> 02:02:34,565
+En mis manos, para ser exactos.
+
+1553
+02:02:34,642 --> 02:02:38,373
+Y he esperado mucho para tocarlo.
+
+1554
+02:02:42,250 --> 02:02:44,047
+Lo vi estremecerse.
+
+1555
+02:02:48,256 --> 02:02:50,451
+Vuelva a tocarme.
+
+1556
+02:03:06,307 --> 02:03:08,832
+- ¿Utivich?
+- ¿Eres tú, Teniente?
+
+1557
+02:03:08,910 --> 02:03:09,968
+Sí.
+
+1558
+02:03:10,578 --> 02:03:12,671
+¿Sabe qué le pasó a Donny?
+
+1559
+02:03:12,747 --> 02:03:13,839
+¿Omar?
+
+1560
+02:03:14,549 --> 02:03:16,881
+- ¿La mujer?
+- No.
+
+1561
+02:04:03,465 --> 02:04:06,992
+Dígame, Aldo, si yo estuviera en su
+lugar...
+
+1562
+02:04:07,068 --> 02:04:09,036
+...¿tendría piedad?
+
+1563
+02:04:13,641 --> 02:04:14,733
+No.
+
+1564
+02:04:15,410 --> 02:04:18,675
+¿Cuál es la frase sobre pies y zapatos?
+
+1565
+02:04:18,746 --> 02:04:22,273
+"Parece que el zapato está en el otro
+pie." Eso pensaba.
+
+1566
+02:04:22,484 --> 02:04:23,542
+Pueden retirarse.
+
+1567
+02:04:25,086 --> 02:04:26,144
+Pero estén alertas afuera.
+
+1568
+02:04:35,363 --> 02:04:38,230
+Así que es Aldo, el Apache.
+
+1569
+02:04:39,367 --> 02:04:42,359
+- Así que es el Cazador de judíos.
+- Soy un detective.
+
+1570
+02:04:42,437 --> 02:04:44,302
+Uno muy bueno.
+
+1571
+02:04:44,639 --> 02:04:46,231
+Mi especialidad es encontrar gente...
+
+1572
+02:04:46,307 --> 02:04:48,741
+...mi trabajo para los nazis era
+encontrar gente.
+
+1573
+02:04:48,810 --> 02:04:51,973
+Sí, algunos eran judíos.
+Pero ¿Cazador de judíos?
+
+1574
+02:04:53,281 --> 02:04:55,272
+Sólo un apodo que se generalizó.
+
+1575
+02:04:55,617 --> 02:04:58,415
+Debe admitir que es pegadizo.
+
+1576
+02:04:59,888 --> 02:05:03,051
+¿Controla los apodos
+que le ponen sus enemigos?
+
+1577
+02:05:03,124 --> 02:05:05,615
+¿Aldo, el Apache y el Hombrecito?
+
+1578
+02:05:06,728 --> 02:05:08,855
+¿Qué quiere decir con "el Hombrecito"?
+
+1579
+02:05:08,930 --> 02:05:10,727
+Es el apodo alemán.
+
+1580
+02:05:10,798 --> 02:05:13,858
+¿Los alemanes me llaman "el Hombrecito"?
+
+1581
+02:05:14,235 --> 02:05:18,763
+Por eso me sorprende ver lo alto que es.
+
+1582
+02:05:18,840 --> 02:05:21,274
+Es un hombrecito,
+pero no un enano de circo...
+
+1583
+02:05:21,342 --> 02:05:23,173
+...como su reputación implicaría.
+
+1584
+02:05:23,244 --> 02:05:24,939
+¿Dónde están mis hombres?
+
+1585
+02:05:25,313 --> 02:05:27,645
+¿Dónde está Bridget von Hammersmark?
+
+1586
+02:05:30,518 --> 02:05:33,715
+Digamos que obtuvo lo que merecía.
+
+1587
+02:05:36,190 --> 02:05:38,715
+Cuando compra amigos
+como Bridget von Hammersmark...
+
+1588
+02:05:38,793 --> 02:05:40,784
+...obtiene lo que paga.
+
+1589
+02:05:42,230 --> 02:05:47,224
+En cuanto a sus paisanos, el sargento
+Donowitz y el soldado Omar...
+
+1590
+02:05:47,302 --> 02:05:49,202
+¿Cómo sabe sus nombres?
+
+1591
+02:05:49,804 --> 02:05:51,396
+Teniente Aldo...
+
+1592
+02:05:53,274 --> 02:05:54,707
+...si no cree que interrogaría...
+
+1593
+02:05:54,776 --> 02:05:58,143
+...a cada sobreviviente
+que marcó con una esvástica...
+
+1594
+02:06:00,582 --> 02:06:04,143
+...es porque no estamos trabajando
+con el respeto mutuo que había supuesto.
+
+1595
+02:06:04,218 --> 02:06:05,810
+Supongo que no.
+
+1596
+02:06:06,020 --> 02:06:11,020
+Con respecto al paradero
+de sus dos saboteadores italianos.
+
+1597
+02:06:14,329 --> 02:06:16,092
+En este momento...
+
+1598
+02:06:16,164 --> 02:06:20,999
+...Omar y Donowitz deberían estar
+sentados donde los dejamos.
+
+1599
+02:06:21,636 --> 02:06:25,231
+Doble cero 23 y doble cero 24,
+si mal no recuerdo.
+
+1600
+02:06:26,007 --> 02:06:29,443
+Con explosivos en los tobillos,
+listos para explotar.
+
+1601
+02:06:29,510 --> 02:06:32,775
+Y su misión,
+que algunos llamarían terrorista...
+
+1602
+02:06:32,847 --> 02:06:35,372
+...hasta este momento, sigue en pie.
+
+1603
+02:06:35,450 --> 02:06:38,783
+<i>Qué historia emocionante.
+¿Qué sigue? ¿Eliza on Ice?</i>
+
+1604
+02:06:38,853 --> 02:06:40,081
+Sin embargo...
+
+1605
+02:06:41,990 --> 02:06:45,118
+...sólo debo tomar este teléfono...
+
+1606
+02:06:45,193 --> 02:06:48,026
+...informo al cine, y su plan se
+termina.
+
+1607
+02:06:50,431 --> 02:06:55,431
+Si siguen aquí y siguen vivos,
+y es un gran interrogante...
+
+1608
+02:06:56,971 --> 02:07:00,463
+...no hay forma de sacarlos
+sin detonar sus bombas.
+
+1609
+02:07:00,541 --> 02:07:02,304
+No lo dudo.
+
+1610
+02:07:02,377 --> 02:07:05,710
+Sí, morirán algunos alemanes,
+y se arruinará la velada.
+
+1611
+02:07:05,780 --> 02:07:08,681
+Y Goebbels se enojará mucho con usted...
+
+1612
+02:07:08,750 --> 02:07:11,082
+...por lo que le ha hecho a su gran
+noche.
+
+1613
+02:07:12,120 --> 02:07:14,418
+Pero no matará a Hitler, a Goebbels...
+
+1614
+02:07:14,489 --> 02:07:17,515
+...a Göring ni a Bormann.
+
+1615
+02:07:17,592 --> 02:07:20,288
+Y necesita a los cuatro
+para terminar la guerra.
+
+1616
+02:07:21,863 --> 02:07:25,060
+Pero si no tomo este teléfono...
+
+1617
+02:07:25,133 --> 02:07:27,431
+...tal vez mate a los cuatro.
+
+1618
+02:07:28,703 --> 02:07:33,538
+Si lo hace, terminará la guerra...
+
+1619
+02:07:34,809 --> 02:07:36,037
+...esta noche.
+
+1620
+02:07:37,412 --> 02:07:38,936
+Caballeros...
+
+1621
+02:07:39,681 --> 02:07:42,912
+...discutamos la posibilidad
+de terminar la guerra esta noche.
+
+1622
+02:07:45,787 --> 02:07:47,652
+Como yo lo veo...
+
+1623
+02:07:47,722 --> 02:07:51,920
+...como la muerte o el rescate de Hitler
+depende de mi reacción...
+
+1624
+02:07:52,593 --> 02:07:54,185
+...si no hago nada...
+
+1625
+02:07:54,595 --> 02:07:58,656
+...es como si yo causara su muerte
+más que ustedes, ¿verdad?
+
+1626
+02:07:59,300 --> 02:08:00,665
+Eso creo.
+
+1627
+02:08:03,237 --> 02:08:05,262
+Y ¿tú, Utivich?
+
+1628
+02:08:05,339 --> 02:08:06,931
+Eso creo.
+
+1629
+02:08:12,480 --> 02:08:13,708
+Caballeros, no tengo intención...
+
+1630
+02:08:13,781 --> 02:08:16,909
+...de matar a Hitler, Goebbels,
+Göring y Bormann...
+
+1631
+02:08:16,984 --> 02:08:19,748
+...ni hablar de ganar la guerra
+para los Aliados yo solo...
+
+1632
+02:08:19,821 --> 02:08:23,552
+...para encontrarme luego
+ante un tribunal judío.
+
+1633
+02:08:25,626 --> 02:08:29,187
+Si quieren ganar la guerra esta noche...
+
+1634
+02:08:30,832 --> 02:08:32,959
+...tenemos que hacer un pacto.
+
+1635
+02:08:36,003 --> 02:08:37,732
+¿Qué tipo de pacto?
+
+1636
+02:08:37,805 --> 02:08:40,365
+El que no tiene autoridad para hacer.
+
+1637
+02:08:40,441 --> 02:08:45,003
+Pero estoy seguro de que su misión tiene
+un oficial superior.
+
+1638
+02:08:45,980 --> 02:08:47,311
+Un general.
+
+1639
+02:08:48,015 --> 02:08:49,676
+Apuesto...
+
+1640
+02:08:51,385 --> 02:08:53,285
+...a que es la OSS.
+
+1641
+02:08:57,225 --> 02:08:59,693
+¡Es bingo!
+
+1642
+02:09:02,697 --> 02:09:05,188
+¿Se dice así?
+
+1643
+02:09:05,266 --> 02:09:07,166
+Sólo se dice "Bingo".
+
+1644
+02:09:07,235 --> 02:09:09,465
+¡Bingo! Qué divertido.
+
+1645
+02:09:11,906 --> 02:09:14,966
+Estoy divagando.
+¿En qué estábamos? En el pacto.
+
+1646
+02:09:15,543 --> 02:09:19,980
+Ahí hay una radio, y detrás...
+
+1647
+02:09:20,047 --> 02:09:24,177
+...hay un operador llamado Hermann.
+
+1648
+02:09:24,519 --> 02:09:26,885
+Llame a alguien al otro lado de la
+radio...
+
+1649
+02:09:26,954 --> 02:09:30,014
+...con el poder de refrendar...
+
+1650
+02:09:30,091 --> 02:09:33,026
+...las condiciones de mi rendición
+condicional.
+
+1651
+02:09:33,094 --> 02:09:35,494
+Si así les suena mejor.
+
+1652
+02:09:36,297 --> 02:09:37,559
+De donde yo vengo...
+
+1653
+02:09:37,632 --> 02:09:39,532
+¿De dónde, exactamente?
+
+1654
+02:09:39,600 --> 02:09:41,659
+Maynardville, Tennessee.
+
+1655
+02:09:41,736 --> 02:09:44,170
+Ya he contrabandeado lo suficiente.
+
+1656
+02:09:44,405 --> 02:09:48,068
+Ahí, si alguien hace algo
+que el gobierno federal llama ilegal...
+
+1657
+02:09:48,142 --> 02:09:50,269
+...pero es para mantener a la familia...
+
+1658
+02:09:50,344 --> 02:09:54,781
+...como vender alcohol,
+uno debe mantenerse alerta.
+
+1659
+02:09:56,717 --> 02:10:00,448
+Para abreviar, si una historia suena
+demasiado buena para ser cierta...
+
+1660
+02:10:00,822 --> 02:10:02,255
+...es porque no lo es.
+
+1661
+02:10:03,891 --> 02:10:06,689
+En su lugar, yo diría lo mismo...
+
+1662
+02:10:06,761 --> 02:10:11,460
+...y casi siempre tendría razón.
+
+1663
+02:10:13,467 --> 02:10:17,028
+Pero en la historia, a veces...
+
+1664
+02:10:17,638 --> 02:10:21,005
+...el destino ayuda.
+
+1665
+02:10:27,849 --> 02:10:29,817
+¿Qué dirán los libros de historia?
+
+1666
+02:10:56,677 --> 02:10:59,874
+<i>Se lo ruego. Debemos destruir esa torre.</i>
+
+1667
+02:11:01,315 --> 02:11:02,907
+<i>Sargento, esa torre...</i>
+
+1668
+02:11:22,503 --> 02:11:24,403
+<i>¡La torre seguirá!</i>
+
+1669
+02:11:26,674 --> 02:11:27,698
+¿Goma?
+
+1670
+02:12:14,889 --> 02:12:15,947
+Es hora.
+
+1671
+02:12:17,758 --> 02:12:21,194
+Debo ir a cerrar el auditorio
+y ubicarme detrás de la pantalla.
+
+1672
+02:14:04,098 --> 02:14:06,293
+Cuando escriban
+la historia militar de esta noche...
+
+1673
+02:14:06,367 --> 02:14:10,064
+...dirán que yo fui parte de la
+Operación Kino...
+
+1674
+02:14:10,137 --> 02:14:12,935
+...como doble agente desde el principio.
+
+1675
+02:14:13,007 --> 02:14:17,034
+Todo lo que hice
+en mi fachada de Coronel de la SS...
+
+1676
+02:14:17,111 --> 02:14:20,171
+...la OSS lo declaró un mal necesario...
+
+1677
+02:14:20,247 --> 02:14:22,943
+...para establecer
+mi cubierta con los alemanes.
+
+1678
+02:14:23,184 --> 02:14:26,483
+Que yo pusiera
+la dinamita del teniente Raine...
+
+1679
+02:14:26,554 --> 02:14:29,523
+...en el palco de Hitler y Goebbels
+aseguró su muerte.
+
+1680
+02:14:30,524 --> 02:14:33,186
+Le informé al Führer
+que el público está ubicado.
+
+1681
+02:14:33,260 --> 02:14:35,125
+Llegará en cualquier momento.
+
+1682
+02:14:36,063 --> 02:14:37,291
+Gracias, Hans.
+
+1683
+02:14:46,640 --> 02:14:49,666
+Esa última parte es cierta.
+
+1684
+02:14:49,743 --> 02:14:54,680
+Quiero mi pensión militar completa
+y los beneficios por mi rango.
+
+1685
+02:14:55,015 --> 02:14:57,415
+Quiero recibir
+la Medalla de Honor del Congreso...
+
+1686
+02:14:57,485 --> 02:15:01,444
+...por mi invaluable ayuda
+para derribar al Tercer Reich.
+
+1687
+02:15:02,890 --> 02:15:05,984
+De hecho, quiero que todos los miembros
+de la Operación Kino...
+
+1688
+02:15:06,060 --> 02:15:08,995
+...la reciban.
+
+1689
+02:15:09,396 --> 02:15:13,093
+Ciudadanía completa. Eso es obvio.
+
+1690
+02:15:13,400 --> 02:15:16,631
+Y quiero que los Estados Unidos...
+
+1691
+02:15:16,704 --> 02:15:20,765
+...me compre una propiedad en
+Nantucket...
+
+1692
+02:15:20,841 --> 02:15:24,140
+...como recompensa por las innumerables
+vidas que he salvado...
+
+1693
+02:15:24,211 --> 02:15:26,543
+...al terminar con la tiranía...
+
+1694
+02:15:26,614 --> 02:15:30,243
+...del Partido Nacional Socialista.
+¿Entendió todo?
+
+1695
+02:15:32,019 --> 02:15:35,477
+Yo también ansío verlo.
+
+1696
+02:15:36,390 --> 02:15:38,585
+¿El teniente Raine? Aquí está.
+
+1697
+02:15:41,795 --> 02:15:43,023
+Sí, señor.
+
+1698
+02:15:43,097 --> 02:15:44,980
+<i>El coronel Landa lo pondrá como
+prisionero...</i>
+
+1699
+02:15:44,981 --> 02:15:46,863
+<i>...en un camión, junto al soldado
+Utivich.</i>
+
+1700
+02:15:46,934 --> 02:15:51,303
+<i>Él y el operador de radio los conducirán
+a nuestras líneas.</i>
+
+1701
+02:15:51,372 --> 02:15:55,968
+<i>Al cruzar, el coronel Landa y su hombre
+se rendirán.</i>
+
+1702
+02:15:56,043 --> 02:15:58,603
+<i>Usted conducirá el camión...</i>
+
+1703
+02:15:58,679 --> 02:16:02,080
+<i>...y me los traerá para interrogarlos.
+¿Entendido, Teniente?</i>
+
+1704
+02:16:02,149 --> 02:16:03,275
+Sí, señor.
+
+1705
+02:16:03,350 --> 02:16:04,817
+<i>Cambio y fuera.</i>
+
+1706
+02:16:29,310 --> 02:16:32,643
+Disculpe, Dr. Goebbels.
+¿Podría salir un momento?
+
+1707
+02:16:33,581 --> 02:16:34,980
+Es perfectamente comprensible.
+
+1708
+02:16:35,049 --> 02:16:37,711
+Sal ahora,
+nos veremos después del espectáculo.
+
+1709
+02:17:44,485 --> 02:17:45,543
+¿Quién es?
+
+1710
+02:17:48,355 --> 02:17:49,355
+Diablos.
+
+1711
+02:17:53,961 --> 02:17:56,555
+¿Es la gerente?
+Quiero que me devuelvan el dinero.
+
+1712
+02:17:56,630 --> 02:17:58,723
+El actor de la película es pésimo.
+
+1713
+02:18:00,467 --> 02:18:01,695
+¿Qué hace aquí?
+
+1714
+02:18:01,769 --> 02:18:03,100
+Vine a visitarla.
+
+1715
+02:18:04,204 --> 02:18:05,466
+¿No ve que estoy muy ocupada?
+
+1716
+02:18:05,539 --> 02:18:07,439
+Me permitieron venir a ayudar.
+
+1717
+02:18:08,309 --> 02:18:10,470
+No es gracioso, no puede estar aquí.
+
+1718
+02:18:11,111 --> 02:18:13,477
+Es su estreno,
+debe estar ahí, con ellos.
+
+1719
+02:18:16,550 --> 02:18:18,313
+Normalmente, tendría razón.
+
+1720
+02:18:18,819 --> 02:18:20,719
+Y con todas las demás películas...
+
+1721
+02:18:20,788 --> 02:18:23,689
+...toleraré noches
+como ésta como es debido.
+
+1722
+02:18:25,859 --> 02:18:27,087
+Sin embargo...
+
+1723
+02:18:28,162 --> 02:18:30,824
+...esta película se basa
+en mis logros militares.
+
+1724
+02:18:30,898 --> 02:18:34,527
+En este caso, mis logros fueron
+matar a muchos hombres.
+
+1725
+02:18:36,003 --> 02:18:38,028
+Esta parte de la película...
+
+1726
+02:18:40,441 --> 02:18:41,931
+...no me gusta verla.
+
+1727
+02:18:43,644 --> 02:18:45,475
+- Lo siento, pero...
+- Pensé...
+
+1728
+02:18:45,813 --> 02:18:48,338
+...en venir aquí
+y hacer lo que sé hacer mejor...
+
+1729
+02:18:48,415 --> 02:18:49,643
+...molestarla.
+
+1730
+02:18:50,517 --> 02:18:53,486
+Por su expresión,
+no he perdido mi toque.
+
+1731
+02:18:55,189 --> 02:18:57,157
+¿Se acostumbró tanto
+a que los nazis lo adulen...
+
+1732
+02:18:57,224 --> 02:18:59,283
+...que olvidó el significado de "no"?
+
+1733
+02:18:59,360 --> 02:19:01,294
+¡No puede estar aquí!
+
+1734
+02:19:01,462 --> 02:19:02,520
+¡Váyase!
+
+1735
+02:19:05,466 --> 02:19:06,558
+Me lastima.
+
+1736
+02:19:06,867 --> 02:19:11,167
+Es bueno ver que puede sentir algo.
+
+1737
+02:19:12,005 --> 02:19:13,870
+Aunque sólo sea dolor físico.
+
+1738
+02:19:14,541 --> 02:19:16,509
+A mí no se me dice que me vaya.
+
+1739
+02:19:17,478 --> 02:19:19,810
+¡Más de trescientos cadáveres en
+Italia...
+
+1740
+02:19:19,880 --> 02:19:21,643
+...lo atestiguan!
+
+1741
+02:19:24,284 --> 02:19:25,751
+Después de lo que he hecho por usted...
+
+1742
+02:19:25,819 --> 02:19:27,844
+...¡me falta el respeto!
+
+1743
+02:19:28,188 --> 02:19:29,519
+Cierre la puerta.
+
+1744
+02:19:29,823 --> 02:19:30,881
+¿Qué?
+
+1745
+02:19:32,159 --> 02:19:33,159
+Cierre la puerta.
+
+1746
+02:19:33,227 --> 02:19:34,888
+No tenemos mucho tiempo.
+
+1747
+02:19:37,531 --> 02:19:38,589
+¿Para qué?
+
+1748
+02:19:39,566 --> 02:19:40,624
+¡Olvídelo!
+
+1749
+02:19:40,901 --> 02:19:42,129
+No... espere.
+
+1750
+02:19:43,737 --> 02:19:45,671
+¿Quiere que cierre la puerta?
+
+1751
+02:19:46,407 --> 02:19:47,567
+Sí.
+
+1752
+02:21:48,996 --> 02:21:51,590
+Cuando lo mate, tendrás 10 metros para
+llegar al guardia.
+
+1753
+02:21:51,665 --> 02:21:53,633
+- ¿Puedes hacerlo?
+- Debo hacerlo.
+
+1754
+02:22:23,864 --> 02:22:25,195
+¿Champán?
+
+1755
+02:22:46,887 --> 02:22:48,855
+¡Simplemente extraordinario!
+
+1756
+02:22:49,423 --> 02:22:51,323
+Su mejor película hasta ahora.
+
+1757
+02:22:52,693 --> 02:22:54,126
+Gracias, mi Führer.
+
+1758
+02:22:56,229 --> 02:22:57,229
+Gracias.
+
+1759
+02:23:17,050 --> 02:23:19,746
+<i>¿Quién quiere enviarle
+un mensaje a Alemania?</i>
+
+1760
+02:23:20,587 --> 02:23:22,919
+<i>Yo tengo un mensaje para Alemania.</i>
+
+1761
+02:23:26,393 --> 02:23:28,623
+<i>Que todos van a morir.</i>
+
+1762
+02:23:29,663 --> 02:23:30,994
+¡Suficiente! ¡Basta!
+
+1763
+02:23:31,064 --> 02:23:32,326
+¡Apaguen el proyector!
+
+1764
+02:23:32,399 --> 02:23:37,399
+<i>Quiero que miren
+la cara de la judía que lo hará.</i>
+
+1765
+02:23:37,938 --> 02:23:39,838
+No sé qué sucede.
+¡Eso no es de mi película!
+
+1766
+02:23:39,906 --> 02:23:42,966
+<i>Quémalo, Marcel.</i>
+
+1767
+02:23:43,977 --> 02:23:45,467
+Sí, Shosanna.
+
+1768
+02:24:20,947 --> 02:24:23,074
+<i>Me llamo Shosanna Dreyfus...</i>
+
+1769
+02:24:23,450 --> 02:24:25,008
+<i>...y ésta es la cara...</i>
+
+1770
+02:24:26,987 --> 02:24:29,319
+<i>...de la venganza judía.</i>
+
+1771
+02:26:25,338 --> 02:26:27,806
+Las líneas estadounidenses, Coronel.
+
+1772
+02:26:28,909 --> 02:26:30,342
+Excelente, Hermann.
+
+1773
+02:26:34,981 --> 02:26:36,778
+Hermann, desespósalos.
+
+1774
+02:26:55,435 --> 02:26:59,428
+Oficialmente me rindo ante usted,
+teniente Raine.
+
+1775
+02:27:00,540 --> 02:27:02,337
+Somos sus prisioneros.
+
+1776
+02:27:03,176 --> 02:27:04,905
+¿Qué hay de mi cuchillo?
+
+1777
+02:27:10,851 --> 02:27:12,842
+Muchas gracias, Coronel.
+
+1778
+02:27:12,919 --> 02:27:15,979
+Utivich, esposa las manos
+del Coronel detrás de su espalda.
+
+1779
+02:27:16,056 --> 02:27:18,286
+¿Es realmente necesario?
+
+1780
+02:27:18,358 --> 02:27:20,451
+Soy esclavo de las apariencias.
+
+1781
+02:27:23,630 --> 02:27:25,689
+Arráncale la cabellera a Hermann.
+
+1782
+02:27:26,800 --> 02:27:28,461
+¿Está loco?
+
+1783
+02:27:28,835 --> 02:27:30,564
+¿Qué ha hecho?
+
+1784
+02:27:31,104 --> 02:27:34,403
+¡Hice un pacto con su general
+por la vida de ese hombre!
+
+1785
+02:27:35,508 --> 02:27:38,909
+Sí, lo pactaron. Pero él no les importa.
+Lo necesitan a usted.
+
+1786
+02:27:38,979 --> 02:27:40,947
+¡Lo fusilarán por esto!
+
+1787
+02:27:41,581 --> 02:27:45,108
+No lo creo. Me reprenderán.
+Ya lo han hecho.
+
+1788
+02:27:46,419 --> 02:27:50,617
+Utivich y yo oímos que hizo un pacto con
+el oficial superior.
+
+1789
+02:27:51,057 --> 02:27:53,025
+¿Terminar la guerra esta noche?
+
+1790
+02:27:54,227 --> 02:27:55,785
+Yo haría ese pacto.
+
+1791
+02:27:55,862 --> 02:27:57,762
+¿Qué hay de ti, Utivich?
+¿Harías ese pacto?
+
+1792
+02:27:57,831 --> 02:28:01,358
+- Lo haría.
+- No te culpo. Es un buen pacto.
+
+1793
+02:28:02,135 --> 02:28:05,263
+Y fue provechoso.
+
+1794
+02:28:05,338 --> 02:28:08,739
+Si está dispuesto a asar
+a todo el alto mando...
+
+1795
+02:28:08,808 --> 02:28:11,800
+...supongo que eso vale
+ciertas consideraciones.
+
+1796
+02:28:12,545 --> 02:28:14,638
+Pero tengo una pregunta.
+
+1797
+02:28:15,715 --> 02:28:18,479
+Cuando llegue a su casa en Nantucket...
+
+1798
+02:28:18,551 --> 02:28:23,113
+...imagino que se quitará
+ese bonito uniforme de la SS.
+
+1799
+02:28:23,189 --> 02:28:24,520
+¿Verdad?
+
+1800
+02:28:28,495 --> 02:28:30,360
+Eso pensé.
+
+1801
+02:28:31,097 --> 02:28:32,997
+No puedo aprobar eso.
+
+1802
+02:28:34,401 --> 02:28:36,699
+¿Tú puedes, Utivich?
+
+1803
+02:28:36,770 --> 02:28:38,635
+Para nada, señor.
+
+1804
+02:28:40,287 --> 02:28:42,371
+Si por mí fuera...
+
+1805
+02:28:42,872 --> 02:28:47,334
+...usaría ese uniforme
+el resto de su maldita vida.
+
+1806
+02:28:48,837 --> 02:28:49,837
+Pero sé que no es práctico.
+
+1807
+02:28:49,916 --> 02:28:52,976
+En algún punto, tendrá que quitárselo.
+
+1808
+02:28:53,053 --> 02:28:54,145
+Entonces...
+
+1809
+02:28:55,121 --> 02:28:58,852
+...le daré algo que no pueda quitarse.
+
+1810
+02:29:23,788 --> 02:29:25,914
+¿Sabes algo, Utivich?
+
+1811
+02:29:26,291 --> 02:29:29,084
+Creo que ésta es mi obra maestra.
+
+1812
+02:29:32,452 --> 02:29:42,400
+*TheSubFactory*
+*Un nuevo mundo en subtítulos*
+
